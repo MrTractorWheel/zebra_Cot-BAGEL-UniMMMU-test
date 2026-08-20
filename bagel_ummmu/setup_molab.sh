@@ -28,17 +28,26 @@ fi
 # ----------------------------------------------------------------------
 # 2) Python dependencies
 #    RTX 6000 Pro Blackwell is sm_120 -> needs torch built with CUDA 12.8+.
-#    (The repo's pinned torch==2.5.1 will NOT work on this GPU.)
+#    molab containers ship a Blackwell-ready torch already; only install torch
+#    if it is missing (avoid downgrading/conflicting with the preinstalled one).
 # ----------------------------------------------------------------------
-pip install -U pip
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+python -c "import torch" 2>/dev/null || {
+  echo "== torch not found; installing cu128 build =="
+  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+}
 pip install -r "$SCRIPT_DIR/requirements_molab.txt"
 
 # flash-attn is required by BAGEL's attention implementation.
 # Try a prebuilt wheel first; fall back to compiling for sm_120 (can take 30-60 min).
 python -c "import flash_attn" 2>/dev/null || {
   echo "== Installing flash-attn (may compile from source for sm_120; be patient) =="
-  MAX_JOBS="$(nproc)" TORCH_CUDA_ARCH_LIST="12.0+PTX" pip install flash-attn --no-build-isolation
+  MAX_JOBS="$(nproc)" TORCH_CUDA_ARCH_LIST="12.0+PTX" pip install flash-attn --no-build-isolation || {
+    echo ""
+    echo "ERROR: flash-attn install failed. Likely causes: no prebuilt wheel for this"
+    echo "torch/CUDA/Python combo and no nvcc available for a source build."
+    echo "Check 'which nvcc' and report the error above."
+    exit 1
+  }
 }
 
 # ----------------------------------------------------------------------
