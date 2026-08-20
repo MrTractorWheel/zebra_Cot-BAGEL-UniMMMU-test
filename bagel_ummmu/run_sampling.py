@@ -28,6 +28,7 @@ import argparse
 import glob
 import json
 import re
+import subprocess
 import sys
 import time
 import traceback
@@ -56,12 +57,32 @@ UMMMU_ROOT: Optional[Path] = None
 OUT_BASE: Optional[Path] = None
 LIMIT: Optional[int] = None
 DEADLINE_TS: Optional[float] = None  # epoch seconds; stop starting new cases after this
+SYNC_CMD: Optional[str] = None       # shell command to persist outputs (e.g. git push)
+SYNC_INTERVAL_S: float = 20 * 60
+_LAST_SYNC_TS: float = 0.0
 
 TASK_ORDER = ["science", "math", "code", "jigsaw", "sliding", "maze"]
 
 
 def out_of_time() -> bool:
     return DEADLINE_TS is not None and time.time() >= DEADLINE_TS
+
+
+def maybe_sync(force: bool = False) -> None:
+    """Run SYNC_CMD (if configured) at most every SYNC_INTERVAL_S. Non-fatal:
+    a failed sync must never kill the sampling run."""
+    global _LAST_SYNC_TS
+    if not SYNC_CMD:
+        return
+    now = time.time()
+    if not force and now - _LAST_SYNC_TS < SYNC_INTERVAL_S:
+        return
+    _LAST_SYNC_TS = now
+    print(f"[sync] {SYNC_CMD}", flush=True)
+    try:
+        subprocess.run(SYNC_CMD, shell=True, check=False, timeout=1800)
+    except Exception as e:
+        print(f"[sync] failed (non-fatal): {e}", flush=True)
 
 
 def ensure_dir(p: Path) -> Path:
@@ -80,6 +101,7 @@ def write_json(obj: Any, path: Path) -> None:
 
 def log_case(task: str, case_id: str, status: str, t0: float) -> None:
     print(f"[{task}] {case_id}: {status} ({time.time() - t0:.1f}s)", flush=True)
+    maybe_sync()
 
 
 # ======================================================================
@@ -912,7 +934,7 @@ TASK_FUNCS = {
 
 
 def main():
-    global BACKEND, UMMMU_ROOT, OUT_BASE, LIMIT, DEADLINE_TS
+    global BACKEND, UMMMU_ROOT, OUT_BASE, LIMIT, DEADLINE_TS, SYNC_CMD, SYNC_INTERVAL_S
 
     ap = argparse.ArgumentParser(description="Uni-MMMU sampling with Bagel-Zebra-CoT")
     ap.add_argument("--checkpoint-dir", required=True,
@@ -936,6 +958,11 @@ def main():
     ap.add_argument("--time-budget-hours", type=float, default=None,
                     help="Stop starting new cases after this many hours (leave margin before "
                          "the session limit; finished cases are resumed next run)")
+    ap.add_argument("--sync-cmd", default=None,
+                    help="Shell command run periodically (and at the end) to persist outputs, "
+                         "e.g. 'bash outputs_git.sh push'. Failures are non-fatal.")
+    ap.add_argument("--sync-interval-min", type=float, default=20.0,
+                    help="Minimum minutes between --sync-cmd invocations")
     args = ap.parse_args()
 
     UMMMU_ROOT = Path(args.ummmu_root).resolve()
@@ -943,6 +970,10 @@ def main():
     LIMIT = args.limit
     if args.time_budget_hours:
         DEADLINE_TS = time.time() + args.time_budget_hours * 3600
+    SYNC_CMD = args.sync_cmd
+    SYNC_INTERVAL_S = max(1.0, args.sync_interval_min) * 60
+    if SYNC_CMD:
+        print(f"[main] output sync every >={args.sync_interval_min:g} min: {SYNC_CMD}")
 
     tasks = TASK_ORDER if args.task.strip().lower() == "all" else [
         t.strip().lower() for t in args.task.split(",") if t.strip()
@@ -985,6 +1016,7 @@ def main():
     for t, s in results.items():
         print(f"  {t}: {s}")
     write_json(results, OUT_BASE / "run_status.json")
+    maybe_sync(force=True)
 
 
 if __name__ == "__main__":

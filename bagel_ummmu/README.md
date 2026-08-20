@@ -25,7 +25,8 @@ Files here:
 | `bagel_backend.py` | Loads Bagel-Zebra-CoT (port of `infz_bf16.py`) and implements the two generation primitives via `InterleaveInferencer` |
 | `run_sampling.py` | All 6 task loops (faithful ports of the official templates), resumable, with a session time budget |
 | `setup_molab.sh` | One-time setup: repos, Blackwell-compatible PyTorch, flash-attn, checkpoint (~30 GB), dataset |
-| `run_sampling.sh` | Sampling launcher with logging |
+| `run_sampling.sh` | Sampling launcher with logging + automatic GitHub output sync |
+| `outputs_git.sh` | Persists `outputs/` to an `outputs` branch on GitHub (restore/push) |
 | `run_eval.sh` | Evaluation launcher (patches the eval script for a single 96 GB GPU) |
 | `requirements_molab.txt` | Python deps (torch installed separately for sm_120) |
 
@@ -34,20 +35,21 @@ Files here:
 Upload this `bagel_ummmu/` folder to your molab instance, then:
 
 ```bash
-# Point WORK_DIR at persistent storage so downloads/outputs survive session restarts!
-export WORK_DIR=$HOME/bagel_ummmu
+export WORK_DIR=/marimo/bagel_work        # molab working directory
 
-# --- Session 0 (setup + smoke test, ~1-2h incl. downloads) ---
+# GitHub output sync (STRONGLY recommended on molab - see "Persistence" below):
+export GITHUB_TOKEN=ghp_...               # PAT with write access; never commit it
+export OUTPUTS_REPO=youruser/yourrepo     # e.g. MrTractorWheel/zebra_Cot-BAGEL-UniMMMU-test
+
+# --- Every session start (setup is idempotent; re-downloads whatever got wiped) ---
 bash setup_molab.sh
 bash run_sampling.sh --task science --limit 2      # smoke test: check outputs look sane
 
-# --- Session 1 (sampling) ---
-bash run_sampling.sh --task all --time-budget-hours 11
-
-# --- Session 2 (sampling, resumes automatically; repeat until "completed") ---
-bash run_sampling.sh --task all --time-budget-hours 11
+# --- Sampling sessions (repeat until every task reports "completed") ---
+bash run_sampling.sh --task all --time-budget-hours 10.5
 
 # --- Final session (evaluation with quantized judges) ---
+bash outputs_git.sh restore     # bring all sampled outputs back from GitHub
 bash run_eval.sh
 ```
 
@@ -107,9 +109,25 @@ run it as its own session via `run_eval.sh`.
 - `--model-name` — output folder name; must match `MODEL_NAME` in `run_eval.sh`.
 - Re-running after an error is always safe (resume markers).
 - To force a case to re-run, delete its `case_*/` folder (or just `_done.ok`).
-- If molab storage is ephemeral, archive progress before the session ends:
-  `tar -cf outputs.tar -C $WORK_DIR/Uni-MMMU outputs` and download it; extract
-  it back at the start of the next session.
+
+## Persistence on molab (important!)
+
+molab restarts keep small text files (`.py`, `.md`, ...) but **wipe `.git`
+directories, images and large binaries**. Consequences:
+
+- **Outputs → GitHub.** With `GITHUB_TOKEN` + `OUTPUTS_REPO` set,
+  `run_sampling.sh` restores previous outputs from the `outputs` branch of your
+  repo at start, then commits + pushes new results every ~15 min and at the end
+  (`outputs_git.sh`). A crash or session kill loses at most the last few cases.
+  Resume markers (`_done.ok`) travel with the outputs, so resuming across
+  sessions works out of the box.
+- **Checkpoint + dataset → re-downloaded.** The ~30 GB checkpoint can't live on
+  GitHub; `setup_molab.sh` is idempotent, so just re-run it at each session
+  start (budget ~20-40 min). Use `--time-budget-hours 10.5` to leave margin.
+- **Code repo → re-cloned.** The clone's `.git` dir is wiped too; the notebook
+  clone cell must delete the stale folder and re-clone when `.git` is missing.
+- The token goes in an environment variable / molab secret only — never commit
+  it to the notebook or repo.
 
 ## Caveats for interpreting scores
 
