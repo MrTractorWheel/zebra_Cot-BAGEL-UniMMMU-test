@@ -1,0 +1,22 @@
+<think>The problem asks for the length of AC in an isosceles right triangle configuration. We are given that $\triangle ABC$ and $\triangle ADE$ are isosceles right triangles with $\angle BAC = \angle DAE = 90^\circ$. Point C lies on side DE, and the ratio $EC:CD = 1:2$. We are also given $AD = 3$. We need to find the length of AC.
+
+We are asked to draw the auxiliary line BD. This line will help us establish relationships between the triangles and their sides.
+
+Let $EC = x$. Since $EC:CD = 1:2$, we have $CD = 2x$. Therefore, $DE = EC + CD = x + 2x = 3x$.
+Since $\triangle ADE$ is an isosceles right triangle with $\angle DAE = 90^\circ$, its legs are equal. Thus, $AD = AE$. We are given $AD = 3$, so $AE = 3$.
+In an isosceles right triangle, the hypotenuse is $\sqrt{2}$ times the length of a leg. Therefore, $DE = \sqrt{2} \cdot AD = \sqrt{2} \cdot 3 = 3\sqrt{2}$. Since $DE = 3x$, we have $3x = 3\sqrt{2}$, so $x = \sqrt{2}$.
+Therefore, $EC = x = \sqrt{2}$.
+Since $\triangle ABC$ is an isosceles right triangle with $\angle BAC = 90^\circ$, its legs are equal. Thus, $AB = AC$.
+We need to find $AC$.
+We will use the Law of Cosines in $\triangle ABD$ and $\triangle ABC$.
+First, let's find $BD$.
+In $\triangle ABD$, we have $AD = 3$, $AB = AC$ (from $\triangle ABC$), and $\angle BAD = \angle BAC - \angle CAD = 90^\circ - \angle CAD$.
+In $\triangle ACD$, we have $AD = 3$, $AC = AB$, and $\angle CAD = \angle DAE - \angle CAE = 90^\circ - \angle CAE$.
+Since $\triangle ADE$ is isosceles right, $\angle DAE = 90^\circ$ and $\angle ADE = \angle AED = 45^\circ$.
+Since $\triangle ABC$ is isosceles right, $\angle BAC = 90^\circ$ and $\angle ABC = \angle ACB = 45^\circ$.
+Let $\angle CAD = \alpha$. Then $\angle BAD = 90^\circ - \alpha$.
+Let $\angle CAE = \beta$. Then $\angle BAE = \angle BAC + \angle CAE = 90^\circ + \beta$.
+Since $\triangle ADE$ is isosceles right, $\angle ADE = \angle AED = 45^\circ$.
+Since $\triangle ABC$ is isosceles right, $\angle ABC = \angle ACB = 45^\circ$.
+Since $\angle ADE = \angle ABC = 45^\circ$, and $\angle ADE$ is an exterior angle for $\triangle ABD$ at D, we have $\angle ADE = \angle BAD + \angle ABD$.
+So, $45^\circ = (90^\circ - \alpha) + \angle

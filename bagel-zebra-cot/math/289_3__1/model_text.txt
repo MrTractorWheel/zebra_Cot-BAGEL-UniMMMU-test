@@ -1,0 +1,31 @@
+<think>The problem asks for the length of BD, given that AB is the diameter of circle O, arc AD = arc CD, ∠E=90°, AB=4, BE=3. We need to find BD.
+
+We are given that arc AD = arc CD. This implies that the chords AD and CD are equal in length, so AD = CD. This is a key property of circles: equal arcs subtend equal chords.
+
+We are also given that ∠E = 90°. This means that triangle ECD is a right-angled triangle at E.
+
+We need to find the length of BD. Let's consider the triangle ABD. Since AB is the diameter of the circle, by the Thales' theorem, angle ADB is a right angle (90°). So, triangle ABD is a right-angled triangle at D.
+
+Now, let's analyze the lengths of the sides. We are given AB = 4. Since AB is the diameter, the radius of the circle is AB/2 = 4/2 = 2. Therefore, AO = OB = OD = OC = 2.
+
+We are given BE = 3. Since E is a point on the line segment BC (as shown in the diagram), and BE = 3, then BC = BE - EC. However, we need to find EC.
+
+Let's consider the right-angled triangle ECD. We need to find EC. We can use the Pythagorean theorem in triangle ECD. We know that ∠E = 90°, so ED² + EC² = CD².
+
+We need to find CD. Since arc AD = arc CD, AD = CD. Let's denote AD = CD = x.
+
+Now, let's consider the right-angled triangle ABD. We have AD = x, AB = 4, and ∠ADB = 90°. Using the Pythagorean theorem in triangle ABD, we get AD² + BD² = AB². Substituting the known values, we have x² + BD² = 4² = 16. So, BD² = 16 - x².
+
+We need to find x. Let's consider the right-angled triangle ECD. We have ED² + EC² = CD² = x². We need to find ED and EC.
+
+Let's consider the line segment EC. Since E is on BC, and BE = 3, we need to find EC. Let's denote EC = y. Then, BC = BE - EC = 3 - y.
+
+Now, let's consider the right-angled triangle ECD. We have ED² + EC² = CD² = x². We need to find ED and EC.
+
+Let's consider the line segment ED. Since E is on the line segment BC, and we have a right-angled triangle ECD, we can use the Pythagorean theorem in triangle ECD. We have ED² + EC² = CD² = x². We need to find ED and EC.
+
+Let's consider the line segment ED. Since E is on the line segment BC, and we have a right-angled triangle ECD, we can use the Pythagorean theorem in triangle ECD. We have ED² + EC² = CD² = x². We need to find ED and EC.
+
+Let's consider the line segment ED. Since E is on the line segment BC, and we have a right-angled triangle ECD, we can use the Pythagorean theorem in triangle ECD. We have ED² + EC² = CD² = x². We need to find ED and EC.
+
+Let's consider the line segment ED

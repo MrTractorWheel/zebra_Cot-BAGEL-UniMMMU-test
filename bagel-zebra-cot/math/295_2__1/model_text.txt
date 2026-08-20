@@ -1,0 +1,19 @@
+<think>The problem asks for the measure of ∠ABD. We are given that BD is a tangent to the circle at B, and that ∠BCE = 25°. We need to find a relationship between ∠ABD and ∠BCE to solve this. We will use the properties of tangents and circles.
+
+First, we connect OB. Since OB is a radius of the circle and BD is a tangent at B, the radius is perpendicular to the tangent at the point of tangency. Therefore, ∠OBD = 90°.
+
+Next, we consider the inscribed angle ∠BCE. The measure of an inscribed angle is half the measure of its intercepted arc. The arc intercepted by ∠BCE is arc BE. So, ∠BCE = 1/2 ∠BOE.
+
+We are given that ∠BCE = 25°. Therefore, 25° = 1/2 ∠BOE. Solving for ∠BOE, we get ∠BOE = 2 * 25° = 50°.
+
+Now, we need to find ∠ABD. We can express ∠ABD as the sum of two angles: ∠ABO and ∠OBD. We already know that ∠OBD = 90°. We need to find ∠ABO.
+
+Since OA and OB are both radii of the circle, OA = OB. Therefore, triangle OAB is isosceles with OA = OB. In an isosceles triangle, the base angles are equal. So, ∠OAB = ∠OBA.
+
+We can find ∠OAB by considering the inscribed angle ∠BCE again. The arc intercepted by ∠BCE is arc BE. The arc intercepted by ∠BAE is the same arc BE. Therefore, ∠BAE = ∠BCE = 25°.
+
+Now, we can find ∠OAB. Since ∠OAB is an inscribed angle that intercepts arc BE, and ∠BAE is also an inscribed angle that intercepts arc BE, we have ∠OAB = ∠BAE = 25°.
+
+Since triangle OAB is isosceles with OA = OB, ∠OAB = ∠OBA = 25°.
+
+Now, we can find ∠ABD. We have ∠ABD = ∠ABO + ∠OBD. We found ∠ABO = 25° and ∠OBD = 90°. Therefore, ∠ABD = 25° + 90° = 115°.</think>

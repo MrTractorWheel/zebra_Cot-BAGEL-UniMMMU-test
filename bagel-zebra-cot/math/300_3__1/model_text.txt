@@ -1,0 +1,6 @@
+<think>The problem asks for the measure of ∠ABC in a cyclic quadrilateral ABCD inscribed in a semicircle with AB as the diameter. We are given that point C is the midpoint of arc BD and ∠BCD = 140°. We need to use the properties of cyclic quadrilaterals and the given information to find ∠ABC. We will use the following steps:
+1. Identify the properties of the cyclic quadrilateral and the semicircle.
+2. Use the given angle ∠BCD to find ∠BAC.
+3. Use the fact that C is the midpoint of arc BD to find ∠BOC and ∠AOC.
+4. Use the properties of the semicircle and the angles in the triangle OBC to find ∠ABC.
+Let's draw the line AC as specified in the problem.</think>

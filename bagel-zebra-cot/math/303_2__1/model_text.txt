@@ -1,0 +1,3 @@
+<think>The problem asks for the measure of ∠DAC. We are given that AD is the diameter of the circle, so ∠ACD is a right angle (90°) because an angle inscribed in a semicircle is a right angle. We are also given that ∠B = 40°. We need to find a way to relate ∠B to ∠DAC. The construction of CD helps us see that ∠B and ∠D are angles subtended by the same arc, so they are equal. Therefore, ∠D = ∠B = 40°. Since ∠ACD is 90°, we can find ∠DAC by subtracting ∠D from 90°.
+
+Let's visualize the construction of CD.</think>

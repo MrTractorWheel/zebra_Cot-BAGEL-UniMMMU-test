@@ -1,0 +1,4 @@
+<think>The problem asks for the measure of ∠BAC in a circle with center O, where C lies on AB. We are given ∠AOB = 120° and ∠ABC = 22°. We need to find ∠BAC.
+First, we draw the auxiliary line OC. Since OA and OB are radii of the circle, OA = OB. This means triangle OAB is isosceles with OA = OB. In an isosceles triangle, the base angles are equal. Thus, ∠OAB = ∠OBA.
+We know the measure of the central angle ∠AOB is 120°. In any triangle, the sum of the angles is 180°. So, in triangle OAB, ∠OAB + ∠OBA + ∠AOB = 180°. Substituting the known values, we get 2∠OAB + 120° = 180°. Solving for ∠OAB, we subtract 120° from both sides: 2∠OAB = 180° - 120° = 60°. Then, we divide by 2: ∠OAB = 60° / 2 = 30°. So, ∠OAB = 30°.
+Now, we need to find ∠BAC. We know that ∠BAC = ∠OAB - ∠ABC. We have already found ∠OAB = 30°, and we are given ∠ABC = 22°. Substituting these values, we get ∠BAC = 30° - 22° = 8°.</think>

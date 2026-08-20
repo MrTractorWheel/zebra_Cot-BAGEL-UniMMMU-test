@@ -1,0 +1,9 @@
+<think>The problem asks for the length of AD in an isosceles triangle OAB with ∠AOB=120°, where C is the midpoint of OA and D is the intersection of OB with ☉O. We are given OC=4. We will use the auxiliary line AG perpendicular to BO.
+
+Let’s analyze the geometry. Let’s denote the radius of ☉O as r. Since C is the midpoint of OA, OA=2OC=8. Since OA=OB (isosceles triangle), OB=8. Since O is the center of ☉O, OC=OD=r. Since C is the midpoint of OA, OC=4, so r=4. Thus, OA=OB=8, OC=OD=4.
+
+Let’s consider the properties of the circle and the triangle. Since OA=OB and ∠AOB=120°, triangle OAB is isosceles with ∠OAB=∠OBA=30°. Since AG is perpendicular to BO, triangle AGB is a right-angled triangle with ∠AGB=90°.
+
+Let’s consider the coordinates. Let’s place point O at the origin (0,0). Let’s place point B on the x-axis at (8,0). Since ∠AOB=120°, point A will be at (8cos(120°), 8sin(120°)) = (8*(-1/2), 8*(√3/2)) = (-4, 4√3). Point C is the midpoint of OA, so C = ((-4+0)/2, (4√3+0)/2) = (-2, 2√3). Point D is the intersection of OB with ☉O. Since OB is from (0,0) to (8,0), and the circle has center O and radius 4, the intersection point D is at (4,0).
+
+Now, we need to find the length of AD. Point A is (-4, 4√3) and point D is (4,0). The distance between A and D is √[(4 - (-4))^2 + (0 - 4√3)^2] = √[(8)^2 + (-4√3)^2] = √[64 + 48] = √112 = 4√7.</think>
