@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 shows a vase, matching the left wall texture. Candidate 1 shows a person, which does not match the left wall texture."}</FINAL_ANSWER_JSON>

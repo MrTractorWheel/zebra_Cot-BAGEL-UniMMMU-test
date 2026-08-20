@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 seamlessly integrates, matching textures, colors, and the crest's structure."}</FINAL_ANSWER_JSON>
