@@ -1,0 +1,2 @@
+<think>The task is to render the provided SVG code. The code defines a 512x512 canvas with a white background. There is a large white rectangle covering the entire canvas and a green circle with a radius of 56, centered at (193, 328). The green circle is the only colored object, and it is placed in the center of the canvas.
+I will now render the final image based on this description.</think>

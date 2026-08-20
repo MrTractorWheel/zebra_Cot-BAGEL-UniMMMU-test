@@ -1,0 +1,1 @@
+<think>Summary: A 512x512 grid with a black background. A large white square covers the entire canvas. A smaller purple triangle is placed in the top-left corner. A smaller orange triangle is placed in the top-right corner. A smaller red triangle is placed in the bottom-left corner.</think>

@@ -1,0 +1,1 @@
+<think>Final Answer: <RENDER_SUMMARY>Black background, green rectangle, orange circle, blue line, red line, blue path, red path.</think>

@@ -1,0 +1,1 @@
+<think>The problem requires rendering an SVG image without using external tools. I will parse the provided SVG source code and generate a visual representation of the final image. The code defines a canvas with a white background, a dark blue rectangle, a red circle, and a blue polygon. The visual output will be a simple geometric composition.</think>
