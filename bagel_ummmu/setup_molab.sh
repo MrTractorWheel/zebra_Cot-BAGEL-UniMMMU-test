@@ -38,14 +38,20 @@ python -c "import torch" 2>/dev/null || {
 pip install -r "$SCRIPT_DIR/requirements_molab.txt"
 
 # flash-attn is required by BAGEL's attention implementation.
-# Try a prebuilt wheel first; fall back to compiling for sm_120 (can take 30-60 min).
-python -c "import flash_attn" 2>/dev/null || {
+# Check the actual symbol BAGEL uses (a bare `import flash_attn` can succeed on a
+# broken/namespace package). Try a prebuilt wheel first; fall back to compiling
+# for sm_120 (can take 30-60 min).
+python -c "from flash_attn import flash_attn_varlen_func" 2>/dev/null || {
   echo "== Installing flash-attn (may compile from source for sm_120; be patient) =="
   MAX_JOBS="$(nproc)" TORCH_CUDA_ARCH_LIST="12.0+PTX" pip install flash-attn --no-build-isolation || {
     echo ""
     echo "ERROR: flash-attn install failed. Likely causes: no prebuilt wheel for this"
     echo "torch/CUDA/Python combo and no nvcc available for a source build."
     echo "Check 'which nvcc' and report the error above."
+    exit 1
+  }
+  python -c "from flash_attn import flash_attn_varlen_func" || {
+    echo "ERROR: flash-attn installed but flash_attn_varlen_func still not importable."
     exit 1
   }
 }
@@ -94,7 +100,13 @@ print("device:", torch.cuda.get_device_name(0))
 cap = torch.cuda.get_device_capability(0)
 print("compute capability:", cap)
 import flash_attn
-print("flash_attn", flash_attn.__version__)
+from flash_attn import flash_attn_varlen_func
+try:
+    import importlib.metadata
+    _v = importlib.metadata.version("flash-attn")
+except Exception:
+    _v = "unknown"
+print("flash_attn", _v, "at", flash_attn.__file__)
 x = torch.randn(8, 8, device="cuda", dtype=torch.bfloat16)
 print("bf16 matmul ok:", (x @ x).shape)
 EOF
