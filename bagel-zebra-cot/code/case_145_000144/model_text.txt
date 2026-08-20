@@ -1,0 +1,1 @@
+<think>The task is to render the given SVG code, which consists of a white background and a red circle. The circle is centered at (341, 206) with a radius of 35. I will render the image and then output a summary and the final image.</think>

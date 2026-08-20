@@ -1,0 +1,5 @@
+<think>The task is to render the given SVG code without using any image rendering tools. I will follow the provided rules and steps to determine the final image.
+First, I will analyze the SVG code. The viewBox is set to [0,0,512,512], which means the canvas will be 512x512 pixels. The background is white, as specified by the <rect> element.
+The only visible element is a circle with a fill of #3498DB (a shade of blue) and a radius of 73, centered at (93, 197) in the user coordinate system. The stroke is set to "none", so no outline will be drawn.
+The circle is positioned at (93, 197) with a radius of 73. This places the circle's center towards the left and slightly below the center of the 512x512 canvas. The circle will occupy a significant portion of the canvas, leaving a white background around it.
+The final image will be a 512x512 pixel square where a blue circle is centered towards the left and slightly below the center, leaving a white background elsewhere.</think>

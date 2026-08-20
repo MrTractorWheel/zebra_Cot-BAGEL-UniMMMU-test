@@ -1,0 +1,1 @@
+<think>The task is to render the provided SVG using the given rules. The SVG contains a white background, four orange circles, and no other elements. The circles are placed at (60,256), (163,256), (266,256), and (369,256) with a radius of 40. The viewBox is set to 0,0,512,512, which means the canvas size is 512x512 pixels.</think>

@@ -1,0 +1,7 @@
+<think>The problem requires me to render the provided SVG code without using external tools. I need to carefully parse the code, applying the rendering rules step-by-step.
+First, I'll examine the SVG structure and identify the main elements: a canvas, a background rectangle, and several identical circle elements. The circles are defined in a template (`<defs>`) and then referenced multiple times.
+The canvas has a viewBox of `0,0,512,512`, which means all coordinates are relative to this viewbox. The background is a solid white rectangle filling the entire canvas.
+The first circle is placed at the center of the viewbox (30,30) with a radius of 30. Its fill is `#34495E` and it has no stroke.
+The subsequent circles are rotated by 30°, 45°, 30°, 45°, and 30°, respectively, around the point (124,256). This means each circle is rotated relative to the previous one, creating a star-like pattern.
+The final set of circles is rotated by 30°, 45°, 30°, 45°, and 30°, respectively, around the point (346,256). This pattern is mirrored on the right side of the canvas.
+The final image will be a star-like shape composed of multiple overlapping circles, with the outermost circles being the largest and the innermost circles being the smallest.</think>

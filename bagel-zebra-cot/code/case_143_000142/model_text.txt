@@ -1,0 +1,2 @@
+<think>The task is to render the given SVG code without using external tools. I will follow the provided rules and generate a textual summary and a final image. The SVG contains a canvas with a white background, a large white rectangle, and three colored polygons. The polygons are positioned at different locations and have varying colors.
+I will now generate the final image based on the provided SVG code.</think>

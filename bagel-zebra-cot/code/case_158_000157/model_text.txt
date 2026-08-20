@@ -1,0 +1,2 @@
+<think>The problem requires rendering the provided SVG code without using external tools. The task is to determine the final visual state of the rendered image based on the given SVG source code.
+The provided SVG code defines a simple geometric shape: a large white rectangle with a smaller red rectangle inside it, and a yellow polygon on top of the red rectangle.</think>

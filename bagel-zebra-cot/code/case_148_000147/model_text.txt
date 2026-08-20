@@ -1,0 +1,2 @@
+<think>Final Answer: <RENDER_SUMMARY>…</RENDER_SUMMARY> (≤60 words, objective, deterministic description of the final image)
+<svg> containing 5 identical red circles, each rotated by 15°, 30°, 30°, 30°, and 30°, respectively, from (20,226) to (312,226) on a white background.</think>
