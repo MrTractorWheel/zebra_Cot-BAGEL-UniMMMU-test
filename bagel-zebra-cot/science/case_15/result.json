@@ -1,0 +1,16 @@
+{
+  "id": "case_15",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c009_5c58e1ee09.png",
+  "condition": "Scenario 9: Freshwater with oil-on-water layering; wood and copper coin.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Floating and sinking"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15/model_image_01.png"
+  ],
+  "errors": []
+}

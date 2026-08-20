@@ -1,0 +1,16 @@
+{
+  "id": "case_08",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d02_c005_25df55f569.png",
+  "condition": "A glass bottle with a cork stopper fitted tightly in the neck; A small air space exists above the liquid. The bottle will not undergo any changes such as breakage Heating the bottle for a sufficient amount of time and at a high temperature;",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Thermal expansion and contraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08/model_image_01.png"
+  ],
+  "errors": []
+}

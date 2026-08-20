@@ -1,0 +1,16 @@
+{
+  "id": "case_12",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d03_c004_b4264d62fd.png",
+  "condition": "A graphite rod is clamped horizontally. The left end is heated; the right end presses a block of candle wax. Maintain the flame on the near end for a sufficiently long time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Heat conduction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12/model_image_01.png"
+  ],
+  "errors": []
+}

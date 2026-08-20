@@ -1,0 +1,16 @@
+{
+  "id": "case_07",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/ice-cream.png",
+  "condition": "After the temperature exceeds 100 degrees Celsius for a period of time, draw the result",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07/model_image_01.png"
+  ],
+  "errors": []
+}

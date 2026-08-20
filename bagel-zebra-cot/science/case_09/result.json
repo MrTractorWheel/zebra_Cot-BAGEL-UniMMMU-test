@@ -1,0 +1,16 @@
+{
+  "id": "case_09",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d02_c009_23d64df3ba.png",
+  "condition": "A small balloon attached to a fixed stand; There is some air in the balloon. At first, it was at room temperature and pressure, and then Place the balloon in a 45 ° C environment for several minutes",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Thermal expansion and contraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09/model_image_01.png"
+  ],
+  "errors": []
+}

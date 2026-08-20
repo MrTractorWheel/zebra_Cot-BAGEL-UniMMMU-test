@@ -1,0 +1,2 @@
+<think>The problem describes a glass bottle with a cork stopper, containing a liquid with a small air space above it. The condition specifies heating the bottle. I need to determine the outcome of heating the bottle under these conditions.
+Heating the bottle will cause the liquid to expand. This expansion will push against the cork stopper. If the cork is not properly seated or if the bottle is not designed to withstand the pressure, the cork may pop out.</think>

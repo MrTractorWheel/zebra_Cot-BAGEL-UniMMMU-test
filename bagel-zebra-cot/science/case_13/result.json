@@ -1,0 +1,16 @@
+{
+  "id": "case_13",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d03_c005_7c0c318102.png",
+  "condition": "An iron rod is clamped horizontally. The left end is heated; the right end rests against a slice of yellow cheddar cheese. Maintain the flame on the near end for a sufficiently long time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Heat conduction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13/model_image_01.png"
+  ],
+  "errors": []
+}

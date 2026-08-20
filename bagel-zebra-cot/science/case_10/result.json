@@ -1,0 +1,16 @@
+{
+  "id": "case_10",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/rail-cold.png",
+  "condition": "This is the state of the railway track during a cold winter day. Draw the state of the railway track during a hot summer day.",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Thermal expansion and contraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10/model_image_01.png"
+  ],
+  "errors": []
+}

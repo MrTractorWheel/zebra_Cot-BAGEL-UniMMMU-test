@@ -1,0 +1,16 @@
+{
+  "id": "case_05",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c008_f3b486f267.png",
+  "condition": "A small metallic gallium block in a shallow glass dish at room temperature. Carefully heat to 40°C and maintain for a sufficient time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05/model_image_01.png"
+  ],
+  "errors": []
+}

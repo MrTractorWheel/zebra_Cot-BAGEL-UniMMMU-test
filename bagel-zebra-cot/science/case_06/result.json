@@ -1,0 +1,16 @@
+{
+  "id": "case_06",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c012_9de6eabcf8.png",
+  "condition": "A small sugar cube on a metal spoon above a gentle flame. Heat to 190°C and maintain",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06/model_image_01.png"
+  ],
+  "errors": []
+}

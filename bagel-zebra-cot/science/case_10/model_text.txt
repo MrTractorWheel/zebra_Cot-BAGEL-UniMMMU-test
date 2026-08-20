@@ -1,0 +1,3 @@
+<think>The condition describes a change in environmental conditions from winter to summer. In winter, the metal parts of the railway track are likely to be cold and could be covered in frost or ice. In summer, the temperature is higher, and the metal parts will be warmer, potentially causing any ice or frost to melt.
+
+To visualize the final state, I will generate an image that shows the railway track under a hot summer day. This means the metal parts should appear warmer and possibly have a different texture or coloration compared to the cold winter state.</think>
