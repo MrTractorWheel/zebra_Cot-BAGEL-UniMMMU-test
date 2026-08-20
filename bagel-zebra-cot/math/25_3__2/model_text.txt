@@ -1,0 +1,23 @@
+<think>The problem asks for the length of AD in a circle with inscribed quadrilateral ABCD, where AD is the diameter. We are given that ∠BAP+∠DCE=90°, sinBAC=1/3, and BC=2. We need to find AD. The problem is a geometry problem, and we will use the given information and properties of circles and triangles to solve it. We will use the auxiliary line CF, which is the extension of DC to intersect the extension of AB at point F. This line will help us establish relationships between angles and sides in the diagram.
+
+We are given that AD is the diameter of the circle. By the property of a circle, an angle inscribed in a semicircle is a right angle. Therefore, ∠ACD=90°. This means that triangle ACD is a right-angled triangle with the right angle at C.
+
+We are given that sinBAC=1/3. In triangle ABC, sinBAC is the ratio of the length of the side opposite angle BAC (which is BC) to the length of the hypotenuse (which is AC). So, sinBAC=BC/AC. Since BC=2, we have 1/3=2/AC. Solving for AC, we get AC=6.
+
+We are also given that ∠BAP+∠DCE=90°. We need to find a way to relate this information to other angles in the diagram. We will use the fact that AD is the diameter of the circle and the properties of cyclic quadrilaterals.
+
+Since AD is the diameter, ∠ACD=90°, as established earlier. This means that AC is perpendicular to CD. Now, consider the angles ∠BAP and ∠DCE. We are given that their sum is 90°. Let's analyze the angles in the diagram.
+
+Consider triangle ACF. Since AD is the diameter, ∠ACF=90° (as established by the property of angles inscribed in a semicircle). Therefore, triangle ACF is a right-angled triangle with the right angle at C.
+
+Now, let's consider the angles ∠BAP and ∠DCE. We are given that ∠BAP+∠DCE=90°. We need to find a way to relate these angles to other angles in the diagram.
+
+Consider the angles ∠BAP and ∠BCF. Since ∠BAP+∠DCE=90°, and ∠DCE=∠BCF (as they are vertically opposite angles), we have ∠BAP+∠BCF=90°. This means that ∠BAP and ∠BCF are complementary.
+
+Now, consider triangle ABF. Since ∠BAP+∠BCF=90°, and ∠BCF is an angle in triangle ABF, we can relate this to the angles in triangle ABF.
+
+Consider the angles ∠BAP and ∠ABF. Since ∠BAP+∠BCF=90°, and ∠BCF=∠ABF (as they are angles in the same segment of the circle), we have ∠BAP+∠ABF=90°. This means that ∠BAP and ∠ABF are complementary.
+
+Now, consider triangle ABF. Since ∠BAP+∠ABF=90°, and ∠ABF is an angle in triangle ABF, we can relate this to the angles in triangle ABF.
+
+Consider the angles ∠BAP and ∠AFB. Since ∠BAP+∠AB

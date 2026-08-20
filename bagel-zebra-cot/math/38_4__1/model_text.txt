@@ -1,0 +1,25 @@
+<think>The problem asks to prove that AE is tangent to ☉O. We are given that BD is the diameter of ☉O, so ∠BCD = 90° (angle in a semicircle). Since AE ⊥ CD, ∠E = 90°. We need to show that ∠OAE = 90°, which would imply that AE is tangent to ☉O at A (since OA is a radius).
+
+First, since BD is the diameter, ∠BCD = 90° (angle in a semicircle). Thus, BC ⊥ CD.
+
+Next, since AE ⊥ CD, we have AE ∥ BC (both perpendicular to CD). Therefore, ∠EAD = ∠BCD = 90° (alternate interior angles).
+
+Now, we know that ∠BCD = 90°, so ∠BDC + ∠CBD = 90° (angles in a right-angled triangle). Since BD is a diameter, ∠BAD = 90° (angle in a semicircle). Thus, ∠ABD + ∠ADB = 90° (angles in a right-angled triangle).
+
+Since DA bisects ∠BDE, ∠ADE = ∠ADB (angle bisector property). Therefore, ∠ADE + ∠ABD = 90°.
+
+From ∠ADE + ∠ABD = 90° and ∠ABD + ∠ADB = 90°, we can deduce that ∠ADE = ∠ADB (both equal to 90° - ∠ABD).
+
+Since ∠ADE = ∠ADB, AD = AB (angles opposite equal sides in a triangle). Thus, ∠ABD = ∠ADB (angles opposite equal sides in a triangle).
+
+Now, ∠ABD + ∠ADB = 90°, so ∠ABD = ∠ADB = 45°.
+
+Since ∠ADE = ∠ADB = 45°, and ∠EAD = 90°, we have ∠EAD + ∠ADE = 135°.
+
+Since ∠EAD = 90°, ∠EAD + ∠ADE = 135°, and ∠EAD + ∠OAE = 180° (since AE is a straight line), we can find ∠OAE.
+
+Let ∠OAE = x. Then, 90° + x = 180°, so x = 90°. Therefore, ∠OAE = 90°.
+
+Since OA is a radius of ☉O and ∠OAE = 90°, AE is tangent to ☉O at A. (A line is tangent to a circle if it is perpendicular to the radius at the point of contact).
+
+CONCLUSION: AE is tangent to ☉O.</think>

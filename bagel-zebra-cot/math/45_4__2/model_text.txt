@@ -1,0 +1,27 @@
+<think>The problem asks to prove that CG=CH. We are given that ∠BAD and ∠BED are supplementary. We are also given that AE and BD are altitudes. Let's analyze the given information and the diagram.
+
+First, let's consider the angles. Since AE is an altitude, ∠AEB=90°. Similarly, BD is an altitude, so ∠BDA=90°. The problem states that ∠BAD and ∠BED are supplementary. We can write this as:
+∠BAD + ∠BED = 180°
+
+Now, let's consider the angles in the quadrilateral ABDE. The sum of the interior angles of a quadrilateral is 360°. So, in quadrilateral ABDE, we have:
+∠BAD + ∠BDA + ∠DEB + ∠EBA = 360°
+
+We know that ∠BDA=90° and ∠DEB=∠BED (since they are the same angle). We also know that ∠EBA=∠EBC (since BD is an altitude, ∠EBC=90°, and ∠EBA is part of ∠EBC). So, we can rewrite the equation as:
+∠BAD + 90° + ∠BED + ∠EBC = 360°
+∠BAD + ∠BED + ∠EBC = 270°
+
+We are given that ∠BAD + ∠BED = 180°. Substituting this into the equation above:
+180° + ∠EBC = 270°
+∠EBC = 90°
+
+Since ∠EBC=90°, and BD is an altitude, this means that BC is a diameter of the circle (since the angle subtended by a diameter in a circle is 90°). Therefore, ∠BGC=90° (angle in a semicircle).
+
+Now, consider the circle and the points G, H, C, and B. Since GH is a chord passing through D and E, and D and E are on the circle, GH is a secant line. The angle subtended by an arc at the center is twice the angle subtended at the circumference. So, ∠GHC = ∠GBC (angles subtended by the same arc GC).
+
+Since BC is a diameter, ∠BGC=90°. Therefore, ∠GHC = 90°.
+
+Now, consider triangles GCH and GCH. We need to show that CG=CH. Let's look at the angles in these triangles. Since ∠GHC=90°, and ∠GHC is subtended by arc GC, and ∠GHC is also subtended by arc GH. Since GH is a chord, the angles subtended by the same arc are equal. So, ∠GHC=∠GHC (which is redundant, but it shows the principle).
+
+Now, let's consider the angles ∠GCH and ∠GHC. Since ∠GHC=90°, and ∠GCH is subtended by arc GH, and ∠GCH is also subtended by arc GC. Since GH is a chord, the angles subtended by the same arc are equal. So, ∠GCH=∠GCH.
+
+Now, consider the angles ∠GCH and ∠GHC. Since ∠GHC=90°, and ∠GCH is subtended by arc GH, and ∠GCH is also subtended by arc GC. Since GH is a

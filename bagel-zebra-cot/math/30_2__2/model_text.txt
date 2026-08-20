@@ -1,0 +1,21 @@
+<think>The problem asks for the lengths of AB and DE. We are given that AC is the diameter of the circle, so ∠ADC = 90°. Thus, AD is perpendicular to BC. Since CE is parallel to AB, ∠ECD = ∠B. We are also given that ∠B = ∠ADE. Therefore, ∠ECD = ∠ADE. This implies that DE = CE. Let’s construct the auxiliary line AE.
+
+Let’s analyze the right triangle ADC. We are given CD = 3. Let’s denote AD = x. Then, AC = √(AD^2 + CD^2) = √(x^2 + 3^2) = √(x^2 + 9).
+
+Since CE is parallel to AB, ∠ECD = ∠B. We are given that ∠B = ∠ADE. Thus, ∠ECD = ∠ADE. Since ∠ECD = ∠ADE, and ∠ECD is an angle in triangle CDE, and ∠ADE is an angle in triangle ADE, we can relate the sides of these triangles. However, a more direct approach is to use the properties of the circle and the parallel lines.
+
+Let’s consider the circle with diameter AC. Since AC is a diameter, any angle subtended by AC at the circumference is a right angle. Thus, ∠AEC = 90°. Since CE is parallel to AB, ∠ECA = ∠BAC (alternate interior angles). Let’s denote ∠BAC = α. Then, ∠ECA = α.
+
+Now, consider triangle ADE. We have ∠ADE = ∠B (given). We need to find the lengths of AB and DE. Let’s use the properties of similar triangles or trigonometric relationships.
+
+Let’s consider triangle ABC. Since AD is perpendicular to BC, AD is the altitude from A to BC. Let’s denote BD = y. Then, BC = BD + DC = y + 3. In triangle ABC, using the Pythagorean theorem in triangle ADC, we have AC^2 = AD^2 + CD^2. So, AC^2 = x^2 + 9.
+
+Since CE is parallel to AB, triangles CDE and CBA are similar (AA similarity: ∠ECD = ∠B and ∠CDE = ∠CAB). Thus, CD/BC = DE/AB. We are given CD = 3. So, 3/(y + 3) = DE/AB. We need to find AB and DE.
+
+Let’s consider triangle ABD. Using the Pythagorean theorem in triangle ABD, we have AB^2 = AD^2 + BD^2. So, AB^2 = x^2 + y^2.
+
+Let’s consider triangle ACD. Using the Pythagorean theorem in triangle ACD, we have AC^2 = AD^2 + CD^2. So, AC^2 = x^2 + 9.
+
+Let’s consider triangle ADE. Since AC is the diameter, ∠AEC = 90°. Thus, ∠AED = 90°. So, triangle ADE is a right triangle with right angle at E. Let’s denote DE = z. Then, AE^2 = AD^2 + DE^2 = x^2 + z^2.
+
+Let’s consider triangle AEC. Since ∠AEC = 90°, triangle AEC is a right triangle. Let’s denote CE = w. Then, AC^2 = AE^2 + CE^2. So

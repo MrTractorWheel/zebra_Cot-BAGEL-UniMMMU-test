@@ -1,0 +1,11 @@
+<think>The problem asks to prove that ∠ADB = ∠EAB. We are given a circle with center O, points A, B, C, D on the circle, CB is a diameter, and E is the intersection of the tangent at A and the extension of CB. We have drawn the auxiliary line OA.
+
+We need to show that ∠ADB = ∠EAB. We will use properties of tangents, circles, and angles. We will also use the fact that OA is a radius and is perpendicular to the tangent at A.
+
+First, we know that OA is a radius of the circle, and AE is a tangent to the circle at point A. By the property of tangents, a radius drawn to the point of tangency is perpendicular to the tangent line. Therefore, OA ⊥ AE, which means ∠OAE = 90°. This is a key geometric property.
+
+Next, we consider the angles formed by the tangent AE and the secant AB. The angle formed by a tangent and a chord through the point of tangency is equal to the angle in the alternate segment. This is known as the Alternate Segment Theorem. In this case, the tangent is AE, and the chord is AB. Therefore, ∠EAB = ∠ADB. This is the angle we need to prove is equal to ∠ADB.
+
+We have shown that ∠EAB = ∠ADB by using the Alternate Segment Theorem, which states that the angle between a tangent and a chord at the point of contact is equal to the angle in the alternate segment. This theorem is a fundamental property in circle geometry.
+
+The reasoning is complete. The key steps were: (1) Identify that OA is perpendicular to AE (radius perpendicular to tangent), (2) Apply the Alternate Segment Theorem to the tangent AE and chord AB, which states ∠EAB = ∠ADB. The final step is to state the conclusion derived from these steps.</think>

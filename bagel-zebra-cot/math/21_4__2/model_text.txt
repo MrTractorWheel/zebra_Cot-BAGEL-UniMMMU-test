@@ -1,0 +1,24 @@
+<think>The problem asks for the length of arc BD. We are given that OA=8, so the radius of the circle is 8. We need to find the measure of the central angle ∠BOD, which will allow us to calculate the arc length.
+
+We are given that ∠CEA = ∠CAD. Let's denote ∠CEA = ∠CAD = x.
+We are also given that ∠CEA = 2∠DAB. So, ∠DAB = x/2.
+Since AB is the diameter of the circle, ∠ACB = 90° (angle in a semicircle).
+Now, ∠ACB = ∠ACE + ∠BCE. We need to find ∠BCE.
+We have ∠ACE = ∠CEA = x.
+So, ∠BCE = ∠ACB - ∠ACE = 90° - x.
+Now, consider the angles in triangle ABC. The sum of angles in a triangle is 180°.
+So, ∠BAC + ∠ABC + ∠ACB = 180°.
+We know ∠ACB = 90°, ∠ABC = ∠DAB = x/2 (angles subtended by the same arc BD), and ∠BAC = ∠CAD + ∠DAB = x + x/2 = 3x/2.
+So, (3x/2) + (x/2) + 90° = 180°.
+This simplifies to 2x + 90° = 180°.
+Subtracting 90° from both sides gives 2x = 90°.
+Dividing by 2 gives x = 45°.
+So, ∠CEA = 45°.
+Now, ∠DAB = x/2 = 45°/2 = 22.5°.
+Since ∠DAB is an inscribed angle, it subtends arc DB. The central angle ∠BOD is twice the inscribed angle ∠DAB.
+So, ∠BOD = 2 * ∠DAB = 2 * 22.5° = 45°.
+The length of an arc is given by (θ/360°) * 2πr, where θ is the central angle in degrees and r is the radius.
+Here, θ = 45° and r = 8.
+So, the length of arc BD is (45°/360°) * 2π * 8.
+This simplifies to (1/8) * 16π = 2π.
+Therefore, the length of arc BD is 2π.</think>
