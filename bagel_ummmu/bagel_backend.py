@@ -71,6 +71,18 @@ class BagelZebraCoTBackend:
         if bagel_repo not in sys.path:
             sys.path.insert(0, bagel_repo)
 
+        # BAGEL requires flash_attn_varlen_func. If the real flash-attn is not
+        # installed/functional (e.g. no wheel for this torch/CUDA/Python combo),
+        # install a numerically-equivalent SDPA-based shim BEFORE importing the
+        # model code.
+        from flash_attn_sdpa_shim import install_shim, real_flash_attn_available
+
+        if real_flash_attn_available():
+            print("[backend] using real flash-attn")
+        else:
+            install_shim()
+            print("[backend] flash-attn unavailable -> using PyTorch SDPA shim")
+
         # Imports resolved from the Bagel-Zebra-CoT repo.
         from accelerate import (
             infer_auto_device_map,

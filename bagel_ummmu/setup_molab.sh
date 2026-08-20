@@ -37,24 +37,17 @@ python -c "import torch" 2>/dev/null || {
 }
 pip install -r "$SCRIPT_DIR/requirements_molab.txt"
 
-# flash-attn is required by BAGEL's attention implementation.
-# Check the actual symbol BAGEL uses (a bare `import flash_attn` can succeed on a
-# broken/namespace package). Try a prebuilt wheel first; fall back to compiling
-# for sm_120 (can take 30-60 min).
-python -c "from flash_attn import flash_attn_varlen_func" 2>/dev/null || {
-  echo "== Installing flash-attn (may compile from source for sm_120; be patient) =="
-  MAX_JOBS="$(nproc)" TORCH_CUDA_ARCH_LIST="12.0+PTX" pip install flash-attn --no-build-isolation || {
-    echo ""
-    echo "ERROR: flash-attn install failed. Likely causes: no prebuilt wheel for this"
-    echo "torch/CUDA/Python combo and no nvcc available for a source build."
-    echo "Check 'which nvcc' and report the error above."
-    exit 1
-  }
-  python -c "from flash_attn import flash_attn_varlen_func" || {
-    echo "ERROR: flash-attn installed but flash_attn_varlen_func still not importable."
-    exit 1
-  }
-}
+# flash-attn: optional. BAGEL uses flash_attn_varlen_func; if the real package
+# is unusable (no wheel for this torch/CUDA/Python combo, no nvcc to compile),
+# the sampling code automatically falls back to a numerically-equivalent
+# PyTorch SDPA shim (flash_attn_sdpa_shim.py), so this step never blocks setup.
+if python -c "from flash_attn import flash_attn_varlen_func" 2>/dev/null; then
+  echo "== flash-attn available =="
+else
+  echo "== flash-attn not usable; attempting install (non-fatal) =="
+  MAX_JOBS="$(nproc)" TORCH_CUDA_ARCH_LIST="12.0+PTX" pip install flash-attn --no-build-isolation \
+    || echo "== flash-attn install failed -> sampling will use the SDPA shim (fine) =="
+fi
 
 # ----------------------------------------------------------------------
 # 3) Download the Bagel-Zebra-CoT checkpoint (~30 GB)
@@ -99,14 +92,11 @@ print("torch", torch.__version__, "cuda", torch.version.cuda)
 print("device:", torch.cuda.get_device_name(0))
 cap = torch.cuda.get_device_capability(0)
 print("compute capability:", cap)
-import flash_attn
-from flash_attn import flash_attn_varlen_func
 try:
-    import importlib.metadata
-    _v = importlib.metadata.version("flash-attn")
+    from flash_attn import flash_attn_varlen_func
+    print("attention backend: real flash-attn")
 except Exception:
-    _v = "unknown"
-print("flash_attn", _v, "at", flash_attn.__file__)
+    print("attention backend: PyTorch SDPA shim (flash-attn not usable)")
 x = torch.randn(8, 8, device="cuda", dtype=torch.bfloat16)
 print("bf16 matmul ok:", (x @ x).shape)
 EOF
