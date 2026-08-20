@@ -1,0 +1,9 @@
+<think>The problem asks for the radius of the circle in which the inscribed quadrilateral ABCD is inscribed. We are given that ∠ADC = 150° and the chord AC = 2. We need to find the radius of the circle, denoted as r. We will use the properties of inscribed angles and the fact that the radius is the length of the line segment from the center of the circle to any point on the circle (OA = OC = r).
+
+First, we draw the diagonals AC and BD of the inscribed quadrilateral ABCD. Since ABCD is inscribed in the circle, the opposite angles of the quadrilateral sum to 180°. Thus, ∠ABC + ∠ADC = 180°. Given ∠ADC = 150°, we have ∠ABC = 180° - 150° = 30°.
+
+Next, we consider the triangle ABC. The angle ∠ABC is an inscribed angle that subtends the arc AC. The measure of an inscribed angle is half the measure of the arc it subtends. Therefore, the arc AC subtended by ∠ABC is 2 * ∠ABC = 2 * 30° = 60°. The length of an arc is given by the formula arc length = (θ/360) * 2πr, where θ is the central angle in degrees and r is the radius of the circle. Since the arc AC is subtended by the central angle ∠AOC, we have AC = (θ/360) * 2πr. We are given AC = 2. Substituting the known values, we get 2 = (60/360) * 2πr.
+
+Now, we solve for r. First, simplify the fraction 60/360 to 1/6. The equation becomes 2 = (1/6) * 2πr. Multiply both sides by 6 to get 12 = 2πr. Divide both sides by 2π to isolate r: r = 12 / (2π) = 6/π.
+
+Thus, the radius of the circle is 6/π.</think>

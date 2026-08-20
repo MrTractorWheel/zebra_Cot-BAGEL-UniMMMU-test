@@ -1,0 +1,16 @@
+<think>The problem asks to prove that BC=BH. We are given a right triangle ABC with ∠C=90°, a circle O with diameter BD, which is tangent to AC at E and intersects BC at F. EH is perpendicular to AB at H. We need to show BC=BH.
+
+First, we analyze the properties of the circle and the tangent. Since BD is the diameter of circle O, ∠DEB is a right angle (angle in a semicircle is a right angle). Thus, ∠DEB=90°. Also, since AC is tangent to circle O at E, OE is perpendicular to AC (the radius is perpendicular to the tangent at the point of contact). Thus, ∠OEC=90°.
+
+Now, consider the quadrilateral DECF. Since ∠DEB=90° and ∠OEC=90°, and ∠C=90°, the sum of the angles in a quadrilateral is 360°. Therefore, ∠DFC=360° - ∠DEB - ∠OEC - ∠C = 360° - 90° - 90° - 90° = 90°. So, ∠DFC=90°. This means that DECF is a rectangle (a quadrilateral with three right angles is a rectangle).
+
+Since DECF is a rectangle, its opposite sides are equal. Therefore, DE=CF.
+
+Now, consider the right triangles DEH and BCF. We have:
+- DE=CF (proven above).
+- ∠DEH=∠BCF=90° (given, as EH is perpendicular to AB and ∠C=90°).
+- ∠DHE=∠BFC (both are right angles, as EH is perpendicular to AB and BC is perpendicular to AC).
+
+By the Angle-Angle-Side (AAS) congruence criterion, triangles DEH and BCF are congruent. Therefore, their corresponding sides are equal. Thus, BH=BC.
+
+This completes the proof that BC=BH.</think>

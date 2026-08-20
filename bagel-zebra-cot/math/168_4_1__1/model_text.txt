@@ -1,0 +1,12 @@
+<think>The problem asks to prove that ∠E = 2∠C in the given circle configuration. The provided image shows the original diagram and the first auxiliary line, AC, which we will use in the reasoning. We need to establish relationships between the angles using properties of circles, perpendicular lines, and the constructed segments.
+
+First, let's establish the relationship between ∠C and ∠A. Since AB is a diameter and CD is a chord, and AB is perpendicular to CD at G, it follows from the perpendicular diameter theorem that G is the midpoint of CD. Thus, CG = GD. This implies that AB is the perpendicular bisector of CD. Therefore, AC = AD (a chord perpendicular to a diameter is bisected by the diameter, and the segments of the chord are equal). This means that ∠C = ∠D (angles subtended by equal arcs in a circle are equal). Let's denote ∠C = ∠D = x. Then, ∠CAD = 180° - 2x (since the sum of angles in triangle ACD is 180°).
+
+Next, consider the right triangle ACF. Since CF is perpendicular to AD, ∠AFC = 90°. The angle ∠ACF is the complement of ∠CAF in triangle ACF. We have ∠CAF = ∠CAD = 180° - 2x. Therefore, ∠ACF = 90° - (180° - 2x) = 2x - 90°. This is the measure of ∠ACF.
+
+Now, let's analyze the angles in triangle ADE. Since AB is a diameter, ∠AEB = 90° (angle in a semicircle is a right angle). We need to find ∠EAD and ∠ADE. ∠EAD is the same as ∠CAD, which is 180° - 2x. ∠ADE is an inscribed angle subtended by arc AE. The arc AE is the same as arc AC (since arc AE = arc AC + arc CE, and arc CE = arc BD, and arc BD = arc AC due to the symmetry of the diameter AB and the perpendicular bisector of CD). Therefore, ∠ADE = 1/2 ∠AOC (angle subtended by arc AE at the center O). Since ∠AOC = 2x (as established in the previous step, ∠C = x and ∠AOC is twice ∠C), ∠ADE = 1/2 * 2x = x. Thus, ∠ADE = x.
+
+Now, in triangle ADE, we have:
+∠AED = 180° - ∠EAD - ∠ADE = 180° - (180° - 2x) - x = 180° - 180° + 2x - x = x.
+
+We have found that ∠AED = x. However, we need to find ∠E. Let's consider the angles in triangle AEC. ∠AEC is the exterior angle at E for triangle ADE. Therefore, ∠AEC = ∠EAD + ∠ADE = (180° - 2x) + x = 180° - x. But ∠AEC is also an inscribed angle subtended by arc AC. Since ∠ACF = 2x - 90°, and ∠ACF + ∠AEC = 180° (as they are angles on a straight line),

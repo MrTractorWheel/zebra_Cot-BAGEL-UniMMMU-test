@@ -1,0 +1,9 @@
+<think>The problem asks to prove that AM is perpendicular to BC. We are given that AM is the diameter of the circle and it bisects ∠BAC. We will use the properties of angles subtended by the same arc and the fact that the angle subtended by a diameter is a right angle.
+
+Let AM intersect BC at point D. Since AM is the diameter of the circle, ∠ABM = ∠ACM = 90° (angle subtended by a diameter is a right angle). This means that BM is perpendicular to AB and CM is perpendicular to AC. Therefore, ∠ABM = ∠ACM = 90°.
+
+Since AM bisects ∠BAC, ∠BAM = ∠CAM. Consider triangles ABD and ACD. We have ∠ABD = ∠ACD = 90° (as established above). We also have ∠BAD = ∠CAD (AM bisects ∠BAC). The common side is AD. Therefore, by the Angle-Angle-Side (AAS) congruence criterion, triangles ABD and ACD are congruent. This implies that BD = CD (corresponding parts of congruent triangles).
+
+Since D is the midpoint of BC (BD = CD) and AM is a line segment connecting A to the midpoint of BC, AM is the perpendicular bisector of BC. Therefore, AM is perpendicular to BC.
+
+CONCLUSION: AM is perpendicular to BC.</think>

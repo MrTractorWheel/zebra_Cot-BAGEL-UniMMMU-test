@@ -1,0 +1,17 @@
+<think>The problem asks for the radius of the circle, given the lengths CE=1 and EB=3. We are given that AB is the diameter of the circle, so ∠ACB is a right angle (angle in a semicircle). We also have OC//BD. Since AB is the diameter, OA=OB=OC=OD=radius. Let the radius be r. Let’s analyze the triangles formed by the segments and the right angle.
+
+We have CE=1 and EB=3, so CB=CE+EB=1+3=4. Since ∠ACB=90°, triangle ACB is a right-angled triangle. Let’s consider the right triangle ACB. The sides are AB, AC, and CB. We need to relate these sides to the radius r.
+
+Let’s consider the triangles formed by the segments. Since OC//BD, ∠OCB=∠CBD (alternate interior angles). Also, ∠ACB=90°, so ∠ACO+∠OCB=90°. Since OC=OA=radius, ∠ACO=∠CAO. Let’s denote ∠CAO=∠ACO=x. Then, ∠OCB=90°-x. Since ∠OCB=∠CBD, ∠CBD=90°-x.
+
+Now, consider triangle AEB. ∠AEB is an exterior angle for triangle CEB. So, ∠AEB=∠ECB+∠EBC. We have ∠ECB=∠OCB=90°-x and ∠EBC=∠CBD=90°-x. Thus, ∠AEB=(90°-x)+(90°-x)=180°-2x.
+
+Since AB is the diameter, ∠ADB=90° (angle in a semicircle). Thus, ∠ADB=∠AEB=180°-2x. This means that points A, D, B, and E are concyclic (they lie on the same circle). Therefore, ∠DAE=∠DBE (angles subtended by the same arc DE).
+
+Let’s consider triangle AEF and triangle BCF. Since ∠DAE=∠DBE and ∠AEF=∠BEC (vertical angles), triangles AEF and BEC are similar by AA similarity. Thus, AF/EF=BC/CE=4/1=4. Let AF=4k and EF=k. Then, AE=AF+EF=5k.
+
+Since AB is the diameter, AB=2r. Let’s consider triangle AEB. We have AE=5k, EB=3, and AB=2r. By the Pythagorean theorem in triangle AEB (right-angled at E), we have AE²+EB²=AB². So, (5k)²+3²=(2r)². This gives 25k²+9=4r². (Equation 1)
+
+Now, let’s consider triangle AEC. We have AE=5k, CE=1, and AC. By the Pythagorean theorem in triangle AEC (right-angled at C), we have AC²+CE²=AE². So, AC²+1²=(5k)². This gives AC²=25k²-1. (Equation 2)
+
+Now, let’s consider triangle ACB. We have AC, CB=4, and AB=2r. By the Pythagorean theorem in triangle ACB (right-angled at C), we have AC²+CB²=AB

@@ -1,0 +1,20 @@
+<think>The problem asks to prove that AD = BD. We are given that CD is the angle bisector of ∠ACB and D is on the circumcircle of △ABC. We need to show that AD and BD are equal.
+
+First, we draw the auxiliary lines OA, OB, and OD. Since OA, OB, and OD are radii of the circumcircle, they are all equal in length: OA = OB = OD.
+
+Consider the angles subtended by the same arc at the center and circumference of a circle. The central angle ∠AOB is twice the inscribed angle ∠ACB. So, ∠AOB = 2∠ACB. Since CD is the angle bisector of ∠ACB, we have ∠ACD = ∠BCD = 1/2 ∠ACB. Therefore, ∠ACD = 1/2 ∠AOB.
+
+Now, consider the isosceles triangles formed by the radii. In △AOD, OA = OD (radii), so ∠AOD = ∠ODA. Similarly, in △BOD, OB = OD (radii), so ∠BOD = ∠OBD.
+
+We know that the angle subtended by an arc at the center is twice the angle subtended at the circumference. So, ∠AOD = 2∠ACD and ∠BOD = 2∠BCD. Since ∠ACD = ∠BCD, we have ∠AOD = ∠BOD.
+
+In triangles AOD and BOD, we have:
+- OA = OB (radii)
+- ∠AOD = ∠BOD (proven above)
+- OD = OD (common side)
+
+By the Side-Angle-Side (SAS) congruence criterion, △AOD ≅ △BOD.
+
+Since AD and BD are corresponding parts of congruent triangles, AD = BD.
+
+The problem asks for a concise, logically ordered solution or proof. The provided reasoning is a detailed, step-by-step explanation of the geometric reasoning and congruence. The final answer is the conclusion of the geometric argument.</think>

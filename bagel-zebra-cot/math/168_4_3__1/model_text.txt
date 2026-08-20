@@ -1,0 +1,13 @@
+<think>The problem asks for the length of segment EN. We are given that AB is a diameter of circle O, and it is perpendicular to chord CD at G. CF is perpendicular to AD at F, intersecting AB at H and circle O at E. BE intersects AD at M and CD at N. We are also given that OH=2OG and HF=√10. We need to use the given information and the constructed lines (OC, BC, AE) to find EN.
+
+First, we note that AB is a diameter and is perpendicular to CD at G. This means that G is the midpoint of CD, so CG=GD. Since AB is perpendicular to CD, triangle CGH and triangle DGH are right triangles. We are given that OH=2OG. Let OG=r. Then OH=2r. Since O is the center of the circle, OA=OB=OC=OD=r. Since AB is a diameter, AB=2r.
+
+Next, we consider triangle HOG. Since OH=2OG, and O is the center, and G is on AB, we can use the Pythagorean theorem in triangle HOG. Let HG=x. Then OH=2r, OG=r, and HG=x. In triangle HOG, we have OH^2 = OG^2 + HG^2. So, (2r)^2 = r^2 + x^2. This simplifies to 4r^2 = r^2 + x^2, so x^2 = 3r^2, and x=√3r. So, HG=√3r.
+
+We are given that HF=√10. Since F is on AD and CF is perpendicular to AD, triangle HFA is a right triangle with hypotenuse HF=√10. We need to find the length of AF and then use the properties of the circle and triangles to find EN.
+
+Let's consider triangle HFA. We need to find AF. We can use the fact that triangles HFA and HGD are similar. Since CF is perpendicular to AD and AB is perpendicular to CD, angles HFA and HGD are both right angles. Angle HAF is equal to angle HGD (both are angles subtended by arc HD). Therefore, triangles HFA and HGD are similar by AA similarity.
+
+From similarity, we have HF/HD = HA/HG. We know HF=√10, HA=OG=r, and HG=√3r. So, √10/HD = r/(√3r). Simplifying, √10/HD = 1/√3. So, HD = √10 * √3 = √30.
+
+Since AB is a diameter and G is the midpoint of CD, CG=GD. Let CG=GD=y. Then CD=2y. Since AB is perpendicular to CD at G, triangle CGH and triangle DGH are right triangles. We have CG=y, GH=√3r, and HD=√30. Since CD=2y, and G is the midpoint, CG=y. We can use the Pythagorean theorem in triangle CGH: CG^2 + GH^2 = CH^2. So, y^2 + (√3r)^2 = CH^2. Similarly, in triangle DGH: GD^2 + GH^2 = DH^2. So, y^2 + (√3r)^2 = DH^2. Since CD=2y, and G is the midpoint, CG=y. We have CD=2y, and we know HD=√30. Since CD=2y, and G is the midpoint, CG=y

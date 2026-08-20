@@ -1,0 +1,5 @@
+<think>The problem asks for the measure of ∠ABD. We are given that AB is the diameter of the circle, and ∠BCD = 40°. We need to use properties of circles and angles to find ∠ABD.
+First, we draw the auxiliary line AC. Since AB is the diameter of the circle, by the Inscribed Angle Theorem, the angle subtended by a diameter at the circumference is a right angle. Therefore, ∠ACB = 90°.
+We are given that ∠BCD = 40°. Since ∠ACB is 90°, and ∠ACB = ∠ACD + ∠BCD, we can find ∠ACD by subtracting ∠BCD from ∠ACB. So, ∠ACD = ∠ACB - ∠BCD = 90° - 40° = 50°.
+Now, we consider the angles ∠ABD and ∠ACD. These two angles are subtended by the same arc AD. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠ABD = ∠ACD = 50°.
+So, the measure of ∠ABD is 50°.</think>

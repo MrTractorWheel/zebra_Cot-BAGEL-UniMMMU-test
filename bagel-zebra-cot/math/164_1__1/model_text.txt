@@ -1,0 +1,9 @@
+<think>The problem asks for the measure of ∠AFD. We are given ∠ACB = 70° and the configuration of the incircle and its tangency points.
+First, we establish that OD and OE are radii of the incircle, so OD ⊥ AB and OE ⊥ BC.
+Since OB is a radius, OB ⊥ DE (tangent to the circle).
+This means OB is perpendicular to both OD and OE, so OD || OE.
+Therefore, ∠DOE = 180° - ∠ACB = 180° - 70° = 110°.
+Since OD || OE, ∠DOE = ∠DOA = 110° (alternate interior angles).
+Since OA is the angle bisector, ∠DOA = 2∠DAF.
+So, ∠DAF = 110° / 2 = 55°.
+Finally, ∠AFD = 90° - ∠DAF = 90° - 55° = 35°.</think>
