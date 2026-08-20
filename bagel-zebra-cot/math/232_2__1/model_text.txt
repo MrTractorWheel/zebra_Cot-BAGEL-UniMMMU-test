@@ -1,0 +1,26 @@
+<think>The problem asks for the length of diagonal BD in a rhombus ABCD with ∠ABC=60°, and given DF=1, where DF is the perpendicular from D to CM, and CM is the bisector of ∠DCE. We are to use the provided construction: AC and BD intersect at O.
+
+First, we establish properties of the rhombus:
+- ABCD is a rhombus, so AB=BC=CD=DA.
+- Diagonals of a rhombus bisect each other at right angles: AC⊥BD, BO=DO.
+- Diagonals of a rhombus bisect the angles: ∠ABD=∠CBD=1/2 ∠ABC=30°.
+
+Next, we analyze the angles and segments:
+- ∠DCE is an exterior angle of the rhombus, so ∠DCE=180°-∠BCD.
+- Since ABCD is a rhombus, ∠BCD=∠ABC=60°, so ∠DCE=180°-60°=120°.
+- CM bisects ∠DCE, so ∠DCM=∠MCE=1/2 ∠DCE=60°.
+
+We now analyze triangle DCF:
+- DF is perpendicular to CM, so ∠DFC=90°.
+- We have a right-angled triangle DCF with ∠DFC=90°, ∠DCM=60°, so ∠FDC=180°-90°-60°=30°.
+- In a 30-60-90 triangle, the side opposite the 30° angle is half the hypotenuse. So, DC=2DF.
+- Given DF=1, DC=2(1)=2.
+
+Since ABCD is a rhombus, all sides are equal: AB=BC=CD=DA=2.
+
+Now, consider triangle BCD:
+- BC=CD=2, so it is an isosceles triangle.
+- ∠BCD=60°, so triangle BCD is an equilateral triangle.
+- In an equilateral triangle, all sides are equal, so BD=BC=2.
+
+Therefore, the length of diagonal BD is 2.</think>

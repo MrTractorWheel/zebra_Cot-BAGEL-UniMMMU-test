@@ -1,0 +1,15 @@
+<think>The problem asks for the length of AB in a right-angled triangle ABC, where D is a point on BC, ∠BAD = 45°, CD = 5, and AC = 12. We are given an auxiliary line DE perpendicular to AB. We need to find AB.
+
+Let DE be the perpendicular from D to AB. Let E be the foot of this perpendicular on AB. Let F be the foot of the perpendicular from A to BC. Let G be the foot of the perpendicular from D to AC. Let H be the foot of the perpendicular from D to AB.
+
+We have DE = AC = 12, and DC = 5. Since DE is perpendicular to AB, and ∠BAD = 45°, triangle ADE is a right-angled isosceles triangle. Therefore, AE = DE = 12.
+
+Since ∠C = 90°, ∠AFB = 90°, and ∠DGC = 90°, quadrilateral AFGC is a rectangle. So, AF = GC.
+
+Since DE is perpendicular to AB and DC is perpendicular to AC, quadrilateral DECF is a rectangle. So, DE = CF = 12, and DC = EF = 5.
+
+Since ∠AED = 90°, ∠AEB = 90°, and ∠AFB = 90°, quadrilateral AEBF is a rectangle. So, AE = BF = 12, and AF = BE.
+
+Since AE = 12, BF = 12, and DC = 5, BC = BD + DC = BE + EF + DC = 12 + 5 + 5 = 22.
+
+Since AC = 12, BC = 22, and ∠C = 90°, by the Pythagorean theorem, AB² = AC² + BC² = 12² + 22² = 144 + 484 = 628. Therefore, AB = √628 = 2√157.</think>

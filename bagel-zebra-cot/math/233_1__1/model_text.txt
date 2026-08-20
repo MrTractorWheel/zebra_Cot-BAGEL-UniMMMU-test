@@ -1,0 +1,9 @@
+<think>The problem asks for the length of the minor arc AC of a circle with radius 1, which is tangent to a regular pentagon ABCDE at points A and C. We are given the base diagram and told to add the auxiliary lines OA, OB, and OC. Let's analyze the geometry.
+
+First, we need to find the measure of the central angle AOC. Since the pentagon ABCDE is regular, all its internal angles are equal. The sum of the interior angles of a pentagon is (5-2)×180° = 540°. Thus, each interior angle is 540°/5 = 108°. Therefore, ∠ABC = 108°.
+
+Next, we consider the circle O. Since the circle is tangent to the pentagon at points A and C, the radii OA and OC are perpendicular to the tangent lines at these points. Thus, OA is perpendicular to AB, and OC is perpendicular to CD. This means ∠OAB = 90° and ∠OCD = 90°.
+
+Now, we can find the measure of ∠AOC. We know that the sum of the angles around point O is 360°. We have ∠OAB = 90°, ∠ABC = 108°, and ∠OCD = 90°. Let's visualize this. The angle ∠OAB is at vertex A, ∠ABC is at vertex B, and ∠OCD is at vertex C. The central angle AOC is the angle at the center O between points A and C. The sum of the angles around point O is 360°, so ∠AOC = 360° - ∠OAB - ∠ABC - ∠OCD = 360° - 90° - 108° - 90° = 72°.
+
+The length of an arc is given by the formula (angle/360°) × circumference. The circumference of a circle with radius 1 is 2π(1) = 2π. The central angle AOC is 72°. Thus, the length of the arc AC is (72°/360°) × 2π = (1/5) × 2π = 2π/5.</think>

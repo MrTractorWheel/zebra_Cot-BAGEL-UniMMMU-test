@@ -1,0 +1,7 @@
+<think>The problem asks to prove that AB=AF. We are given that AB is the diameter of the circle, so ∠ADB=90° (angle inscribed in a semicircle). We need to show that ∠ABF=∠AFB, which would imply AB=AF (angles opposite equal sides in a triangle). We will use the auxiliary lines DE and BD.
+
+First, we establish that ∠BCD=∠BDE (angles subtended by the same arc BE). Since CE bisects ∠BCD, ∠BCE=∠DCE. Therefore, ∠BCE=∠BDE. This implies that the quadrilateral BCDE is cyclic (opposite angles sum to 180°). Thus, ∠BEC=∠BDC (angles subtended by the same arc BC).
+
+Next, we show that ∠ABF=∠AFB. We have ∠ABF=∠ABD+∠DBF. Since ∠ABD=90° (AB is a diameter), ∠ABF=90°+∠DBF. We need to show that ∠AFB=90°+∠DBF. Consider triangle AFB. If we can show that ∠AFB=90°+∠DBF, then ∠ABF=∠AFB, and AB=AF.
+
+We have ∠AFB=∠DFE (vertical angles). We need to show that ∠DFE=90°+∠DBF. We have ∠DFE=∠DBF+∠EDF (exterior angle theorem). We need to show that ∠EDF=90°. We have ∠EDF=180°-∠EDB-∠BDF. Since ∠EDB=∠BCE (from cyclic quadrilateral BCDE) and ∠BDF=90° (AB is a diameter), ∠EDF=180°-∠BCE-90°=90°-∠BCE. But ∠BCE=∠BDE (from cyclic quadrilateral BCDE), so ∠EDF=90°-∠BDE. Since ∠BDE=90°-∠DBE (triangle BDE), ∠EDF=90°-(90°-∠DBE)=∠DBE. Therefore, ∠DFE=∠DBF+∠DBE=90°+∠DBF. Thus, ∠ABF=90°+∠DBF=∠AFB. Therefore, AB=AF.</think>

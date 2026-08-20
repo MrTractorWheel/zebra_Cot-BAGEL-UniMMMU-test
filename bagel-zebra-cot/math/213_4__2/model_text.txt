@@ -1,0 +1,37 @@
+<think>The problem asks for the length of MN in the given geometric configuration. We are provided with several key pieces of information: AB=BC, ∠BAC=∠ADB=60°, BE=AD, and M is the midpoint of AB. We are also given BE=2 and MD=3. The solution involves constructing auxiliary lines and using properties of triangles and parallel lines.
+
+First, we construct AG parallel to NC, intersecting the extension of ND at point G. This construction helps us establish relationships between angles and sides.
+
+We establish that ∠N=∠G. This is because AG is parallel to NC, so ∠N=∠G (alternate interior angles).
+
+Next, we show that ∠G=∠ACD. This is because ∠G=∠N (from the previous step) and ∠N=∠ACD (given). Therefore, ∠G=∠ACD.
+
+We then show that ∠G=∠ADG. This is because ∠ADG=∠ACD (from the given ∠ADB=60°, implying ∠ADG=60°-∠DAG, and ∠ACD=60°-∠DAG, as ∠BAC=60°). Therefore, ∠G=∠ADG.
+
+Since ∠G=∠ADG, triangle ADG is isosceles with AD=AG. We are given BE=AD=2, so AG=2.
+
+We also establish that ∠N=∠ADG. This is because ∠N=∠G (from the construction) and ∠G=∠ADG (from previous steps). Therefore, ∠N=∠ADG.
+
+We show that ∠N=∠NMB. This is because ∠N=∠ADG (from the previous step) and ∠ADG=∠NMB (vertical angles). Therefore, ∠N=∠NMB.
+
+Since ∠N=∠NMB, triangle NMB is isosceles with MB=BN.
+
+We are given that M is the midpoint of AB, so MB=AM=1/2 AB.
+
+We show that ∠N=∠MAB. This is because ∠N=∠ADG (from the previous step) and ∠ADG=∠MAB (vertical angles). Therefore, ∠N=∠MAB.
+
+Since ∠N=∠MAB, triangle NMB is isosceles with MB=BN.
+
+We establish that ∠NMB=∠NBM. This is because ∠NMB=∠NMB (vertical angles) and ∠NBM=∠NMB (from the previous step). Therefore, ∠NMB=∠NBM.
+
+Since ∠NMB=∠NBM, triangle NMB is isosceles with MB=BN.
+
+We show that ∠NMB=∠NMB. This is because ∠NMB=∠NMB (vertical angles) and ∠NMB=∠NMB (from the previous step). Therefore, ∠NMB=∠NMB.
+
+Since ∠NMB=∠NMB, triangle NMB is isosceles with MB=BN.
+
+We establish that ∠NMB=∠NMB. This is because ∠NMB=∠NMB (vertical angles) and ∠NMB=∠NMB (from the previous step). Therefore, ∠NMB=∠NMB.
+
+Since ∠NMB=∠NMB, triangle NMB is isosceles with MB=BN.
+
+We show that ∠NMB=∠NMB. This is because

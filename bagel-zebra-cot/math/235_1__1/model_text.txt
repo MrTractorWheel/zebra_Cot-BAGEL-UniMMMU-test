@@ -1,0 +1,19 @@
+<think>The problem asks for the ratio of the area of triangle BDE to the area of triangle ABC. We are given that triangle ABC is equilateral (AB=BC=AC), D is the midpoint of BC, and DE is perpendicular to AB.
+
+First, let's establish the properties of the equilateral triangle ABC. Since AB=BC=AC, all angles are 60°. D is the midpoint of BC, so BD=DC=BC/2. Since ABC is equilateral, BC=AB. Thus, BD=AB/2.
+
+Next, we consider triangle BDE. DE is perpendicular to AB, so angle BED is 90°. We need to find the area of triangle BDE and the area of triangle ABC.
+
+Let's denote the length of AB as 2x (to simplify calculations, since BD=AB/2). Therefore, BD=x. Since triangle ABC is equilateral, its height (from A to BC) is √3x. The area of triangle ABC is (1/2)*base*height = (1/2)*(2x)*(√3x) = x²√3.
+
+Now, let's find the area of triangle BDE. Since DE is perpendicular to AB, triangle BDE is a right-angled triangle with right angle at E. The base of triangle BDE is BE, and the height is DE. We need to find BE and DE.
+
+In triangle ABC, since D is the midpoint of BC, AD is the median. In an equilateral triangle, the median is also the altitude. So, AD=√3x. Since D is the midpoint, BD=x. Triangle ABD is a 30-60-90 triangle (angle at B is 60°, angle at A is 90°, angle at D is 30°). In a 30-60-90 triangle, the sides are in the ratio 1:√3:2. So, AB=2x, AD=√3x, and BD=x. This confirms our previous calculations.
+
+Now, consider triangle BDE. Angle at B is 60° (same as angle at A in triangle ABC). Angle at E is 90°. Therefore, angle at D is 180° - 60° - 90° = 30°. So, triangle BDE is also a 30-60-90 triangle. The sides are in the ratio 1:√3:2. Let's denote the side opposite the 30° angle (BD) as x. Then, the side opposite the 60° angle (DE) is x√3, and the side opposite the 90° angle (BE) is x/2.
+
+The area of triangle BDE is (1/2)*base*height = (1/2)*(BE)*(DE) = (1/2)*(x/2)*(x√3) = (x²√3)/4.
+
+The area of triangle ABC is x²√3.
+
+The ratio of the area of triangle BDE to the area of triangle ABC is [(x²√3)/4] / [x²√3] = 1/4.</think>

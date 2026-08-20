@@ -1,0 +1,7 @@
+<think>The problem asks for the area of triangle ABC. We are given that AB=AC=5 and BC=6. We can use the formula for the area of a triangle: Area = (1/2) * base * height. We can take BC as the base. To find the height, we drop a perpendicular from A to BC, which is the line AH. The area will be (1/2) * BC * AH.
+
+We can find AH by using the Pythagorean theorem in triangle AHC. Since AB=AC=5 and BC=6, triangle ABC is isosceles with AB=AC. The perpendicular from A to BC (AH) will bisect BC. So, BH=HC=BC/2=6/2=3.
+
+In triangle AHC, AH is perpendicular to BC, so it is a right-angled triangle. We can apply the Pythagorean theorem: AH² + HC² = AC². We know AC=5 and HC=3. Plugging these values in, we get AH² + 3² = 5². This simplifies to AH² + 9 = 25. Subtracting 9 from both sides gives AH² = 16. Taking the square root of both sides, AH = √16 = 4.
+
+Now that we have the height AH=4 and the base BC=6, we can calculate the area of triangle ABC. Area = (1/2) * BC * AH = (1/2) * 6 * 4 = 3 * 4 = 12.</think>
