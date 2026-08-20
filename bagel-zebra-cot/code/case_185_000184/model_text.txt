@@ -1,0 +1,1 @@
+<think>Summary: A 512x512 grid with a large white rectangle, a green triangle, a red rectangle, a green rectangle, and a blue rectangle.</think>

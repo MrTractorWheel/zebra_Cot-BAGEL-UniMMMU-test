@@ -1,0 +1,2 @@
+<think>The task is to render the provided SVG code without using tools. The code defines a background rectangle, a template shape, and multiple uses of the template rotated by various degrees around different centers. The final image will be a grid of rotated shapes on a white background.
+The code uses a viewBox of 0,0,512,512, so the final image will be 512x512 pixels. The shapes are rotated and placed at specific coordinates.</think>

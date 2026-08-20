@@ -1,0 +1,1 @@
+<think>The problem requires me to render the provided SVG code using only the raw code as input. I need to carefully parse the code, applying the rendering rules, and then output a summary and the final rendered image. I will render the image using a tool that respects the specified rules, such as Cairo or CairoSVG, and then generate the final answer.</think>

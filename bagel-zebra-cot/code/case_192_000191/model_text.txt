@@ -1,0 +1,2 @@
+<think>The problem requires me to render the provided SVG code without using any external tools. I will follow the rules strictly and only output the final image. The code defines a simple SVG with a white background, a black circle, and a white rectangle. The circle is centered at (400, 205) with a radius of 72. The rectangle fills the entire canvas.
+I will now generate the final image based on the provided SVG code.</think>

@@ -1,0 +1,2 @@
+<think>The problem requires interpreting an SVG code and then generating a final image. The code describes a simple geometric shape, a square, with a specific fill color and dimensions. The task is to render this shape correctly.
+The provided code defines a square with a fill color of #E74C3C. The square is positioned at the top right corner of the canvas, with its top-left corner at (20, 216) and its bottom-right corner at (296, 296). The square has a height and width of 80.</think>

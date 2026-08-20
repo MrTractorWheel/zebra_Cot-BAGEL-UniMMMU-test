@@ -1,0 +1,2 @@
+<think>The task is to render the given SVG code without using any external tools. I will follow the provided rules and steps to generate the final image. The code defines a simple SVG with a white background and a green rectangle positioned at (372, 291) with dimensions 100x140. The viewBox is set to 0,0,512,512, which means the rectangle will be scaled to fit within this view area.
+I will now render the image based on the provided SVG code.</think>

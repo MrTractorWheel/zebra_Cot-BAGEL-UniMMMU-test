@@ -1,0 +1,2 @@
+<think>The problem requires me to render the given SVG code without using any external tools. I need to process the code step-by-step, applying the rules for rendering. The code defines a simple SVG with a white background, two circles, and a rectangle. The rectangle is the background, and the circles are colored blue.
+I will start by visualizing the initial state of the canvas, which is a white rectangle with dimensions 512x512.</think>
