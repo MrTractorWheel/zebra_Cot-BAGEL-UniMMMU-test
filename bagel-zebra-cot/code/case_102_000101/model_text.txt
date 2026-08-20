@@ -1,0 +1,1 @@
+<think>Begin with a 512x512 canvas, black background, no viewbox.</think>

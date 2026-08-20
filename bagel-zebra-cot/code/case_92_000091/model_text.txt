@@ -1,0 +1,2 @@
+<think>The task is to render the given SVG code without using any external tools. I will follow the provided rules strictly, which include interpreting the viewBox, applying transformations, and stacking elements. The resulting image will be a simple geometric pattern.
+I will first visualize the initial state of the canvas, which is a 512x512 area filled with white.</think>

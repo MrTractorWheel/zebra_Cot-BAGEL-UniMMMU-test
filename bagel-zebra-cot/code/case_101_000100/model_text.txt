@@ -1,0 +1,1 @@
+<think>The problem asks to render the given SVG code without using external tools. I will follow the provided rules and generate the final image. The SVG code defines a simple shape: a white background, two orange circles, and no other elements.</think>

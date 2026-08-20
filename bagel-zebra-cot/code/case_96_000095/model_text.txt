@@ -1,0 +1,2 @@
+<think>The problem requires me to render the given SVG code without using any external tools. I will follow the provided rules and steps to accurately generate the final image.
+I will start by visualizing the first element, the background rectangle. This will set the canvas and its background.</think>
