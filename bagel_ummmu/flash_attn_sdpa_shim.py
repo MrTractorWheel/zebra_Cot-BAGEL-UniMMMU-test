@@ -109,9 +109,17 @@ def flash_attn_varlen_func(
 def install_shim() -> None:
     """Register a fake `flash_attn` module in sys.modules (overwrites any
     broken/partial installation already imported)."""
+    import importlib.machinery
+
     mod = types.ModuleType("flash_attn")
     mod.flash_attn_varlen_func = flash_attn_varlen_func
     mod.__version__ = "0.0.0+sdpa-shim"
+    # A valid spec is required: libraries (e.g. transformers) probe for
+    # flash-attn with importlib.util.find_spec, which raises ValueError on
+    # modules whose __spec__ is None. With a spec but no dist metadata,
+    # transformers correctly treats flash-attn as unavailable, while direct
+    # `from flash_attn import flash_attn_varlen_func` still gets the shim.
+    mod.__spec__ = importlib.machinery.ModuleSpec("flash_attn", loader=None)
     sys.modules["flash_attn"] = mod
 
 
