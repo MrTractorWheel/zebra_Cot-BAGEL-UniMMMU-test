@@ -1,0 +1,16 @@
+{
+  "id": "case_03",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c005_35a3ad9130.png",
+  "condition": "White chocolate bar pieces resting on a warm metal spoon over a gentle flame. Heat to 40°C and maintain for a sufficient time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03/model_image_01.png"
+  ],
+  "errors": []
+}
