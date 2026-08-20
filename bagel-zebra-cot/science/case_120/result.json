@@ -1,0 +1,16 @@
+{
+  "id": "case_120",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/seeds-candle.png",
+  "condition": "Inside a sealed glass container, there are germinating seeds and a burning candle. After 1 hour, draw the state of the candle.",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Respiration"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120/model_image_01.png"
+  ],
+  "errors": []
+}

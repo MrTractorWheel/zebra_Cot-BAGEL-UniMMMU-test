@@ -1,0 +1,16 @@
+{
+  "id": "case_118",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c013_fe6a5e0364.png",
+  "condition": "A sealed jar with a small basil cutting and a soil bead containing tiny soil-dwelling organisms. Seal the container and keep it in darkness at about 22°C for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Respiration"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118/model_image_01.png"
+  ],
+  "errors": []
+}

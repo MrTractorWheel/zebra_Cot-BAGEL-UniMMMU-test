@@ -1,0 +1,16 @@
+{
+  "id": "case_122",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/straw-water.png",
+  "condition": "A plastic straw is inserted vertically into a half-filled glass of water. Draw the observed appearance of the straw in the glass of water.",
+  "meta": {
+    "level_1": "Optics",
+    "level_2": "Refraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_117",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c007_cee6d81e9d.png",
+  "condition": "A sealed glass vial with a small slice of bread and visible mold growth beginning to form. Seal the container and store at room temperature in darkness for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Respiration"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_123",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d23_c001_14601a388f.png",
+  "condition": "A wooden work surface hosts a rectangular bar magnet with a few dozen iron nails scattered nearby. Gently bring the bar magnet into contact with the pile of nails and maintain contact long enough for every nail to stick to the magnet",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Magnetic attraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123/model_image_01.png"
+  ],
+  "errors": []
+}

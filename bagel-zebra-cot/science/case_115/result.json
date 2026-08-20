@@ -1,0 +1,16 @@
+{
+  "id": "case_115",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/leaves-saltwater.png",
+  "condition": "Fresh green leaves are soaked in salt water for several hours. Draw the result.",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Osmosis / wilting"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115/model_image_01.png"
+  ],
+  "errors": []
+}

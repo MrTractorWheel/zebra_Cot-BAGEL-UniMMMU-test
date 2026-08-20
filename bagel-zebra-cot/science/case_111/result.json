@@ -1,0 +1,16 @@
+{
+  "id": "case_111",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c011_74e805cedc.png",
+  "condition": "Green cantaloupe on a kitchen counter; rind is pale with light netting. Keep at 22°C for 4 days",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Ripening / color change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111/model_image_01.png"
+  ],
+  "errors": []
+}

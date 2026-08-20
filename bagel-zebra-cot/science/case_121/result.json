@@ -1,0 +1,16 @@
+{
+  "id": "case_121",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d22_c012_e49ac833d5.png",
+  "condition": "A clear acrylic rod on a white surface with a red light entering one end. Bend the rod 25 degrees while keeping the ends fixed",
+  "meta": {
+    "level_1": "Optics",
+    "level_2": "Refraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121/model_image_01.png"
+  ],
+  "errors": []
+}

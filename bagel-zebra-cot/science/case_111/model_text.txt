@@ -1,0 +1,2 @@
+<think>The problem describes a green cantaloupe on a kitchen counter with a pale rind and light netting. The condition specifies keeping it at 22°C for 4 days. This implies a ripening process. I will reason about the expected outcome of ripening a cantaloupe under these conditions.
+I will now visualize the final state of the cantaloupe after 4 days at 22°C, assuming it is allowed to ripen naturally.</think>

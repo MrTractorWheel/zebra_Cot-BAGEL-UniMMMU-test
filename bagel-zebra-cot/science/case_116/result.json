@@ -1,0 +1,16 @@
+{
+  "id": "case_116",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c001_2cdace82af.png",
+  "condition": "A sealed glass jar containing a single sprouting bean seed in a moist cotton bed, with visible roots and a small amount of soil at the bottom. Seal the container and keep it in darkness at approximately 22°C for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Respiration"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116/model_image_01.png"
+  ],
+  "errors": []
+}

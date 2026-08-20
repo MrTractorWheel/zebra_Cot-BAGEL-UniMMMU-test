@@ -1,0 +1,16 @@
+{
+  "id": "case_119",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c019_1985b3cff3.png",
+  "condition": "A sealed jar containing a small mint cutting on damp paper towels with a thread of mold starting to form. Seal the container and keep in darkness at approximately 21°C for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Respiration"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119/model_image_01.png"
+  ],
+  "errors": []
+}
