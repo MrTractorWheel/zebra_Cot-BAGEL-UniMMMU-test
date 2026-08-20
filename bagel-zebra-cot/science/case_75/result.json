@@ -1,0 +1,16 @@
+{
+  "id": "case_75",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c006_343be69e4c.png",
+  "condition": "A bronze statue placed outdoors in a garden. Leave the statue exposed to outdoor air for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75/model_image_01.png"
+  ],
+  "errors": []
+}

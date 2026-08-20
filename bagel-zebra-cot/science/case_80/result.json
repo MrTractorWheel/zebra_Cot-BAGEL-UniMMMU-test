@@ -1,0 +1,16 @@
+{
+  "id": "case_80",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c012_04605344fd.png",
+  "condition": "A raw oak wood plank on a workbench. Expose to air at room temperature for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80/model_image_01.png"
+  ],
+  "errors": []
+}

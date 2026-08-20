@@ -1,0 +1,16 @@
+{
+  "id": "case_74",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c003_d06974d4ac.png",
+  "condition": "A silver coin on a dark slate surface in a calm room. Expose the coin to air containing trace sulfur compounds at room temperature for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74/model_image_01.png"
+  ],
+  "errors": []
+}

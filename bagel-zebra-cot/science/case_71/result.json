@@ -1,0 +1,16 @@
+{
+  "id": "case_71",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/sodium-block.png",
+  "condition": "A block of metallic sodium is exposed to open air. Draw the state when it is burning.",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71/model_image_01.png"
+  ],
+  "errors": []
+}

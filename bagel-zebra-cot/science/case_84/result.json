@@ -1,0 +1,16 @@
+{
+  "id": "case_84",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/apple-fresh.png",
+  "condition": "A freshly cut apple slice is left exposed to air for several hours. Draw the result.",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84/model_image_01.png"
+  ],
+  "errors": []
+}

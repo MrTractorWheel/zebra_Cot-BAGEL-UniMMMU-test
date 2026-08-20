@@ -1,0 +1,16 @@
+{
+  "id": "case_79",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c011_97381eb678.png",
+  "condition": "A bronze bracelet resting on a soft fabric. Leave in outdoor air with humidity for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79/model_image_01.png"
+  ],
+  "errors": []
+}

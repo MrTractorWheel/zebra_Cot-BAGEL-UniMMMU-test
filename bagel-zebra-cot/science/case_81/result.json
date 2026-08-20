@@ -1,0 +1,16 @@
+{
+  "id": "case_81",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c013_46ef030fe6.png",
+  "condition": "A ripe banana resting on a kitchen towel. Leave in room air for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81/model_image_01.png"
+  ],
+  "errors": []
+}

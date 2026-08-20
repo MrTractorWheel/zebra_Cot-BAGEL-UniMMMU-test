@@ -1,0 +1,16 @@
+{
+  "id": "case_78",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c010_3a305cf74d.png",
+  "condition": "A copper pipe in a small workshop corner. Expose to humid air at room temperature for a sufficiently long time",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Oxidation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78/model_image_01.png"
+  ],
+  "errors": []
+}
