@@ -1,0 +1,16 @@
+{
+  "id": "case_55",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d12_c003_6b577c7769.png",
+  "condition": "A 250 mL bottle with water and a deflated balloon on the mouth; an Alka-Seltzer tablet sits nearby. Drop one Alka-Seltzer tablet into the bottle; immediately seal with balloon; wait for 30 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Gas generation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55/model_image_01.png"
+  ],
+  "errors": []
+}

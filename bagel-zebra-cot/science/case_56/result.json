@@ -1,0 +1,16 @@
+{
+  "id": "case_56",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d12_c011_5f16756e57.png",
+  "condition": "A beaker with hot water and baking soda. Add baking soda to hot water in the beaker; hold the balloon over the mouth; wait 20 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Gas generation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56/model_image_01.png"
+  ],
+  "errors": []
+}

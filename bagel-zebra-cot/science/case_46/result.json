@@ -1,0 +1,16 @@
+{
+  "id": "case_46",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c007_8c17b452ab.png",
+  "condition": "Bromothymol blue indicator in neutral solution;  Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Acid-base indicator"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46/model_image_01.png"
+  ],
+  "errors": []
+}

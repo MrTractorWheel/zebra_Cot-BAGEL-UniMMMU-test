@@ -1,0 +1,1 @@
+<think>The problem describes a chemical reaction. Red cabbage indicator is a natural pH indicator. In a neutral solution, it appears purple. Adding 0.1 M NaOH (a strong base) will change the pH from neutral to basic, causing the indicator to turn blue. The beaker, its contents, and the surrounding objects will remain unchanged as the reaction occurs within the beaker.</think>

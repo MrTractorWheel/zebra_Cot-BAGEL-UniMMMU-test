@@ -1,0 +1,16 @@
+{
+  "id": "case_50",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c012_a6a16d5e6b.png",
+  "condition": "Red litmus paper in acidic solution;  Dip the litmus strip into 0.1 M NaOH and hold for 10 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Acid-base indicator"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50/model_image_01.png"
+  ],
+  "errors": []
+}

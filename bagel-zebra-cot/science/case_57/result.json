@@ -1,0 +1,16 @@
+{
+  "id": "case_57",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c001_605de3aed7.png",
+  "condition": "A small metallic sodium cube (~1 cm) rests on a white ceramic tile on a clean lab bench; no flame visible yet. Ignite the sodium cube in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57/model_image_01.png"
+  ],
+  "errors": []
+}
