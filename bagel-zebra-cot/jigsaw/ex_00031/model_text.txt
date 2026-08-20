@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON> {"choice": 1, "rationale": "Candidate 1 seamlessly integrates with the existing image, matching textures and colors, while Candidate 0 fails to align with the volcano's texture."}</FINAL_ANSWER_JSON>

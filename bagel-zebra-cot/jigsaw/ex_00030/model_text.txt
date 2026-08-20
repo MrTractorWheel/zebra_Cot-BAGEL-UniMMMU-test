@@ -1,0 +1,1 @@
+<think>The analysis shows that Candidate 0 provides a seamless continuation of the starry sky, matching the texture, color, and star distribution in the reference image. Candidate 1, while visually similar, introduces a subtle seam or difference in the star pattern that does not align perfectly with the reference. This seam is the decisive cue.</think>

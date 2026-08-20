@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 shows a hand reaching towards the red character, matching the context of the scene. Candidate 1 shows a hand reaching towards the background, which is inconsistent."}</FINAL_ANSWER_JSON>

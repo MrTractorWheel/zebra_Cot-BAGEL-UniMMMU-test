@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 shows a continuation of the woman's face and hand, matching the reference's texture and shading. Candidate 1 shows a different woman's face and hand, which does not match the reference."}</FINAL_ANSWER_JSON>
