@@ -1,0 +1,7 @@
+<think>The problem asks for the length of the minor arc BC in a circle where triangle ABC is inscribed, angle A is 45 degrees, and the length of side BC is 2√2. The circle's center is O. We need to find the radius of the circle first.
+
+Let D be the midpoint of BC. Since O is the center of the circle, OD is perpendicular to BC. Therefore, BD = DC = BC/2 = √2. Triangle ABD is a right-angled triangle (angle ADB = 90°) with angle A = 45°. This makes it a 45-45-90 triangle. So, AD = BD = √2. The hypotenuse AB = AD√2 = √2 * √2 = 2.
+
+Now, triangle AOB is a right-angled triangle (angle ADO = 90°) with AD = √2 and AB = 2. By the Pythagorean theorem, OB² = AB² - AD² = 2² - (√2)² = 4 - 2 = 2. Thus, OB = √2.
+
+The central angle ∠BOC is twice the inscribed angle ∠BAC. Since ∠BAC = 45°, ∠BOC = 2 * 45° = 90° = π/2 radians. The length of an arc is rθ, where r is the radius and θ is the central angle in radians. So, the length of arc BC is OB * ∠BOC = √2 * (π/2) = √2π/2.</think>

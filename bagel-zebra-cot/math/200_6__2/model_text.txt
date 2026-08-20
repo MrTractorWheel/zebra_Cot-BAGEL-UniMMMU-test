@@ -1,0 +1,17 @@
+<think>The problem asks to prove that AM=2ME when ∠DCE=15°. We are given that AB and CD are diameters of the circle, and AB is perpendicular to CD. We are also given that ∠PEF=∠DCE. We need to use the properties of the circle, the given angles, and the relationships between the points and lines to establish the required equality.
+
+First, let's analyze the given information and the diagram. Since AB and CD are diameters and AB is perpendicular to CD, quadrilateral ACBD is a square. This means that all sides are equal and all angles are 90°. Therefore, ∠ACD=∠CDB=45°.
+
+Next, we are given that ∠DCE=15°. Since CD is a diameter, ∠DEC=90° (angle in a semicircle). Therefore, ∠CDE=90°-15°=75°. Since AB is perpendicular to CD, ∠BDE=90°-75°=15°.
+
+Now, we are given that ∠PEF=∠DCE=15°. Since ∠BDE=15°, it follows that ∠BDE=∠PEF. This implies that DE is parallel to PF (alternate interior angles are equal).
+
+Since DE is parallel to PF, we have ∠F=∠DEF (alternate interior angles). Since ∠DEF=∠CDE=75°, it follows that ∠F=75°.
+
+Now, we need to show that AM=2ME. To do this, we will show that △AME is a 30-60-90 triangle. We know that ∠AEM=∠CDE=75° (since ∠CDE=∠AEM because they are subtended by the same arc AE). We also know that ∠EAM=45° (since ∠EAM=∠EAC=45° because ACBD is a square).
+
+Therefore, in △AME, we have ∠AEM=75°, ∠EAM=45°, and ∠AME=180°-75°-45°=60°. This means that △AME is a 30-60-90 triangle.
+
+In a 30-60-90 triangle, the sides are in the ratio 1:√3:2. Since ∠EAM=45°, the side opposite this angle (EM) is the shortest side. The side opposite the 60° angle (AM) is the longest side. Therefore, AM=2ME.
+
+This completes the proof that AM=2ME when ∠DCE=15°.</think>

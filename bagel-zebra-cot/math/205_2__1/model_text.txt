@@ -1,0 +1,7 @@
+<think>The problem asks for the measure of ∠ABD in a circle where AB is the diameter. We are given ∠BCD = 28°. We will use the properties of angles in a circle, particularly the fact that an angle inscribed in a semicircle is a right angle.
+
+First, we draw the auxiliary line AD. Since AB is the diameter of the circle, by the Thales' theorem, ∠ACB is a right angle (90°). This is because an angle inscribed in a semicircle is a right angle. So, ∠ACB = 90°.
+
+We are given that ∠BCD = 28°. We can find ∠ACD by subtracting ∠BCD from ∠ACB. So, ∠ACD = ∠ACB - ∠BCD = 90° - 28° = 62°.
+
+Now, we need to find ∠ABD. We know that ∠ACD and ∠ABD are angles subtended by the same arc AD. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠ABD = ∠ACD = 62°.</think>

@@ -1,0 +1,15 @@
+<think>The problem asks for the radius of the circumscribed circle of triangle ABC. We are given angle A = 45°, CD is the altitude from C to AB, with AB = 8 and CD = 6.
+The altitude CD divides AB into segments AD and DB. Since CD is perpendicular to AB, triangles ACD and BCD are right-angled at D.
+In right-angled triangle ACD, angle A = 45°, so it is an isosceles right-angled triangle. Therefore, AD = CD = 6.
+Since AB = 8, DB = AB - AD = 8 - 6 = 2.
+Now, consider the circumcircle of triangle ABC. The circumcenter O is the intersection of the perpendicular bisectors of the sides of the triangle. The perpendicular bisector of AB is the line perpendicular to AB at its midpoint M. Since AB = 8, its midpoint M is at (AB/2, 0) = (4, 0). The perpendicular bisector of AB is the line x = 4.
+The perpendicular bisector of AC also passes through O. Let’s find the equation of the perpendicular bisector of AC. Let’s assume the coordinates of C are (x, y). Since CD is perpendicular to AB and CD = 6, and D is on AB, the coordinates of D are (4, 0). Since CD is perpendicular to AB (which is horizontal), CD is vertical. So, the x-coordinate of C is 4, and the y-coordinate is 6. Thus, C is at (4, 6).
+The midpoint of AC is ((A_x + C_x)/2, (A_y + C_y)/2) = ((0 + 4)/2, (0 + 6)/2) = (2, 3).
+The slope of AC is (6 - 0)/(4 - 0) = 6/4 = 3/2. The perpendicular bisector of AC has slope -2/3.
+The equation of the perpendicular bisector of AC is y - 3 = (-2/3)(x - 2).
+We need to find the intersection of this line with x = 4.
+Substitute x = 4 into the equation: y - 3 = (-2/3)(4 - 2) = (-2/3)(2) = -4/3.
+So, y = 3 - 4/3 = 5/3.
+Thus, the circumcenter O is at (4, 5/3).
+The radius is the distance from O to any vertex. Let’s calculate the distance from O to A (0,0).
+Distance OA = √[(4 - 0)^2 + (5/3 - 0)^2] = √[16 + 25/9] = √[(144 + 25)/9] = √[169/9] = 13/3.</think>

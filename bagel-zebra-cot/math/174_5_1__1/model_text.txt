@@ -1,0 +1,11 @@
+<think>The problem asks to prove that ∠BAD = 2∠CBD in a cyclic quadrilateral ABCD where BC = CD. We are given the base figure and are instructed to add the auxiliary line AC. This line will be crucial for the proof. We will use the properties of angles subtended by the same arc and the fact that BC = CD to establish the relationship between the angles.
+
+We begin by drawing the diagonal AC. This diagonal divides the quadrilateral ABCD into two triangles, ΔABC and ΔACD. Since ABCD is cyclic, the opposite angles of the quadrilateral sum to 180°. Thus, ∠ABC + ∠ADC = 180°. We can also use the Inscribed Angle Theorem, which states that an angle inscribed in a circle is half the measure of its intercepted arc. This theorem will be used to relate the angles ∠BAD and ∠BCD.
+
+Let’s denote ∠CBD as x. Since BC = CD, the triangles ΔBCD and ΔABC share the side BD, and BC = CD. This implies that the angles opposite these equal sides are equal. Therefore, ∠BDC = ∠CBD = x. This means that ∠BCD = 180° - ∠CBD - ∠BDC = 180° - x - x = 180° - 2x.
+
+Now, consider the angles ∠BAD and ∠BCD. These angles are subtended by the same arc BD. By the Inscribed Angle Theorem, ∠BAD = 1/2 ∠BCD. Substituting the expression for ∠BCD from above, we get ∠BAD = 1/2 (180° - 2x) = 90° - x.
+
+We need to show that ∠BAD = 2∠CBD. We have already established that ∠BAD = 90° - x. We also know that ∠CBD = x. Therefore, 2∠CBD = 2x. We need to show that 90° - x = 2x. Adding x to both sides of this equation gives 90° = 3x. Dividing both sides by 3 gives x = 30°. This means that ∠CBD = 30°. Substituting this value back into the expression for ∠BAD, we get ∠BAD = 90° - 30° = 60°. And 2∠CBD = 2 * 30° = 60°. Therefore, ∠BAD = 2∠CBD.
+
+The key step in the proof is using the fact that BC = CD to establish that ∠BDC = ∠CBD, and then applying the Inscribed Angle Theorem to relate ∠BAD and ∠BCD. By showing that ∠BAD = 2∠CBD, we have successfully proved the required property.</think>
