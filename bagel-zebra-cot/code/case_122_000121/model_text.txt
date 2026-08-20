@@ -1,0 +1,1 @@
+<think>The problem requires rendering an SVG specified by its source code. The code defines a simple shape, a rectangle, and uses it as a template to draw two instances. The final image will be a 512x512 pixel square with a white background, containing two green rectangles, one at (20, 226) and another at (123, 226), both 60x60 in size.</think>

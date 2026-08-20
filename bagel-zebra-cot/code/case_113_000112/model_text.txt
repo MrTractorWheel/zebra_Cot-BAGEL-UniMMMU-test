@@ -1,0 +1,1 @@
+<think>Begin with a 512x512 canvas. Add a white background. Add a large black circle at (251,285) with a 46-unit radius. Add a yellow path with a 3-unit stroke. Add a green path with a 4-unit stroke. Add a green rectangle. Add a red rectangle. Add a red path. The final image is a black circle with several colored shapes around it.</think>

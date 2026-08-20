@@ -1,0 +1,2 @@
+<think>The problem asks to render the given SVG code without using any tools. I need to visualize the final image based on the provided code.
+The code defines a 512x512 canvas with a white background. There are four rectangles with a dark blue fill and no stroke, positioned at different locations on the canvas.</think>

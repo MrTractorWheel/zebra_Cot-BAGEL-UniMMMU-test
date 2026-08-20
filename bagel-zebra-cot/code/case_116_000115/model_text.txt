@@ -1,0 +1,2 @@
+<think>Final Answer: <RENDER_SUMMARY>…</RENDER_SUMMARY> (≤60 words, objective, deterministic description of the final image)
+(2) One final rendered image.</think>

@@ -1,0 +1,5 @@
+<think>The problem requires me to render a given SVG source code without using any external tools. I need to carefully parse the code, applying the provided rendering rules step by step. The code defines a SVG container with a white background, a large white rectangle, and a green polygon with specific coordinates.
+The SVG has a viewBox of 0,0,512,512, which means the canvas size is 512x512 pixels. The background is white, so I will render a 512x512 white rectangle.
+The green polygon is defined with coordinates (379.53211240420734,385.3298144257369), (299.92834690152614,360.2353692135804), (299.19566618679255,276.77307927565676), and (378.3466101048669,250.284992527278). These coordinates are in user space, so I will use them directly.
+The polygon is filled with #2ECC71 (green) and has a stroke of none. The polygon is the last element in the SVG, so it will be drawn on top of the white background and the white rectangle.
+The final image will be a green polygon on a white background, centered within the 512x512 canvas.</think>
