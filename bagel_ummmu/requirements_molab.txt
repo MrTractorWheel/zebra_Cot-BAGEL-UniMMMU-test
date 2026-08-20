@@ -1,0 +1,20 @@
+# Python deps for Bagel-Zebra-CoT sampling on Blackwell GPUs.
+# NOTE: torch/torchvision are installed separately (cu128 wheels) in setup_molab.sh
+# because the repo's pinned torch==2.5.1 does NOT support RTX 6000 Pro Blackwell (sm_120).
+transformers==4.49.0
+accelerate>=0.34.0
+safetensors>=0.4.5
+huggingface_hub
+hf_transfer
+einops>=0.8.0
+numpy<2
+scipy
+opencv-python-headless
+matplotlib
+PyYAML
+requests
+sentencepiece
+pyarrow
+decord
+tqdm
+pandas
