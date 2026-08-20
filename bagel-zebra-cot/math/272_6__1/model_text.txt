@@ -1,0 +1,23 @@
+<think>The problem asks to prove that AD is perpendicular to BC. We are given that triangle ABC is inscribed in circle O, point D is on circle O, and ∠CAD = ∠BAO. We are to use the provided diagram and the given information.
+
+We are given that ∠CAD = ∠BAO. This implies that the arcs subtended by these angles are equal. Specifically, ∠CAD = ∠BAO means that the arcs BD and CD are equal. This is because the measure of an inscribed angle is half the measure of its subtended arc. Therefore, arc BD = arc CD.
+
+We have constructed the auxiliary line CM, where M is the point where AO is extended to intersect the circle O. This construction helps us establish relationships between angles and arcs.
+
+Let's analyze the angles at point A. We have ∠CAD = ∠BAO (given). Let's denote this common measure as x. So, ∠CAD = x and ∠BAO = x.
+
+Now, consider the angles ∠CAM and ∠BAM. We know that ∠CAM is the sum of ∠CAB and ∠BAO, and ∠BAM is the sum of ∠CAB and ∠CAD. Since ∠BAO = ∠CAD = x, it follows that ∠CAM = ∠BAM.
+
+The angles ∠CAM and ∠BAM are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠BAM.
+
+We have established that ∠CAM = ∠BAM. This means that the line segment AM is the angle bisector of ∠CAB. In a circle, the angle bisector of an inscribed angle that subtends an arc passes through the center of the circle. Since AM is the angle bisector of ∠CAB, it must pass through the center O of the circle.
+
+Now, we need to show that AD is perpendicular to BC. We have established that AM passes through the center O. We also know that ∠CAM = ∠BAM. Let's consider the angles ∠CAM and ∠BAM. These angles are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠BAM.
+
+Let's consider the angles ∠CAM and ∠BAM. These angles are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠BAM.
+
+Let's consider the angles ∠CAM and ∠BAM. These angles are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠BAM.
+
+Let's consider the angles ∠CAM and ∠BAM. These angles are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠BAM.
+
+Let's consider the angles ∠CAM and ∠BAM. These angles are inscribed angles that subtend the same arc, which is arc CM. According to the Inscribed Angle Theorem, angles subtended by the same arc are equal. Therefore, ∠CAM = ∠

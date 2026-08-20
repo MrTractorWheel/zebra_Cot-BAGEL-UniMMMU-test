@@ -1,0 +1,7 @@
+<think>The problem asks for the length of OP in a circle with radius 5, where AB and CD are perpendicular chords of equal length 6. We are given the construction of the diagram with OM perpendicular to AB at M, ON perpendicular to CD at N, and connecting OB and OD. We need to find OP.
+
+We will use the properties of perpendicular bisectors of chords in a circle and the Pythagorean theorem. First, we find the lengths of OM and ON. Since AB and CD are chords of equal length 6, and the radius of the circle is 5, we can use the Pythagorean theorem in the right triangles OMB and OND. Let M be the midpoint of AB and N be the midpoint of CD. Then, AM = MB = 3 and CN = ND = 3. The distance from the center O to a chord is given by the formula for the distance from the center to a chord: d = √(r² - (l/2)²), where r is the radius and l is the length of the chord. So, OM = ON = √(5² - 3²) = √(25 - 9) = √16 = 4.
+
+Since AB and CD are perpendicular, and OM and ON are perpendicular to AB and CD respectively, the quadrilateral OMPN is a rectangle. This is because all four angles are right angles. Therefore, OP is the diagonal of this rectangle. The lengths of the sides of the rectangle are OM = 4 and ON = 4. The diagonal of a rectangle can be found using the Pythagorean theorem: diagonal = √(OM² + ON²) = √(4² + 4²) = √(16 + 16) = √32 = 4√2.
+
+Therefore, the length of OP is 4√2.</think>

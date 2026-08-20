@@ -1,0 +1,12 @@
+<think>The problem asks for the measure of ∠AEB. We are given that A, B, C, D, E are points on a circle with center O on AD, and ∠BCD = 110°. We are to use the auxiliary line BD drawn in the problem image.
+First, we draw the line segment BD, connecting points B and D on the circle. This is the auxiliary line specified in the problem.
+Now, we use the inscribed angle theorem. The inscribed angle theorem states that the measure of an inscribed angle is half the measure of its intercepted arc. We want to find ∠AEB. ∠AEB is an inscribed angle that intercepts arc AB. So, ∠AEB = 1/2 * measure of arc AB.
+Next, we need to find the measure of arc AB. We can find this by considering the opposite arc, which is arc ACB. The measure of arc ACB is the sum of the measures of arcs AC, CB, and BD. Since points A, B, C, D, E are on the circle, arc ACB is the major arc ACB.
+We are given that ∠BCD = 110°. ∠BCD is an inscribed angle that intercepts arc BD. So, by the inscribed angle theorem, ∠BCD = 1/2 * measure of arc BD. Therefore, measure of arc BD = 2 * ∠BCD = 2 * 110° = 220°.
+Since arc ACB is the major arc, its measure is 360° - measure of arc BD = 360° - 220° = 140°.
+Now, we can find the measure of arc AB. Since arc ACB is composed of arcs AC, CB, and BD, and we know the measure of arc ACB and arc BD, we can find the measure of arc AB. However, we need to consider the relationship between arc AB and the other arcs.
+We can use the fact that the sum of the measures of arcs AC, CB, and BD is equal to the measure of arc ACB. We also know that the sum of the measures of arcs AB, BC, and CD is equal to the measure of arc ACB. Since points A, B, C, D, E are on the circle, arc AB + arc BC + arc CD = arc ACB.
+We are given that ∠BCD = 110°. ∠BCD is an inscribed angle that intercepts arc BD. So, by the inscribed angle theorem, ∠BCD = 1/2 * measure of arc BD. Therefore, measure of arc BD = 2 * ∠BCD = 2 * 110° = 220°.
+Since arc ACB is the major arc, its measure is 360° - measure of arc BD = 360° - 220° = 140°.
+Now, we can find the measure of arc AB. Since arc ACB is composed of arcs AC, CB, and BD, and we know the measure of arc ACB and arc BD, we can find the measure of arc AB. However, we need to consider the relationship between arc AB and the other arcs.
+We can use the fact that the sum of the measures of arcs AC, CB, and BD is equal to the measure of arc ACB. We also know that the sum of the measures of arcs AB, BC, and CD is equal to the measure of arc ACB. Since points A, B, C

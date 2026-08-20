@@ -1,0 +1,7 @@
+<think>The problem asks to prove EF=CF in a parallelogram ABCD with specific conditions. The provided image shows the original figure, and the reasoning will use the auxiliary line CF extended to G. The key is to show triangles AEF and GEF are congruent, leading to EF=CF.
+
+We need to show triangles AEF and GEF are congruent. First, note that F is the midpoint of AD, so AF=FD. Since ABCD is a parallelogram, AB is parallel to CD, and AB=CD. Thus, ∠GAF=∠FDC (alternate interior angles). Also, ∠GFA=∠DFC (vertical angles). Therefore, by AAS, △GAF ≅ △FDC. This gives AG=CD=AB and GF=CF.
+
+Next, we show ∠G=∠AEF. Since CE is perpendicular to AB, ∠CEB=90°. Since AB is parallel to CD, ∠GCE=∠CEB=90° (alternate interior angles). Thus, ∠G+∠GEF=90° and ∠GEF+∠AEF=90°, so ∠G=∠AEF.
+
+Now, consider triangles AEF and GEF. AF=GF (from GF=CF), ∠G=∠AEF (proven), and ∠GFA=∠EFA (since F is midpoint and AF=GF). By ASA, △AEF ≅ △GEF. Therefore, EF=CF.</think>

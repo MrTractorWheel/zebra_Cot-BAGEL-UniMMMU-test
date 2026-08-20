@@ -1,0 +1,24 @@
+<think>The problem asks for the length of AD in triangle ABC with given conditions. We are given that AB = AE, ∠BAD = ∠C, and AD is perpendicular to BE. We need to find a way to relate the lengths using these conditions. The problem provides a construction: let BE intersect AD at point L, and draw EF//AD intersecting BC at point F. This construction helps us create similar triangles and use properties of parallel lines and perpendicularity.
+
+We are given AB = AE and ∠BAD = ∠C. Since AD is perpendicular to BE, we have ∠ALB = 90°. We are also given CE = 1 and AE = 3. We need to find AD.
+
+Let's analyze the angles. ∠BAD = ∠C (given). Let's call this common angle α. So, ∠BAD = α and ∠C = α.
+
+Now, let's consider the angles in triangle ABE. Since AB = AE, triangle ABE is isosceles. Therefore, ∠ABE = ∠AEB. Let's call this angle β. So, ∠ABE = ∠AEB = β.
+
+In triangle ABE, the sum of angles is 180°. So, ∠BAE + ∠ABE + ∠AEB = 180°. Since ∠BAE = ∠BAD + ∠DAE = α + ∠DAE, and ∠ABE = ∠AEB = β, we have:
+α + ∠DAE + β + β = 180°
+α + ∠DAE + 2β = 180°
+∠DAE = 180° - α - 2β.
+
+Now, let's consider the angles in triangle ABD. Since AD is perpendicular to BE, ∠ALB = 90°. We have ∠BAD = α. So, ∠ABD = 90° - α.
+
+In triangle ABD, the sum of angles is 180°. So, ∠BAD + ∠ABD + ∠ADB = 180°. Since ∠ADB is the angle at D, and we are given AD is perpendicular to BE, ∠ADB = 90°. So, we have:
+α + (90° - α) + 90° = 180°
+180° = 180°.
+
+This doesn't directly help us find AD. Let's consider the parallel lines EF//AD and the transversal BE. Since EF//AD, ∠FEB = ∠EAD (corresponding angles). We found ∠EAD = 180° - α - 2β. So, ∠FEB = 180° - α - 2β.
+
+Now, let's consider the angles in triangle CEF. Since EF//AD, ∠FEC = ∠EAD (corresponding angles). We found ∠EAD = 180° - α - 2β. So, ∠FEC = 180° - α - 2β.
+
+In triangle CEF, the sum of angles is 180°. So, ∠FCE + ∠FEC + ∠EFC = 180°. Since ∠FCE = ∠C = α, ∠FEC = 180° - α - 2β, and ∠EFC is the angle at F. We need to find ∠
