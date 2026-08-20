@@ -1,0 +1,6 @@
+<think>The problem asks for the value of $\tan \angle BPC$ in $\triangle ABC$ where $AB=AC=5$, $BC=8$, and $\angle BPC = \frac{\angle BAC}{2}$. We are given the base figure and the task to add the auxiliary line $AH \perp BC$.
+First, we construct the altitude $AH$ from $A$ to $BC$. Since $AB=AC$, $AH$ is also the median and angle bisector of $\angle BAC$. Let $\angle BAC = 2\alpha$. Then $\angle BAH = \alpha$ and $\angle BPC = \alpha$. We need to find $\tan \alpha$.
+In $\triangle ABC$, $AB=AC=5$, $BC=8$. Let $H$ be the foot of the altitude from $A$ to $BC$. Since $AB=AC$, $H$ is the midpoint of $BC$. Thus, $BH = \frac{BC}{2} = \frac{8}{2} = 4$.
+In $\triangle ABH$, $AB=5$, $BH=4$. By the Pythagorean theorem, $AH = \sqrt{AB^2 - BH^2} = \sqrt{5^2 - 4^2} = \sqrt{25 - 16} = \sqrt{9} = 3$.
+Now, $\tan \alpha = \frac{AH}{BH} = \frac{3}{4}$.
+Since $\angle BPC = \alpha$, $\tan \angle BPC = \tan \alpha = \frac{3}{4}$.</think>

@@ -1,0 +1,40 @@
+<think>The problem asks for the area of rhombus ABCD. We are given BE=√3 and ∠C=60°. We need to find the side length of the rhombus.
+First, we draw the diagonal BD. Since ABCD is a rhombus, its diagonals are perpendicular bisectors of each other. This means ∠BOD=90°.
+We are given ∠C=60°. In a rhombus, opposite angles are equal, so ∠A=∠C=60°.
+Since ABCD is a rhombus, all sides are equal, so AB=BC=CD=DA.
+We are given that E is the midpoint of AD and F is the midpoint of AB. This means AE=ED=AF=FB=AB/2.
+We are given BE=√3. We need to find the length of the side of the rhombus.
+Let AB=BC=CD=DA=x. Since E is the midpoint of AD, AE=ED=x/2.
+Since F is the midpoint of AB, AF=FB=x/2.
+We can see that triangle ABE is a right-angled triangle (at E). We can use the Pythagorean theorem to find the length of AB.
+In triangle ABE, AE=x/2, BE=√3, and AB=x.
+By the Pythagorean theorem: (x/2)^2 + (√3)^2 = x^2.
+x^2/4 + 3 = x^2.
+3 = x^2 - x^2/4.
+3 = (4x^2 - x^2)/4.
+3 = 3x^2/4.
+x^2 = 3 * 4/3.
+x^2 = 4.
+x = 2.
+The side length of the rhombus is 2.
+The area of a rhombus is given by the formula: Area = (diagonal1 * diagonal2)/2.
+We can find the length of the other diagonal BD by using the properties of the rhombus and the given information.
+Since ∠A=60°, triangle ABD is an equilateral triangle (all sides are equal). Therefore, BD=AB=2.
+The diagonals of a rhombus are perpendicular bisectors of each other. So, the area of the rhombus is (BD * AC)/2.
+We need to find the length of AC.
+Since ∠BOD=90° and ∠A=60°, triangle AOB is a right-angled triangle (at O).
+In triangle AOB, ∠OAB=60°, ∠AOB=90°, and AB=2.
+Using trigonometry, we can find the length of AO.
+sin(60°) = opposite/hypotenuse = OB/AB.
+√3/2 = OB/2.
+OB = √3.
+cos(60°) = adjacent/hypotenuse = AO/AB.
+1/2 = AO/2.
+AO = 1.
+Since O is the midpoint of BD, BO=OD=√3.
+Using the Pythagorean theorem in triangle AOB: AO^2 + BO^2 = AB^2.
+1^2 + (√3)^2 = 2^2.
+1 + 3 = 4.
+This confirms our calculations.
+The length of AC is 2 * AO = 2 * 1 = 2.
+The area of the rhombus is (BD * AC)/2 = (2 * 2)/2 = 2.</think>

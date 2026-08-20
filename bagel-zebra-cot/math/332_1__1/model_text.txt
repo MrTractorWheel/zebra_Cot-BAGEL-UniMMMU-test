@@ -1,0 +1,19 @@
+<think>The problem asks for the length of the diameter AD of a circle, given that AB is a chord, and ∠BCD = 45°. We are given AB = 10. We are to use the constructed line BD.
+
+First, we observe that AD is the diameter of the circle, so by the Inscribed Angle Theorem, the angle subtended by a diameter at the circumference is a right angle. Thus, ∠ABD = 90°. This makes triangle ABD a right-angled triangle with the right angle at B.
+
+Next, we use the Inscribed Angle Theorem again. The angle ∠BCD subtends the arc BD. Since ∠BCD = 45°, the arc BD must also be 45°. However, the Inscribed Angle Theorem states that an angle subtended by an arc at the circumference is half the measure of the arc. Therefore, the arc BD is 2 * ∠BCD = 2 * 45° = 90°.
+
+Now, we consider the circle and the arcs it contains. The total circumference of a circle is 360°. We have identified the arc BD as 90°. We also know that the arc AB is subtended by the angle ∠ACB. Since ∠BCD = 45°, and ∠ACB is the angle subtended by the arc AB, ∠ACB = ∠BCD = 45°. Thus, the arc AB is 2 * ∠ACB = 2 * 45° = 90°.
+
+The remaining arc, AC, completes the circle. The sum of the measures of the arcs AB, BD, and AC must be 360°. We have already determined that arc AB is 90° and arc BD is 90°. Therefore, arc AC = 360° - arc AB - arc BD = 360° - 90° - 90° = 180°.
+
+Now, we consider the triangle ABD. We have established that it is a right-angled triangle at B. We also know the length of the side AB. We need to find the length of the hypotenuse AD.
+
+In a right-angled triangle, the hypotenuse is the longest side. The side opposite the right angle is the hypotenuse. In triangle ABD, the right angle is at B. Therefore, the side AD is the hypotenuse.
+
+We can use the Pythagorean theorem to find the length of AD. The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (AD) is equal to the sum of the squares of the lengths of the other two sides (AB and BD).
+
+We are given AB = 10. We need to find BD. Since arc BD is 90°, the chord BD subtends a 90° arc. The angle subtended by a chord at the circumference is half the measure of the arc. Therefore, the angle ∠BAD subtended by the chord BD at the circumference is 1/2 * arc BD = 1/2 * 90° = 45°.
+
+Now, we have a right-angled triangle ABD with ∠ABD = 90°, ∠BAD = 45°, and ∠ADB = 180° - ∠ABD - ∠BAD = 180° - 90° - 45° = 45°. This means that triangle ABD is

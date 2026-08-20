@@ -1,0 +1,9 @@
+<think>The problem asks for the length of arc DE in the given geometric configuration. We are given an isosceles triangle ABC with AB=AC=6 cm and ∠BAC=50°. A semicircle is drawn with AB as its diameter, intersecting BC at D and AC at E. We need to find the length of arc DE.
+First, we establish the properties of the isosceles triangle ABC. Since AB=AC, ∠ABC=∠ACB. The sum of angles in a triangle is 180°, so ∠ABC+∠ACB+∠BAC=180°. Substituting the given values, 2∠ABC+50°=180°, which gives ∠ABC=∠ACB=65°.
+Next, we consider the semicircle with AB as its diameter. By the Thales' theorem, any point on the semicircle forms a right angle with the endpoints of the diameter. Therefore, ∠AEB=90°, and ∠AED=90°.
+Now, we analyze the quadrilateral ABDE. Since ABDE is a quadrilateral inscribed in a circle (specifically, the semicircle with diameter AB), the opposite angles sum to 180°. We already have ∠AEB=90°. We need to find ∠ABD. Since ∠ABC=65° and D lies on BC, ∠ABD=∠ABC=65°.
+In quadrilateral ABDE, ∠AEB+∠ABD=90°+65°=155°. Therefore, ∠AED+∠ADE=180°-155°=25°.
+We need to find ∠DOE, which is the central angle corresponding to arc DE. In triangle ADE, ∠AED=90°, ∠ADE=25°, so ∠DAE=180°-90°-25°=65°.
+Since ∠DAE=65°, and ∠BAC=50°, ∠EAD=∠DAE-∠BAC=65°-50°=15°.
+The central angle ∠DOE is twice the inscribed angle ∠EAD (angle subtended by the same arc at the center is twice the angle subtended at the circumference). Therefore, ∠DOE=2×15°=30°.
+The length of an arc is given by (angle/360°)×2πr, where r is the radius. The radius of the semicircle is AB/2=6/2=3 cm. So, the length of arc DE is (30/360)×2π×3=(1/12)×6π=π/2 cm.</think>
