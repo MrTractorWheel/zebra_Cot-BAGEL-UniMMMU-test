@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 seamlessly continues the character's face, matching the expression and hairstyle."}</FINAL_ANSWER_JSON>
