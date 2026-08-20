@@ -1,0 +1,2 @@
+<think>The problem describes a scenario where two pieces of butter are placed on the handles of a metal and a plastic spoon, both submerged in boiling water. The condition asks for the state of the butter pieces after 30 seconds. I need to determine how the heat from the boiling water will affect the butter.
+I will visualize the initial state to understand the setup and the materials involved. The image shows two spoons (one metal, one plastic) with butter pieces on their handles, submerged in boiling water.</think>

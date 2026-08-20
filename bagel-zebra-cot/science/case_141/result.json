@@ -1,0 +1,16 @@
+{
+  "id": "case_141",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c012_0fb80fb456.png",
+  "condition": "A sapphire scribe is slid horizontally across a slate plate.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Material hardness"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141/model_image_01.png"
+  ],
+  "errors": []
+}

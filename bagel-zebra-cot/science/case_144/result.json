@@ -1,0 +1,16 @@
+{
+  "id": "case_144",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/spoon-butter.png",
+  "condition": "A metal spoon and a plastic spoon are both placed in boiling water, each with a small piece of butter attached to the end of the handle. After 30 seconds, draw the state of the two pieces of butter.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Thermal conductivity differences"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144/model_image_01.png"
+  ],
+  "errors": []
+}

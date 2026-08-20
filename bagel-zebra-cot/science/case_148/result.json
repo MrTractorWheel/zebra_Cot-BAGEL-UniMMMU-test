@@ -1,0 +1,16 @@
+{
+  "id": "case_148",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c004_65fcb71191.png",
+  "condition": "Three beakers with colored liquids left to right: red, blue, green. Swap the red and green beakers; the blue beaker stays in the middle",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148/model_image_01.png"
+  ],
+  "errors": []
+}

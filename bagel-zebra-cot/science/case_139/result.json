@@ -1,0 +1,16 @@
+{
+  "id": "case_139",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c010_8cabfd11f9.png",
+  "condition": "A quartz scribe is slid horizontally across a chalk plate.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Material hardness"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_145",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c001_e84383561d.png",
+  "condition": "Three beverage bottles arranged left to right on a wooden table, colored red, blue, and yellow. Swap the positions of the red and yellow bottles; the blue bottle remains in the middle",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145/model_image_01.png"
+  ],
+  "errors": []
+}

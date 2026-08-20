@@ -1,0 +1,16 @@
+{
+  "id": "case_149",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c006_2406429ca0.png",
+  "condition": "Three fruits on a plate: strawberry (red) left, lemon (yellow) middle, grape (purple) right. Swap the red strawberry and the yellow lemon; the purple grape remains on the right",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149/model_image_01.png"
+  ],
+  "errors": []
+}

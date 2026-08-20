@@ -1,0 +1,16 @@
+{
+  "id": "case_146",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c002_56d39ff401.png",
+  "condition": "Three colored blocks on a table: green, purple, orange left to right. Swap the positions of the green and orange blocks; the purple block stays in the middle",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146/model_image_01.png"
+  ],
+  "errors": []
+}

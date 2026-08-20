@@ -1,0 +1,2 @@
+<think>The condition specifies that the red and yellow bottles are to be swapped, while the blue bottle stays in the middle. This means the red bottle moves to the right, and the yellow bottle moves to the left, with the blue bottle still in the center. The wooden table and the background remain unchanged.
+To visualize the final state, we need to show the three bottles in their new positions: red on the right, blue in the middle, and yellow on the left, all on the wooden table.</think>
