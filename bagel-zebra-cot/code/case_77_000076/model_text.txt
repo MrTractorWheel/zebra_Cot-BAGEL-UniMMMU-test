@@ -1,0 +1,1 @@
+<think>The task is to render the given SVG code without using any external tools. The code defines a simple shape: a white background, a yellow triangle, and a green rectangle. The triangle is positioned at the top center, and the rectangle is at the bottom right. The final image should reflect these objects on the white canvas.</think>

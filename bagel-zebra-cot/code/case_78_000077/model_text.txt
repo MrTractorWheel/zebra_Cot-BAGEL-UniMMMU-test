@@ -1,0 +1,5 @@
+<think>The problem requires rendering an SVG without using external tools. I will process the provided code step-by-step, following the rendering rules.
+The SVG has a viewBox of 0,0,512,512, so the canvas size is 512x512. The background is white, as specified by the first <rect> element.
+The second <rect> element has a fill of #E74C3C, a width of 135, a height of 118, and is positioned at (120, 368). This places a red rectangle in the upper right corner.
+The third element is a circle with a fill of #34495E, a radius of 36, centered at (68, 224). This places a dark blue circle in the center-left of the canvas.
+No other elements or transforms are present. The stacking order is determined by the order of the elements in the SVG, with the rectangle on top of the circle.</think>

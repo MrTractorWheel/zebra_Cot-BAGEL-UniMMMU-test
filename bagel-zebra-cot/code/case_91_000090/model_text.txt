@@ -1,0 +1,2 @@
+<think>The problem requires rendering an SVG without external tools, following specific rules. The provided SVG has a white background, a large white rectangle, and a red circle. The circle is centered at (240, 272) with a radius of 38. The bounding box is 512x512, so the circle is well within the canvas.
+The final image will be a white square with a red circle centered towards the top-right. The circle will be entirely within the white background.</think>

@@ -1,0 +1,2 @@
+<think>Final Answer: <RENDER_SUMMARY>…</RENDER_SUMMARY> (≤60 words, objective, deterministic description of the final image)
+<svg> with a white background, a central black circle, and three rotated black circles at (20,226), (110,226), (200,226).</think>

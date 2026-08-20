@@ -1,0 +1,2 @@
+<think>The problem requires rendering an SVG without using external tools and outputting a summary and final image. The provided SVG contains a white background, five concentric circles with a light blue fill, and a specific viewBox and size.
+I will now render the provided SVG using the specified rules and output the summary and final image.</think>
