@@ -1,0 +1,16 @@
+{
+  "id": "case_62",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c006_e1d307c6ab.png",
+  "condition": "Barium chloride crystals adhered to a small copper wire on a tile; no flame yet. Ignite the wire assembly in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62/model_image_01.png"
+  ],
+  "errors": []
+}

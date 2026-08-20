@@ -1,0 +1,16 @@
+{
+  "id": "case_58",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c002_28275b7c06.png",
+  "condition": "A slender lithium metal strip placed on a white ceramic tile; no flame yet. Ignite the lithium strip in open air and Draw the state during combustion",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58/model_image_01.png"
+  ],
+  "errors": []
+}

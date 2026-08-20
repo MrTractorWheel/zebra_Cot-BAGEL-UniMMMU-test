@@ -1,0 +1,16 @@
+{
+  "id": "case_66",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c010_d3c4667097.png",
+  "condition": "A small dish containing ethanol on a tile; no flame yet. Ignite the ethanol in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66/model_image_01.png"
+  ],
+  "errors": []
+}

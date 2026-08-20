@@ -1,0 +1,16 @@
+{
+  "id": "case_68",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c013_66ba84f45e.png",
+  "condition": "A small pellet of strontium carbonate on a tile; no flame yet. Ignite the strontium carbonate pellet in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68/model_image_01.png"
+  ],
+  "errors": []
+}

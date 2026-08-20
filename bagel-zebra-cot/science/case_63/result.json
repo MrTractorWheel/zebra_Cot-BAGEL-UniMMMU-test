@@ -1,0 +1,16 @@
+{
+  "id": "case_63",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c007_fa4c0e0a17.png",
+  "condition": "A length of copper wire on a tile; no flame yet. Ignite the copper wire in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63/model_image_01.png"
+  ],
+  "errors": []
+}

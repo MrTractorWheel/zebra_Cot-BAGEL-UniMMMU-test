@@ -1,0 +1,16 @@
+{
+  "id": "case_61",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c005_55e4e118a1.png",
+  "condition": "A small strontium nitrate pellet rests on a ceramic tile; no flame visible. Ignite the strontium nitrate pellet in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61/model_image_01.png"
+  ],
+  "errors": []
+}

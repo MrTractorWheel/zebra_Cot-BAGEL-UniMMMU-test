@@ -1,0 +1,16 @@
+{
+  "id": "case_59",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c003_12e3cc37cb.png",
+  "condition": "A tiny potassium pellet rests on a ceramic tile in a lab bench; no flame is present. Ignite the potassium pellet in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_69",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c014_b1e5886610.png",
+  "condition": "A fine boron powder on a tile; no flame yet. Ignite the boron powder in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69/model_image_01.png"
+  ],
+  "errors": []
+}

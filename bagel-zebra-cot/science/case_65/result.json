@@ -1,0 +1,16 @@
+{
+  "id": "case_65",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c009_59025762d6.png",
+  "condition": "A small tuft of steel wool rests on a tile; no flame yet. Ignite the steel wool in open air and maintain ignition for 5 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Combustion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65/model_image_01.png"
+  ],
+  "errors": []
+}
