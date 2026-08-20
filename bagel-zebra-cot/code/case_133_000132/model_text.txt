@@ -1,0 +1,1 @@
+<think>Summary: A 512x512 grid with a dark gray polygon, a yellow rectangle, and a gold rectangle. The dark gray polygon is the main shape, with the yellow and gold rectangles positioned within it.</think>

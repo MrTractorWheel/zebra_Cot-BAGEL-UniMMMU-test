@@ -1,0 +1,1 @@
+<think>The task requires me to render the provided SVG code without using external tools. I will follow the strict rendering rules and generate a textual summary and a final image. The SVG contains a white background, a green polygon, and a red rectangle. The green polygon is positioned at the top-left, and the red rectangle is at the bottom-right.</think>

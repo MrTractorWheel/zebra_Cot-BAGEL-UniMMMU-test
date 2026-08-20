@@ -1,0 +1,3 @@
+<think>The task is to render the given SVG code without using any external tools. The code defines a simple shape: a white background, a large white rectangle, and a purple circle. The circle is centered at (349, 355) with a radius of 67. The output should be a visual representation of this shape, described in words and an image.
+
+To understand the final image, let's first visualize the basic elements as described in the code.</think>

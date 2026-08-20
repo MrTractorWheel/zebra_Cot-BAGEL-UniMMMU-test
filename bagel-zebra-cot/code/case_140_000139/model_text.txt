@@ -1,0 +1,2 @@
+<think>The raw SVG code defines a 512x512 canvas. It includes a fill rule for a rectangle and uses it to create four smaller rectangles at specific coordinates, all colored #F1C40F. The background is white, and no other elements are present.
+The four rectangles are positioned at (20, 226), (97, 226), (174, 226), and (251, 226). They are all identical in size (60x60) and placed horizontally, creating a visual pattern.</think>
