@@ -28,6 +28,7 @@ import argparse
 import glob
 import json
 import re
+import sys
 import time
 import traceback
 from pathlib import Path
@@ -35,6 +36,10 @@ from string import Template
 from typing import Any, Dict, List, Optional, Tuple
 
 from tqdm import tqdm
+
+# Ensure sibling modules are importable even when the interpreter runs in
+# "safe path" mode (e.g. PYTHONSAFEPATH set by the host environment).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from bagel_backend import (
     BagelZebraCoTBackend,
