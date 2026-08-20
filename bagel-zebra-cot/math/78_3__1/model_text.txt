@@ -1,0 +1,13 @@
+<think>The problem asks for the measure of ∠ADC in an inscribed quadrilateral ABCD. We are given ∠AOB = 140° and ∠BCP = 35°. We will use the properties of tangents, inscribed angles, and cyclic quadrilaterals to solve this. First, we draw the auxiliary line OC, as shown in the provided image. This line connects the center of the circle to point C on the circumference. Next, we will use the properties of tangents and inscribed angles to find the measure of ∠ADC.
+
+We are given that PC is tangent to the circle at point C. By the property of tangents, the radius to the point of tangency is perpendicular to the tangent line. Thus, OC is perpendicular to PC, so ∠OCP = 90°.
+
+We are also given that ∠BCP = 35°. Since ∠OCP = 90° and ∠BCP = 35°, we can find ∠OCB by subtracting ∠BCP from ∠OCP. Therefore, ∠OCB = 90° - 35° = 55°.
+
+Now, we need to find ∠AOB. We are given that ∠AOB = 140°. The angle ∠AOB is the central angle subtended by the arc AB. The inscribed angle subtended by the same arc AB is ∠ACB. The measure of an inscribed angle is half the measure of the central angle subtended by the same arc. Therefore, ∠ACB = 1/2 ∠AOB = 1/2 × 140° = 70°.
+
+We have found that ∠OCB = 55° and ∠ACB = 70°. Since points A, C, and B are on the circumference of the circle, ∠ACB is an inscribed angle subtended by the arc AB. The sum of the angles around point C is 180°. Therefore, ∠ACB + ∠OCB + ∠OCD = 180°. Substituting the known values, we get 70° + 55° + ∠OCD = 180°. Solving for ∠OCD, we find ∠OCD = 180° - 70° - 55° = 55°.
+
+Now, we need to find ∠ADC. Since ABCD is an inscribed quadrilateral, the sum of the measures of its opposite angles is 180°. Therefore, ∠ADC + ∠ABC = 180°. We need to find the measure of ∠ABC. We can use the fact that ∠ABC is an inscribed angle subtended by the arc AC. The measure of an inscribed angle is half the measure of the central angle subtended by the same arc. The central angle subtended by arc AC is ∠AOC. We have found that ∠OCD = 55°. Since OC is a radius and CD is a chord, ∠OCD is an inscribed angle subtended by the arc OD. Therefore, ∠OCD = 1/2 ∠AOC. Thus, ∠AOC = 2 × ∠OCD = 2 × 55° = 110°.
+
+The central angle ∠AOC subtends the arc AC. Therefore, the inscribed angle ∠ABC subtended by the same arc AC is 1/

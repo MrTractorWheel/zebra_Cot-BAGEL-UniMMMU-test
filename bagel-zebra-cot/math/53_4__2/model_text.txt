@@ -1,0 +1,22 @@
+<think>The problem asks for the length of BC. We are given BF=1, sin∠AFE=4/5. We need to find a relationship between these quantities and BC. The diagram shows a circle with AB as diameter, C and E on the circle, and F on the extension of AB. We are given ∠AFE=∠ABC. Let's analyze the angles and triangles.
+
+First, we know AB is a diameter of the circle, so ∠ACB = 90° (angle in a semicircle is a right angle). Thus, ∠ABC + ∠BAC = 90°. We are given ∠AFE = ∠ABC. Let's call this common angle x. So, ∠AFE = x and ∠ABC = x.
+
+We are also given ∠CAB = 2∠EAB. Let's call ∠EAB = y. So, ∠CAB = 2y. Since ∠CAB + ∠BAC = 90°, we have 2y + ∠BAC = 90°. But ∠BAC = ∠EAB + ∠EAC = y + ∠EAC. So, 2y + y + ∠EAC = 90°, which simplifies to 3y + ∠EAC = 90°. We need to find a way to relate these angles to the given lengths.
+
+Let's look at triangle AFE. Since OA = OE (radii of the circle), triangle AOE is isosceles. Thus, ∠OAE = ∠OEA. We are given ∠EAB = y. So, ∠OAE = y. Therefore, ∠OEA = y. Since OA = OE, ∠OAE = ∠OEA = y. Now, ∠AOE is the central angle subtended by arc AE. The inscribed angle subtended by the same arc AE is ∠EAB = y. So, ∠AOE = 2y (central angle is twice the inscribed angle). Thus, ∠AOE = 2y.
+
+Now, ∠OEF is an exterior angle of triangle AOE. So, ∠OEF = ∠OAE + ∠AOE = y + 2y = 3y.
+
+We know ∠AFE = x and ∠OEF = 3y. Since ∠AFE and ∠OEF are angles at point F, we have ∠AFE + ∠OEF = 180° (they are supplementary). So, x + 3y = 180°. We also know ∠AFE = x and ∠AFE = ∠ABC = x. So, ∠ABC = x.
+
+We need to relate these angles to the triangle ABC. We know ∠ACB = 90°, ∠ABC = x, so ∠BAC = 90° - x. We also have ∠CAB = 2y. So, 2y = 90° - x. We have two equations:
+1) x + 3y = 180°
+2) 2y = 90° - x
+
+Let's solve these equations. From equation 2, x = 90° - 2y. Substitute this into equation 1:
+(90° - 2y) + 3y = 180°
+90° + y = 180°
+y = 90°
+
+Substitute y = 90

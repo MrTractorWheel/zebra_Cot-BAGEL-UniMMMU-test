@@ -1,0 +1,19 @@
+<think>The problem asks for the measure of angle P in the given geometric configuration. We are given that PA and PB are tangents to the circle O at points A and B, respectively, and C is a point on the minor arc AB. We are also given that the measure of angle ACB is 130°. We need to find the measure of angle P.
+
+To solve this problem, we will use the properties of tangents to a circle and the properties of angles subtended by arcs. We will also use the fact that the sum of angles around a point is 360°.
+
+First, let's consider the circle O. Since PA and PB are tangents to the circle at points A and B, respectively, we know that OA is perpendicular to PA, and OB is perpendicular to PB. This means that ∠OAP = 90° and ∠OBP = 90°.
+
+Next, let's consider the points A, B, and C on the circle. We are given that ∠ACB = 130°. Since C is on the minor arc AB, the arc AB is the intercepted arc for angle ACB. The measure of an inscribed angle is half the measure of its intercepted arc. Therefore, the measure of arc AB is 2 * ∠ACB = 2 * 130° = 260°.
+
+Now, let's consider the major arc AB. The measure of the major arc AB is the total circumference of the circle (360°) minus the measure of the minor arc AB. Therefore, the measure of the major arc AB is 360° - 260° = 100°.
+
+Let D be a point on the major arc AB. We have drawn lines AD, DB, OA, and OB. Since D is on the major arc AB, the arc AD + arc DB = arc AB = 100°.
+
+Now, let's consider the angles at point P. We have ∠OAP = 90° and ∠OBP = 90°. The sum of the angles around point P is 360°. Therefore, the sum of the angles ∠APB, ∠APD, and ∠BPD is 360° - (∠OAP + ∠OBP) = 360° - (90° + 90°) = 360° - 180° = 180°.
+
+We can see that ∠APD and ∠BPD are angles subtended by the major arc AD and the major arc DB, respectively. The measure of an angle subtended by an arc at a point outside the circle is half the measure of the intercepted arc. Therefore, ∠APD = 1/2 * arc AD and ∠BPD = 1/2 * arc DB.
+
+Since arc AD + arc DB = 100°, we have ∠APD + ∠BPD = 1/2 * (arc AD + arc DB) = 1/2 * 100° = 50°.
+
+Now, we can use the fact that the sum of the angles around point P is 180°. We have ∠APB + ∠APD + ∠BPD = 180°. Substituting the values we found, we get ∠APB + 50° = 180°. Solving for ∠APB, we get ∠APB = 180° - 50° = 1

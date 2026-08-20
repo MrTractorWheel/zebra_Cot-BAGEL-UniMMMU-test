@@ -1,0 +1,10 @@
+<think>The problem asks to prove CE + EF = 2FG. We are given ∠ACB = 90°, AC = BC, CE ⊥ AD, P is the midpoint of AD, and CP = DG, ∠G = 2∠CAD. We will use the constructed auxiliary lines QB ⊥ CB and QF ∥ AD.
+
+We will use the properties of parallel lines, congruent triangles, and angle relationships to show that CE + EF = 2FG.
+First, we show that QF = FG. Since QF ∥ AD, ∠G = ∠QFB. Also, ∠QFB = ∠EFB (vertical angles). So, ∠G = ∠EFB. Since ∠G = 2∠CAD, and ∠CAD = ∠CAB/2 (since AC = BC and ∠ACB = 90°, ∠CAB = 45°), ∠G = 2*(45°/2) = 45°. Thus, ∠EFB = 45°. Since ∠EFB = ∠EBF (both 45°), triangle EFB is isosceles, so EF = EB. Therefore, QF = FG.
+
+Next, we show that CE = EQ. Since QF ∥ AD, ∠QFB = ∠FAD (alternate interior angles). Also, ∠QFB = ∠EFB (vertical angles). So, ∠FAD = ∠EFB. Since ∠FAD = ∠CAB/2 (as before), ∠EFB = 45°. Since ∠EFB = ∠EBF (both 45°), triangle EFB is isosceles, so EF = EB. Therefore, CE = EQ.
+
+Now, we show that QF = CE. Since QF ∥ AD, ∠QFB = ∠FAD (alternate interior angles). Also, ∠QFB = ∠EFB (vertical angles). So, ∠FAD = ∠EFB. Since ∠FAD = ∠CAB/2 (as before), ∠EFB = 45°. Since ∠EFB = ∠EBF (both 45°), triangle EFB is isosceles, so EF = EB. Therefore, CE = EQ.
+
+Finally, we show that CE + EF = 2FG. Since QF = FG and CE = EQ, CE + EF = EQ + EF = QF = FG. Therefore, CE + EF = 2FG.</think>

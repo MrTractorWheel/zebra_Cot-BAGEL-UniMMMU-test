@@ -1,0 +1,23 @@
+<think>The problem asks for the length of AP. We are given that AB is a diameter of the circle, so ∠ACB = 90° (angle in a semicircle). Since CP is a tangent to the circle at C, ∠PCB = ∠CAD (angle between tangent and chord). We are also given ∠ACP = ∠ADC.
+
+Let’s analyze the angles. Since AB is a diameter, ∠ACB = 90°. Let’s denote ∠ACD as x. Then, ∠BCD = 90° - x. Since CP is a tangent, ∠PCB = ∠CAD. Let’s denote ∠CAD as y. Then, ∠PCB = y.
+
+We are given ∠ACP = ∠ADC. ∠ACP = ∠ACD + ∠DCP = x + ∠DCP. ∠ADC = ∠ABC (angles subtended by the same arc AC). ∠ABC = 90° - ∠BAC. Since ∠BAC = ∠CAD = y, ∠ABC = 90° - y. So, ∠ADC = 90° - y.
+
+So, x + ∠DCP = 90° - y. Since ∠DCP = ∠BCD = 90° - x, substituting gives x + (90° - x) = 90° - y. This simplifies to 90° = 90° - y, so y = 0°. This implies ∠CAD = 0°, which is impossible. This suggests a need for a different approach.
+
+Let’s consider the power of point P with respect to the circle. The power of P is equal to PA * PB = PC^2. We are given PC = 4. So, PA * PB = 16.
+
+Since AB is the diameter, AB = 2 * radius = 2 * 3 = 6. Let’s denote AP = x, so PB = AB - AP = 6 - x.
+
+Substituting into the power of point formula: x * (6 - x) = 16. This is a quadratic equation: x^2 - 6x + 16 = 0.
+
+The discriminant is D = (-6)^2 - 4 * 1 * 16 = 36 - 64 = -28. Since the discriminant is negative, there are no real solutions. This suggests a mistake in the reasoning.
+
+Let’s re-examine the problem. We are given ∠ACP = ∠ADC. Let’s denote ∠ACD = α, ∠BCD = β. Since AB is a diameter, ∠ACB = 90°, so α + β = 90°.
+
+CP is a tangent, so ∠PCB = ∠CAD. Let’s denote ∠CAD = γ. So, ∠PCB = γ.
+
+We are given ∠ACP = ∠ADC. ∠ACP = ∠ACD + ∠DCP = α + ∠DCP. ∠ADC = ∠ABC (angles subtended by the same arc AC). ∠ABC = 90° - ∠BAC. Since ∠BAC = ∠CAD = γ, ∠ABC = 90° - γ. So, ∠ADC = 90° - γ.
+
+So, α + ∠DCP = 90° - γ. Since ∠DCP = ∠BCD = β, substituting

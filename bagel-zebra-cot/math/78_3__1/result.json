@@ -1,0 +1,14 @@
+{
+  "id": "78_3__1",
+  "big_key": "78_3",
+  "small_key": "1",
+  "status": "ok",
+  "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/math/78_3__1",
+  "type": "calculation",
+  "original_image": "images/78_3_1_orig.png",
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/math/78_3__1/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/math/78_3__1/model_image_01.png"
+  ],
+  "errors": []
+}

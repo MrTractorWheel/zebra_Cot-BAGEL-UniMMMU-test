@@ -1,0 +1,27 @@
+<think>The problem asks to prove that AC bisects ∠EAB. We are given that AB is the diameter of circle O, C and D are points on the circle, EC is a tangent to circle O, and EC is perpendicular to AE at E. We need to show that AC divides the angle ∠EAB into two equal angles.
+
+First, we draw the auxiliary line OC. Since OC is a radius of the circle and EC is a tangent to the circle at point C, by the property of tangents, the radius to the point of tangency is perpendicular to the tangent. Therefore, OC is perpendicular to EC. This means that ∠OCE = 90°.
+
+Next, we consider the right triangle OCE. Since OC is a radius and CE is a tangent, and we have just established that OC is perpendicular to CE, we know that ∠OCE is a right angle. Therefore, ∠OCE = 90°.
+
+Now, we need to show that AC bisects ∠EAB. To do this, we will show that ∠EAC = ∠CAB. We can use the properties of angles in a circle and the fact that AB is a diameter.
+
+Since AB is the diameter of the circle, the angle subtended by a diameter at the circumference is a right angle. Therefore, ∠ACB = 90°. This means that ∠CAB + ∠CBA = 90°.
+
+Also, since EC is perpendicular to AE, ∠AEC = 90°. This means that ∠EAC + ∠ACE = 90°.
+
+Now, let's consider the angles ∠ACE and ∠CBA. Since AB is a diameter, the angle subtended by arc ACB at the circumference is ∠ACB = 90°. The angle subtended by the same arc ACB at the circumference is ∠CBA. The angle subtended by the same arc ACB at the circumference is ∠ACE (since arc ACB is subtended by ∠ACE at point C). Therefore, ∠ACE = ∠CBA.
+
+Since ∠ACE = ∠CBA, we can substitute ∠CBA for ∠ACE in the equation ∠EAC + ∠ACE = 90°. This gives us ∠EAC + ∠CBA = 90°.
+
+We already know that ∠CAB + ∠CBA = 90°. Therefore, we have two equations:
+1. ∠EAC + ∠CBA = 90°
+2. ∠CAB + ∠CBA = 90°
+
+Subtracting equation 2 from equation 1, we get:
+(∠EAC + ∠CBA) - (∠CAB + ∠CBA) = 90° - 90°
+∠EAC + ∠CBA - ∠CAB - ∠CBA = 0
+∠EAC - ∠CAB = 0
+∠EAC = ∠CAB
+
+Since ∠EAC = ∠CAB, AC bisects ∠EAB. This completes the proof.</think>

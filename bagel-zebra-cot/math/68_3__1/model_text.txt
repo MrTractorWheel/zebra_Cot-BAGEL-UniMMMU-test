@@ -1,0 +1,11 @@
+<think>The problem asks for the measure of ∠BAC. We are given that AB is the diameter of the circle, so ∠ACB is a right angle (90°). We are also given that ∠ACD = 50°. We need to find the measure of ∠BAC.
+
+First, we draw the line OC, which is a radius of the circle. Since CD is tangent to the circle at point C, the radius OC is perpendicular to the tangent line CD. Therefore, ∠OCD = 90°.
+
+We are given that ∠ACD = 50°. We can find ∠ACO by subtracting ∠ACD from ∠OCD. So, ∠ACO = ∠OCD - ∠ACD = 90° - 50° = 40°.
+
+Since OA and OC are both radii of the circle, they are equal in length. Therefore, triangle OAC is an isosceles triangle with OA = OC. In an isosceles triangle, the base angles are equal. So, ∠OAC = ∠OCA = 40°.
+
+Now, we know that ∠ACB is a right angle (90°). We can find ∠BAC by subtracting ∠OAC from ∠ACB. So, ∠BAC = ∠ACB - ∠OAC = 90° - 40° = 50°.
+
+Therefore, the measure of ∠BAC is 50°.</think>

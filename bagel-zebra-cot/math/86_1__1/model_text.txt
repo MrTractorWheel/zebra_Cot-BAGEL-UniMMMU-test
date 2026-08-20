@@ -1,0 +1,11 @@
+<think>The problem asks to prove that BD = CD in triangle ABC, where AB = AC, and D is the intersection of the circle with diameter AB and side BC. We are given the diagram with the circle and the points A, B, C, D, E, and O (the center of the circle). The first step is to draw the auxiliary line AD. This line is drawn from point A to point D on side BC. This line segment AD will be crucial for the proof.
+
+Since AB is the diameter of the circle, by the Thales' theorem, any angle subtended by a diameter at the circumference is a right angle. Therefore, ∠AEB = 90°. This means that AE is perpendicular to BE.
+
+Now, consider triangles ABE and ACD. We know that AB = AC (given). We need to show that these two triangles are congruent to establish that BD = CD. We have ∠AEB = 90° (from Thales' theorem) and ∠ADC = 90° (since AD is a chord of the circle and D is on the circumference, making AD perpendicular to BC by the property of a diameter). Therefore, ∠AEB = ∠ADC.
+
+We also have ∠BAE = ∠CAD (they are the same angle, ∠BAC). Therefore, by the Angle-Angle-Side (AAS) congruence criterion, triangles ABE and ACD are congruent.
+
+Since triangles ABE and ACD are congruent, their corresponding sides are equal. Therefore, BD = CD.
+
+Final Answer: BD = CD.</think>
