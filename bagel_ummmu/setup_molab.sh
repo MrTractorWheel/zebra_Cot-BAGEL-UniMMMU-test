@@ -17,13 +17,26 @@ nvidia-smi || { echo "ERROR: no GPU visible"; exit 1; }
 
 # ----------------------------------------------------------------------
 # 1) Clone repos
+#    molab restarts keep small text files but wipe .git dirs and binaries,
+#    so "directory exists" is NOT proof the clone is intact. If .git is
+#    missing, transplant a fresh clone's .git and restore all tracked files
+#    (untracked content like Uni-MMMU/data and Uni-MMMU/outputs is kept).
 # ----------------------------------------------------------------------
-if [ ! -d Bagel-Zebra-CoT ]; then
-  git clone https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT.git
-fi
-if [ ! -d Uni-MMMU ]; then
-  git clone https://github.com/Vchitect/Uni-MMMU.git
-fi
+ensure_repo() {  # $1=dir $2=url
+  if [ -d "$1/.git" ]; then
+    return 0
+  fi
+  echo "== (re)cloning $2 into $1 =="
+  rm -rf "$1.tmpclone"
+  git clone -q "$2" "$1.tmpclone"
+  mkdir -p "$1"
+  rm -rf "$1/.git"
+  mv "$1.tmpclone/.git" "$1/.git"
+  rm -rf "$1.tmpclone"
+  git -C "$1" checkout -f -- .
+}
+ensure_repo Bagel-Zebra-CoT https://github.com/multimodal-reasoning-lab/Bagel-Zebra-CoT.git
+ensure_repo Uni-MMMU        https://github.com/Vchitect/Uni-MMMU.git
 
 # ----------------------------------------------------------------------
 # 2) Python dependencies
@@ -53,31 +66,31 @@ fi
 # 3) Download the Bagel-Zebra-CoT checkpoint (~30 GB)
 # ----------------------------------------------------------------------
 CKPT_DIR="$WORK_DIR/ckpt/Bagel-Zebra-CoT"
-if [ ! -f "$CKPT_DIR/ae.safetensors" ]; then
-  echo "== Downloading Bagel-Zebra-CoT checkpoint to $CKPT_DIR =="
-  HF_HUB_ENABLE_HF_TRANSFER=1 python - <<EOF
+# Always run: snapshot_download verifies/resumes and is fast when everything
+# is already present, and re-fetches whatever a molab restart wiped.
+echo "== Verifying/downloading Bagel-Zebra-CoT checkpoint in $CKPT_DIR =="
+HF_HUB_ENABLE_HF_TRANSFER=1 python - <<EOF
 from huggingface_hub import snapshot_download
 snapshot_download(
     repo_id="multimodal-reasoning-lab/Bagel-Zebra-CoT",
     local_dir="$CKPT_DIR",
-    resume_download=True,
     allow_patterns=["*.json", "*.safetensors", "*.bin", "*.py", "*.md", "*.txt"],
 )
 EOF
-fi
 
 # ----------------------------------------------------------------------
 # 4) Download the Uni-MMMU-Eval dataset and extract into the Uni-MMMU repo
 # ----------------------------------------------------------------------
-if [ ! -d "$WORK_DIR/Uni-MMMU/data" ]; then
-  echo "== Downloading Uni-MMMU-Eval dataset =="
+# Probe a deep file, not the directory: molab restarts leave the directory
+# skeleton in place while wiping the actual contents.
+if [ ! -f "$WORK_DIR/Uni-MMMU/data/science/dim_all.json" ]; then
+  echo "== Downloading + extracting Uni-MMMU-Eval dataset =="
   HF_HUB_ENABLE_HF_TRANSFER=1 python - <<EOF
 from huggingface_hub import snapshot_download
 snapshot_download(
     repo_id="Vchitect/Uni-MMMU-Eval",
     repo_type="dataset",
     local_dir="$WORK_DIR/Uni-MMMU-Eval",
-    resume_download=True,
 )
 EOF
   tar -xf "$WORK_DIR/Uni-MMMU-Eval/data.tar" -C "$WORK_DIR/Uni-MMMU"
