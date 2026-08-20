@@ -1,0 +1,2 @@
+<think>The task is to render the provided SVG code without using external tools. I will follow the rendering rules strictly and provide a summary and final image.
+The SVG code defines a canvas with a white background, five green circles of varying sizes and positions, and no other elements.</think>

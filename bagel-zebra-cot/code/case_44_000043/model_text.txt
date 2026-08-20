@@ -1,0 +1,2 @@
+<think>The problem requires me to render the given SVG without using any external tools. I will follow the provided rules strictly, focusing on the final visual output.
+I will start by visualizing the initial state of the canvas, which is a 512x512 grid with a white background.</think>

@@ -1,0 +1,1 @@
+<think>The problem requires interpreting an SVG code and then outputting a summary and a final image. The code defines a simple shape: a white background, a dark blue rectangle, a dark blue path, and a dark green circle. The visual summary should describe these elements.</think>

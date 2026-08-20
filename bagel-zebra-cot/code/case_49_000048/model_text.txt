@@ -1,0 +1,2 @@
+<think>The problem requires me to render the given SVG code without using any external tools. I will follow the provided rules and generate a textual summary and a final image.
+I will now render the provided SVG code step-by-step, following the rules and generating a textual summary and a final image.</think>

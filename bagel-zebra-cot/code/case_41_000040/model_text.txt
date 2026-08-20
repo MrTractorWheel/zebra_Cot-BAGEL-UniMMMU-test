@@ -1,0 +1,3 @@
+<think>The task is to render the given SVG code without using any external tools. The code defines a 512x512 pixel canvas with a white background. There are two rectangles: one with a white fill and the other with a gold fill (color #F1C40F). The gold rectangle is positioned at (72, 131) with dimensions 113x107. The gold rectangle is drawn after the white rectangle, so it will overlay it.
+
+To visualize the final image, I will generate a sketch based on the provided SVG code.</think>

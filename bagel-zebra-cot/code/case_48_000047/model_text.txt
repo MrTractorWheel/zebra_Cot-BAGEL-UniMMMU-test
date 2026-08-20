@@ -1,0 +1,1 @@
+<think>The problem requires rendering an SVG with a specific structure. The provided SVG contains a background rectangle, a template shape, and multiple uses of the template rotated by 30°, 45°, and 30°. The final image will be a rotated version of the template shape, repeated three times, with specific colors and positioning.</think>
