@@ -1,0 +1,16 @@
+{
+  "id": "case_89",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c005_aa8d7e0590.png",
+  "condition": "Two beakers, one with water and one with ethanol, to test miscibility. Pour ethanol from Beaker B into Beaker A and swirl for 10 seconds;  remove Beaker  B from the scene",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89/model_image_01.png"
+  ],
+  "errors": []
+}

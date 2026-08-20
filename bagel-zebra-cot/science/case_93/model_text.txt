@@ -1,0 +1,2 @@
+<think>The problem requires simulating the action of pouring cooking oil from a bottle into a glass of water, then removing the oil-filled glass. This involves understanding the physical properties of the substances and the objects involved.
+First, I will visualize the initial state: a bottle of cooking oil and a glass of water, as shown in the first image. The bottle is full, and the glass contains water.</think>

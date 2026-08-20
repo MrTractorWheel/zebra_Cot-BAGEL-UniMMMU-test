@@ -1,0 +1,16 @@
+{
+  "id": "case_91",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c007_c8af88bc5e.png",
+  "condition": "Two solutions ready to form a precipitate with sulfate and barium ions. Pour Beaker B into Beaker A and stir for 25 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91/model_image_01.png"
+  ],
+  "errors": []
+}

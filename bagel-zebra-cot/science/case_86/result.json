@@ -1,0 +1,16 @@
+{
+  "id": "case_86",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c002_b07cce4b40.png",
+  "condition": "A beaker with water and scattered sugar crystals at the bottom. Add sugar gradually while stirring for 60 seconds until the final steady state",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86/model_image_01.png"
+  ],
+  "errors": []
+}

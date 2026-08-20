@@ -1,0 +1,16 @@
+{
+  "id": "case_95",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/cacl2-na2co3.png",
+  "condition": "Two clear solutions are prepared, one of calcium chloride (CaCl₂) and the other of sodium carbonate (Na₂CO₃). Mix the two solutions together. Draw the resulting state showing any precipitate formed.",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Precipitation and crystallization"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95/model_image_01.png"
+  ],
+  "errors": []
+}

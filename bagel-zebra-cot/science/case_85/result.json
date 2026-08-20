@@ -1,0 +1,16 @@
+{
+  "id": "case_85",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c001_70819c9c89.png",
+  "condition": "100 mL water in a beaker with a small heap of table salt at the bottom; nothing dissolved yet. Stir the water for 30 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85/model_image_01.png"
+  ],
+  "errors": []
+}

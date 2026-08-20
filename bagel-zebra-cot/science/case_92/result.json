@@ -1,0 +1,16 @@
+{
+  "id": "case_92",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c009_5e10bae605.png",
+  "condition": "Chalk solid in water to observe acid dissolution. Add 1 M HCl and stir for 30 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92/model_image_01.png"
+  ],
+  "errors": []
+}

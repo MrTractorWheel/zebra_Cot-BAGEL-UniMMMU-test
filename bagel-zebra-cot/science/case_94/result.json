@@ -1,0 +1,16 @@
+{
+  "id": "case_94",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d16_c006_82c3bbd820.png",
+  "condition": "Two colorless aqueous solutions ready to react: K2CrO4 and BaCl2, each ~50 mL, at room temperature. Pour the K2CrO4 solution into the BaCl2 solution and stir for 30 seconds at room temperature. remove K2CrO4  from the scene",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Precipitation and crystallization"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94/model_image_01.png"
+  ],
+  "errors": []
+}

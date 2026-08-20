@@ -1,0 +1,16 @@
+{
+  "id": "case_88",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c004_d4a1175abb.png",
+  "condition": "A glass of water with a drop of oil on its surface. Gently swirl the glass for 15 seconds",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Solubility"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88/model_image_01.png"
+  ],
+  "errors": []
+}

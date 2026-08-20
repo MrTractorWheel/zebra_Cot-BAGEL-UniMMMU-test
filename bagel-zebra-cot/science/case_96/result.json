@@ -1,0 +1,16 @@
+{
+  "id": "case_96",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d17_c001_54a9d65ad2.png",
+  "condition": "Room temperature (~22°C), 100 mL of 0.50 M CuSO4 solution in a 250 mL beaker. A flat magnesium strip is clamped and partially immersed. Day 0: Before Reaction. Leave undisturbed at 22°C for 24 hours",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Displacement reaction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96/model_image_01.png"
+  ],
+  "errors": []
+}
