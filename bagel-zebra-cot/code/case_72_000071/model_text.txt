@@ -1,0 +1,1 @@
+<think>The problem asks to render the given SVG code without using external tools and output a summary and final image. The code defines a simple shape: a white background, a green rectangle, and a green polygon. The summary should describe these elements.</think>

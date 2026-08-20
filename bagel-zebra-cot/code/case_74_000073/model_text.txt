@@ -1,0 +1,2 @@
+<think>The problem requires rendering an SVG without using external tools and outputting a summary and final image. The provided SVG has a white background, a large white rectangle, and two smaller dark gray rectangles.
+The large white rectangle fills the canvas. The two smaller dark gray rectangles are positioned at (20, 216) and (127, 216), both with a height of 80.</think>

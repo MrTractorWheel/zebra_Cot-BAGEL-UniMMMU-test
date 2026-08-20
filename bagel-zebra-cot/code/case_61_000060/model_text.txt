@@ -1,0 +1,5 @@
+<think>The problem asks to render the given SVG code. I will follow the provided rules and steps to generate the final image.
+The code defines a 512x512 SVG canvas with a white background.
+The first <rect> fills the entire canvas with white.
+The second <rect> has a gold fill, is 100 units high, and 123 units wide, positioned at (80, 231).
+The third <rect> has a dark orange fill, is 106 units high, and 116 units wide, positioned at (316, 49).</think>

@@ -1,0 +1,1 @@
+<think>The problem requires rendering an SVG without external tools. The SVG contains a definition of a template shape and uses it multiple times. The background is white, and the template shape is a black rectangle. The final image should show this repeated pattern. The provided reasoning image shows the repeated pattern of black rectangles.</think>

@@ -1,0 +1,2 @@
+<think>The problem requires me to render the given SVG code without using any external tools. I will follow the provided rules and steps to generate the final image.
+I will start by visualizing the initial state of the SVG canvas, which is a 512x512 pixel square with a white background.</think>

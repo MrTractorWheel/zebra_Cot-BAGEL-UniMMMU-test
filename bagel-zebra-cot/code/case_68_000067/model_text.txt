@@ -1,0 +1,2 @@
+<think>The problem asks to render the given SVG source code. I will follow the provided rules and steps to generate the final image.
+I will render the provided SVG source code as requested.</think>

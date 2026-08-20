@@ -1,0 +1,2 @@
+<think>The problem requires me to render the provided SVG code without using any external tools. I will follow the rendering rules strictly: I will respect the viewBox, apply transformations correctly, and ensure that later elements overlay earlier ones. I will also follow the SVG specification for default styles and apply the transformations from right to left.
+I will now proceed to render the image based on the provided SVG code.</think>
