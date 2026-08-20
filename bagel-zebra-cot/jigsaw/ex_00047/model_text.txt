@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0's top-left corner matches the reference's top-left, while Candidate 1 does not."}</FINAL_ANSWER_JSON>
