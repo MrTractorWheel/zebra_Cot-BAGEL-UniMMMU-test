@@ -1,0 +1,22 @@
+<think>The problem asks for the measure of ∠ACB. We are given that PA and PB are tangents to the circle at A and B, respectively, and that ∠P = 50°. We need to use properties of tangents and circles to find this angle.
+
+First, we use the property of tangents to a circle. A tangent to a circle is perpendicular to the radius at the point of tangency. Therefore, OA is perpendicular to PA, and OB is perpendicular to PB. This means that ∠OAP = 90° and ∠OBP = 90°.
+
+Next, we consider the quadrilateral OAPB. The sum of the interior angles of any quadrilateral is 360°. We have:
+∠OAP = 90° (from OA ⊥ PA)
+∠OBP = 90° (from OB ⊥ PB)
+∠P = 50° (given)
+Let ∠AOB = x. Then, the sum of the angles in quadrilateral OAPB is:
+90° + 90° + 50° + x = 360°
+130° + x = 360°
+x = 360° - 130°
+x = 230°
+So, ∠AOB = 230°.
+
+Now, we need to find ∠ACB. We know that C is a point on the major arc AB. The angle subtended by an arc at the center of the circle is twice the angle subtended by the same arc at any point on the remaining part of the circumference. Therefore, ∠ACB is half of ∠AOB.
+Since ∠AOB = 230°, then:
+∠ACB = 1/2 ∠AOB
+∠ACB = 1/2 × 230°
+∠ACB = 115°
+
+Final Answer: 115°</think>

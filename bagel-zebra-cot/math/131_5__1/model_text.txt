@@ -1,0 +1,30 @@
+<think>The problem asks to prove CD is tangent to the circle. We are given that AB is the diameter of circle O, C is a point on the circle, CD is perpendicular to AD at D, AD intersects the circle at F, AC bisects angle DAB, and FG is perpendicular to AB at G, intersecting AC at H. We have already constructed the auxiliary line OC.
+
+To prove CD is tangent to ☉O, we need to show that OC is perpendicular to CD. We will use the properties of angles and circles.
+
+Since AB is the diameter of ☉O, angle ACB is a right angle (angle in a semicircle is a right angle). Thus, angle ACB = 90°.
+
+We are given that AC bisects angle DAB. Therefore, angle DAC = angle CAB.
+
+We have angle ACB = 90°, so angle CAB + angle CBA = 90° (angles in a triangle sum to 180°).
+Since angle ACB = 90°, angle CAB + angle CBA = 90°.
+
+From the diagram, angle DAC = angle CAB (AC bisects angle DAB). Therefore, angle DAC + angle CBA = 90°.
+
+Now, we need to show that angle OCD = 90°, which would imply that CD is tangent to ☉O (a line is tangent to a circle if it is perpendicular to the radius at the point of contact).
+
+We have angle DAC = angle CAB, and angle CAB + angle CBA = 90°. Therefore, angle DAC + angle CBA = 90°.
+
+Since O is the center of ☉O, OC is a radius of the circle. We need to show that OC is perpendicular to CD.
+
+We have angle DAC + angle CBA = 90°. Let's consider the angles at point C. Since CD is perpendicular to AD, angle ADC = 90°.
+In triangle ADC, angle ADC = 90°, so angle DAC + angle DCA = 90° (angles in a triangle sum to 180°).
+We have angle DAC + angle CBA = 90°, and angle DAC + angle DCA = 90°.
+Therefore, angle CBA = angle DCA.
+
+Now, consider triangle ABC. Angle ACB = 90°, so angle CAB + angle CBA = 90°.
+We have angle CAB + angle CBA = 90°, and angle CBA = angle DCA.
+Therefore, angle CAB + angle DCA = 90°.
+Since angle CAB + angle DCA = 90°, angle OCD = 90° (angle OCD is formed by OC and CD, and angle DCA is part of angle OCD).
+
+Since OC is a radius of ☉O and OC is perpendicular to CD at point C, CD is tangent to ☉O.</think>

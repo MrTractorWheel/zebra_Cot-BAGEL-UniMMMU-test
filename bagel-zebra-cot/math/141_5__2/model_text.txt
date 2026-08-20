@@ -1,0 +1,29 @@
+<think>1.  Identify the given conditions and the goal: In triangle ABC, ∠ABC = ∠ACB. Circle O with AC as diameter intersects AB and BC at M and N, respectively. Point P is on the extension of AB, and 2∠BCP = ∠BAC. We are given BC = 3√2 and cos(∠BCP) = √30/6. We need to find the distance from point B to AC.
+2.  Identify the key properties and relationships:
+    - Since AC is the diameter of circle O, ∠ANC = 90° (angle in a semicircle).
+    - ∠ABC = ∠ACB, so triangle ABC is isosceles with AB = AC.
+    - ∠BAC = 2∠BCP (given).
+    - BQ is perpendicular to AC, so ∠BQC = 90°.
+    - We need to find the length of BQ.
+3.  Use the given information to find ∠BCP:
+    - We are given cos(∠BCP) = √30/6.
+    - Let ∠BCP = x. Then cos(x) = √30/6.
+    - We can find sin(x) using the Pythagorean identity: sin^2(x) + cos^2(x) = 1.
+    - sin(x) = √(1 - (√30/6)^2) = √(1 - 30/36) = √(6/36) = √(1/6) = √6/6.
+    - So, sin(∠BCP) = √6/6.
+4.  Use the properties of the isosceles triangle and the given angle relationships to find ∠BAC:
+    - Since ∠ABC = ∠ACB, let ∠ABC = ∠ACB = y.
+    - Then, ∠BAC = 180° - 2y.
+    - We are given that ∠BAC = 2∠BCP = 2x.
+    - So, 180° - 2y = 2x.
+    - Rearranging, 2y + 2x = 180°.
+    - y + x = 90°.
+    - This means that ∠ABC + ∠BCP = 90°.
+    - Therefore, ∠PBC = 90° (since the sum of angles in a triangle is 180°).
+5.  Use the fact that ∠PBC = 90° and the given lengths to find the length of PC:
+    - In triangle PBC, ∠PBC = 90°, BC = 3√2, and cos(∠BCP) = √30/6.
+    - Let PC = z.
+    - By the definition of cosine in a right-angled triangle: cos(∠BCP) = adjacent/hypotenuse = BC/PC.
+    - So, √30/6 = 3√2/z.
+    - Cross-multiplying: (√30/6) * z = 3√2.
+    - z = (3√2 * 6)/√30 = (18√2)/√30 = (18√2 * √30)/30 = (18√60)/30 = (18 * 2√15)/30 = (36√15)/

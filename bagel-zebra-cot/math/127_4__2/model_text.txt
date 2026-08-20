@@ -1,0 +1,40 @@
+<think>The problem asks for the length of BD in triangle ABC where AB=AC, AB is the diameter of circle O, D is on BC, DE is perpendicular to AC, and ∠C=30°, CD=2√3. We are given the diagram with the added lines OD and AD. We will use these lines and properties of circles and triangles to find BD.
+
+First, since AB is the diameter of circle O, ∠ADB is a right angle (angle in a semicircle is a right angle). So, ∠ADB = 90°.
+
+We are given that AB = AC. Therefore, triangle ABC is isosceles with AB = AC. This means that ∠B = ∠C. Since ∠C = 30°, then ∠B = 30°.
+
+In triangle ABC, the sum of angles is 180°. So, ∠BAC = 180° - ∠B - ∠C = 180° - 30° - 30° = 120°.
+
+Since AB is the diameter of circle O, AD is a chord of the circle. The line segment from the center of the circle (O) to the midpoint of the chord (AD) is perpendicular to the chord. Therefore, OD is perpendicular to AD. So, ∠ODA = 90°.
+
+Now, in triangle ABC, we have ∠BAC = 120°, ∠B = 30°, and ∠C = 30°. We are given that CD = 2√3. We need to find BD.
+
+We can use the Law of Sines in triangle ABC to find the length of BC. The Law of Sines states that in any triangle, the ratio of the length of a side to the sine of its opposite angle is constant. So, AB/sin(∠C) = BC/sin(∠BAC). Since AB = AC, we can also use this to find the length of AC.
+
+Let AB = AC = x. Then, BC = 2x (since in an isosceles triangle with two 30° angles, the base is twice the length of the equal sides).
+
+Using the Law of Sines in triangle ABC:
+AB/sin(∠C) = BC/sin(∠BAC)
+x/sin(30°) = 2x/sin(120°)
+x/(1/2) = 2x/(√3/2)
+2x = 2x√3/2
+2x = x√3
+2 = √3
+This is not possible. So, we made a mistake. Let's re-examine the Law of Sines.
+
+The Law of Sines should be: AB/sin(∠C) = BC/sin(∠BAC) = AC/sin(∠B).
+
+So, AB/sin(30°) = BC/sin(120°) = AC/sin(30°).
+
+Since AB = AC, we can use AB/sin(30°) = BC/sin(120°).
+
+AB/sin(30°) = BC/sin(120°)
+AB/(1/2) = BC/(√3/2)
+2AB = BC√3/2
+4AB = BC√3
+BC = 4AB/√3
+
+Now, we know CD = 2√3. Since BC = BD + DC, and we are given CD = 2√3, we need to find BD.
+
+We can use the

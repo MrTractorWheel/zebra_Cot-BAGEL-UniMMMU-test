@@ -1,0 +1,5 @@
+<think>The problem asks to prove AC²=AD·AB. We are given that AB is the diameter of the circle, so ∠ACB=90° (angle in a semicircle). We are also given that AD is perpendicular to EF at D, so ∠ADC=90°. We are given that ∠DAC=∠BAC. We will use these facts to show that triangles ADC and ACB are similar.
+
+We have ∠ADC=90° and ∠ACB=90°, so ∠ADC=∠ACB. We are given ∠DAC=∠BAC. Therefore, by AA (Angle-Angle) similarity, triangle ADC is similar to triangle ACB.
+
+Since triangle ADC is similar to triangle ACB, the corresponding sides are proportional. So, AC/AB = AD/AC. This proportion can be rewritten as AC²=AD·AB, which is the statement we needed to prove.</think>
