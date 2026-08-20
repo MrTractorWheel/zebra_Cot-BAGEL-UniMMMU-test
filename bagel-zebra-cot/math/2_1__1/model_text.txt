@@ -1,0 +1,13 @@
+<think>The problem asks for the length of AC in a right-angled triangle ABC with ∠ACB = 90°, ∠ABC = 67.5°, and BC = 2. We are given that D is the midpoint of AB and DE is perpendicular to AB, intersecting AC at E. We need to find AC.
+
+First, we calculate ∠BAC. Since the sum of angles in a triangle is 180°, and ∠ACB = 90°, ∠ABC = 67.5°, then ∠BAC = 180° - 90° - 67.5° = 22.5°.
+
+Next, we find ∠DBE. Since D is the midpoint of AB, BD = AD. DE is perpendicular to AB, so ∠BDE = ∠ADE = 90°. In triangles BDE and ADE, BD = AD, ∠BDE = ∠ADE, and DE = DE (common side). Thus, by SAS congruence, △BDE ≅ △ADE. Therefore, BE = AE.
+
+Now, we find ∠AEB. Since BE = AE, ∠AEB = ∠EAB = 22.5°. Since ∠AEB is an exterior angle for triangle EBC, ∠AEB = ∠ECB + ∠EBC. We know ∠ECB = 90° (given) and ∠EBC = ∠ABC - ∠ABE = 67.5° - 22.5° = 45°. Thus, ∠AEB = 90° + 45° = 135°.
+
+Next, we find ∠CBE. Since ∠CBE + ∠EBC = ∠ABC, and ∠EBC = 45°, then ∠CBE = ∠ABC - ∠EBC = 67.5° - 45° = 22.5°.
+
+Now, we find ∠BEC. Since ∠BEC is an exterior angle for triangle ABE, ∠BEC = ∠EAB + ∠ABE = 22.5° + 22.5° = 45°.
+
+Finally, we find AC. Since ∠BEC = 45° and ∠ECB = 90°, triangle BEC is a right-angled isosceles triangle. Thus, EC = BC = 2. Since AC = EC + AE and AE = BE (from earlier), AC = EC + BE = EC + BC = 2 + 2 = 4.</think>

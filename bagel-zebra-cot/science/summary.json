@@ -1,9 +1,2490 @@
 {
   "run_root": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science",
-  "count_total": 2,
-  "per_item": [],
-  "count_processed": 0,
-  "count_success": 0,
+  "count_total": 157,
+  "per_item": [
+    {
+      "id": "case_03",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c005_35a3ad9130.png",
+      "condition": "White chocolate bar pieces resting on a warm metal spoon over a gentle flame. Heat to 40°C and maintain for a sufficient time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Phase change: melting point & boiling point"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_03/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_04",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_04",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c006_960e5d4e36.png",
+      "condition": "A pat of butter in a small frying pan on a stove. Heat the pan to 70°C and maintain for a sufficient time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Phase change: melting point & boiling point"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_04/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_04/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_05",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c008_f3b486f267.png",
+      "condition": "A small metallic gallium block in a shallow glass dish at room temperature. Carefully heat to 40°C and maintain for a sufficient time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Phase change: melting point & boiling point"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_05/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_06",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c012_9de6eabcf8.png",
+      "condition": "A small sugar cube on a metal spoon above a gentle flame. Heat to 190°C and maintain",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Phase change: melting point & boiling point"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_06/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_07",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/ice-cream.png",
+      "condition": "After the temperature exceeds 100 degrees Celsius for a period of time, draw the result",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Phase change: melting point & boiling point"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_07/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_08",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d02_c005_25df55f569.png",
+      "condition": "A glass bottle with a cork stopper fitted tightly in the neck; A small air space exists above the liquid. The bottle will not undergo any changes such as breakage Heating the bottle for a sufficient amount of time and at a high temperature;",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Thermal expansion and contraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_08/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_09",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d02_c009_23d64df3ba.png",
+      "condition": "A small balloon attached to a fixed stand; There is some air in the balloon. At first, it was at room temperature and pressure, and then Place the balloon in a 45 ° C environment for several minutes",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Thermal expansion and contraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_09/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_10",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/rail-cold.png",
+      "condition": "This is the state of the railway track during a cold winter day. Draw the state of the railway track during a hot summer day.",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Thermal expansion and contraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_10/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_11",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_11",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d03_c002_2b35652c97.png",
+      "condition": "An aluminum rod is clamped horizontally. The left end is heated; the right end is pressed against a small lump of unsalted butter on a clean white porcelain plate. Maintain the flame on the near end for a sufficiently long time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Heat conduction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_11/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_11/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_12",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d03_c004_b4264d62fd.png",
+      "condition": "A graphite rod is clamped horizontally. The left end is heated; the right end presses a block of candle wax. Maintain the flame on the near end for a sufficiently long time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Heat conduction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_12/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_13",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d03_c005_7c0c318102.png",
+      "condition": "An iron rod is clamped horizontally. The left end is heated; the right end rests against a slice of yellow cheddar cheese. Maintain the flame on the near end for a sufficiently long time",
+      "meta": {
+        "level_1": "Thermal",
+        "level_2": "Heat conduction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_13/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_14",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_14",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c004_bc6b9b5600.png",
+      "condition": "Freshwater with cork and rock.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_14/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_14/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_15",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c009_5c58e1ee09.png",
+      "condition": "Scenario 9: Freshwater with oil-on-water layering; wood and copper coin.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_15/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_16",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_16",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c010_f7ea442055.png",
+      "condition": "Scenario 10: Sugar solution density 1.2 with aluminum and Styrofoam.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_16/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_16/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_17",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_17",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c012_8e0e393b3b.png",
+      "condition": "Scenario 12: Freshwater with aluminum and plastic blocks.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_17/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_17/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_18",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c014_ef779376e9.png",
+      "condition": "Scenario 14: Freshwater with two Styrofoam beads of different sizes.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_19",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/beaker-water.png",
+      "condition": "A beaker of water is prepared. Place a wooden block and an iron block into the water, then draw the result.",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Floating and sinking"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_20",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c001_31514cd0df.png",
+      "condition": "Beaker containing a mixture of iron filings and chalk powder dispersed in water; no initial sediment. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_21",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c002_ccfe893847.png",
+      "condition": "Beaker with iron filings and fine sand dispersed in water; no sediment initially. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_22",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_22",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c009_bf3398b281.png",
+      "condition": "Beaker with iron filings, coal powder, and chalk. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_22/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_22/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_23",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c010_da1ca2154e.png",
+      "condition": "Beaker with iron filings, coal powder, and sand. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_24",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_24",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c014_da34ce8e35.png",
+      "condition": "Beaker with chalk powder in water. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_24/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_24/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_25",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c015_1f47d4bc5b.png",
+      "condition": "Beaker with sand in water. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_26",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/water-sand.png",
+      "condition": "A glass of water mixed with soil and sand particles is left undisturbed for a sufficiently long time. Draw the result.",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Sedimentation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_27",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/balloon.png",
+      "condition": "A balloon is continuously inflated with air. Draw the final state after this process.",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Pressure/Expansion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_28",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_28",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d07_c002_e003ff3f88.png",
+      "condition": "A small cork floats on the surface of water in a shallow dish. Place a single drop of ethanol on the water surface 1.5 cm to the left of the cork; wait 5 seconds",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Surface tension"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_28/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_28/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_29",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d07_c008_45263fa2bb.png",
+      "condition": "A small soap film sits over a circular frame in a dish. Sprinkle a pinch of table salt onto the film; wait 1 second",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Surface tension"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_30",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d07_c014_71e7be3210.png",
+      "condition": "A small orange foam piece floats on water.  dropped oil on the left of the foam piece; wait 5 seconds\n﻿",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Surface tension"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_31",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/paper-boat.png",
+      "condition": "A paper boat is floating on the water surface in a sink. Dishwashing liquid is dropped on the water surface on the left of the boat. Draw the resulting motion of the boat.",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Surface tension"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_32",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d08_c005_8eef5d5ea6.png",
+      "condition": "Thin white cotton wick partially submerged in blue water inside a beaker. Wait for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Others"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_33",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/out-d08_c006_5c4d746a67.png",
+      "condition": "White absorbent paper strip partially dipped into blue water in a beaker. Wait for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Others"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_34",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_34",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d08_c010_3be85cb905.png",
+      "condition": "A capillary tube tilted at 60 degrees from vertical, bottom end submerged in blue water. Wait for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Others"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_34/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_34/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_35",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d08_c013_cf8b802b1f.png",
+      "condition": "Small sintered ceramic bead fixed at the bottom of a vertical capillary tube, providing micro-channels for capillary flow. Wait for a sufficiently long time",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Others"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_36",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/absorbent-paper.png",
+      "condition": "A strip of absorbent paper is partially inserted into a container of colored water. Draw the state after sufficient time has passed.",
+      "meta": {
+        "level_1": "Fluid mechanics",
+        "level_2": "Others"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_37",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d09_c005_37b1a20313.png",
+      "condition": "A leaf spring is mounted horizontally and deflected downward by a weight at its center. Remove the weight and let the leaf spring return to its straight, unloaded shape for 2 seconds",
+      "meta": {
+        "level_1": "Classical mechanics",
+        "level_2": "Elasticity"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_38",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_38",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/spring-stretched.png",
+      "condition": "A metal spring is shown under tension, stretched by an external force. Draw the state of the spring when no external force is applied.",
+      "meta": {
+        "level_1": "Classical mechanics",
+        "level_2": "Elasticity"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_38/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_38/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_39",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/car-braking.png",
+      "condition": "A car is moving forward at speed with loose objects placed inside. The car suddenly brakes to a stop. Draw the final positions of the objects inside the car.",
+      "meta": {
+        "level_1": "Classical mechanics",
+        "level_2": "Inertia and moment of inertia"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_40",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c001_2103325b63.png",
+      "condition": "Phenolphthalein indicator in colorless aqueous solution; base will be added. Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds; allow to equilibrate",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_41",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_41",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c002_9ac38e8f7e.png",
+      "condition": "Phenolphthalein indicator in colorless solution using a different base. Add 5 mL of 0.1 M KOH to the beaker and swirl for 20 seconds; allow to equilibrate",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_41/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_41/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_42",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c003_9d1dd87395.png",
+      "condition": "Phenolphthalein indicator in colorless solution; ammonia base added. Add 5 mL of 0.5 M NH3(aq) to the beaker and swirl for 20 seconds; allow to equilibrate",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_43",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_43",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c004_64a43b4d3a.png",
+      "condition": "Methyl orange indicator in acidic solution;  Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_43/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_43/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_44",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_44",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c005_b3b1af1995.png",
+      "condition": "Methyl orange indicator in basic vs acidic states; Add 5 mL of 0.1 M HCl to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_44/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_44/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_45",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_45",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c006_969cbe78e6.png",
+      "condition": "Bromothymol blue indicator in acidic solution; Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_45/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_45/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_46",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c007_8c17b452ab.png",
+      "condition": "Bromothymol blue indicator in neutral solution;  Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_46/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_47",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_47",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c008_3c5dc79672.png",
+      "condition": "Bromothymol blue indicator in basic solution;  Add 5 mL of 0.1 M HCl to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_47/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_47/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_48",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_48",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c010_6a994ffa45.png",
+      "condition": "Universal indicator in neutral solution;  Add 5 mL of 0.1 M HCl to the beaker and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_48/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_48/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_49",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_49",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c011_1d80efa02d.png",
+      "condition": "Blue litmus paper in basic solution;  Dip the litmus strip into 0.1 M HCl and hold for 10 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_49/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_49/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_50",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c012_a6a16d5e6b.png",
+      "condition": "Red litmus paper in acidic solution;  Dip the litmus strip into 0.1 M NaOH and hold for 10 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_50/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_51",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_51",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c013_227b93b710.png",
+      "condition": "Red cabbage indicator in neutral solution;  Add 5 mL of 0.1 M NaOH to the beaker and swirl for 15 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_51/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_51/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_52",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_52",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c014_f2a20134de.png",
+      "condition": "Red cabbage indicator in neutral solution;  Add 5 mL of 0.1 M HCl to the beaker and swirl for 15 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_52/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_52/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_53",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_53",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c015_f2a20134de.png",
+      "condition": "Red cabbage indicator in neutral solution;  Add 5 mL of 0.1 M NaOH to the beaker and swirl for 15 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_53/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_53/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_54",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_54",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/litmus-lemon.png",
+      "condition": "A strip of purple litmus paper is dipped into lemon juice. Draw the resulting state of the litmus paper.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Acid-base indicator"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_54/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_54/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_55",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d12_c003_6b577c7769.png",
+      "condition": "A 250 mL bottle with water and a deflated balloon on the mouth; an Alka-Seltzer tablet sits nearby. Drop one Alka-Seltzer tablet into the bottle; immediately seal with balloon; wait for 30 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Gas generation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_55/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_56",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d12_c011_5f16756e57.png",
+      "condition": "A beaker with hot water and baking soda. Add baking soda to hot water in the beaker; hold the balloon over the mouth; wait 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Gas generation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_56/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_57",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c001_605de3aed7.png",
+      "condition": "A small metallic sodium cube (~1 cm) rests on a white ceramic tile on a clean lab bench; no flame visible yet. Ignite the sodium cube in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_57/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_58",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c002_28275b7c06.png",
+      "condition": "A slender lithium metal strip placed on a white ceramic tile; no flame yet. Ignite the lithium strip in open air and Draw the state during combustion",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_58/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_59",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c003_12e3cc37cb.png",
+      "condition": "A tiny potassium pellet rests on a ceramic tile in a lab bench; no flame is present. Ignite the potassium pellet in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_59/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_60",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_60",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c004_839f7d9de6.png",
+      "condition": "A small calcium chip sits on a ceramic tile in a lab bench; no flame yet. Ignite the calcium chip in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_60/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_60/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_61",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c005_55e4e118a1.png",
+      "condition": "A small strontium nitrate pellet rests on a ceramic tile; no flame visible. Ignite the strontium nitrate pellet in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_61/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_62",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c006_e1d307c6ab.png",
+      "condition": "Barium chloride crystals adhered to a small copper wire on a tile; no flame yet. Ignite the wire assembly in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_62/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_63",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c007_fa4c0e0a17.png",
+      "condition": "A length of copper wire on a tile; no flame yet. Ignite the copper wire in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_63/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_64",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_64",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c008_9aba578f6b.png",
+      "condition": "A small strip of magnesium ribbon coiled on a ceramic tile; No flame yet. Draw the state of outdoor ignition of magnesium strip",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_64/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_64/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_65",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c009_59025762d6.png",
+      "condition": "A small tuft of steel wool rests on a tile; no flame yet. Ignite the steel wool in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_65/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_66",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c010_d3c4667097.png",
+      "condition": "A small dish containing ethanol on a tile; no flame yet. Ignite the ethanol in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_66/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_67",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_67",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c012_9d84630630.png",
+      "condition": "A thin strip of titanium on a tile; no flame yet. Ignite the titanium strip in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_67/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_67/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_68",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c013_66ba84f45e.png",
+      "condition": "A small pellet of strontium carbonate on a tile; no flame yet. Ignite the strontium carbonate pellet in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_68/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_69",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c014_b1e5886610.png",
+      "condition": "A fine boron powder on a tile; no flame yet. Ignite the boron powder in open air and maintain ignition for 5 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_69/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_70",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_70",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d13_c015_fd4d4a498d.png",
+      "condition": "A small amount of aluminum powder on a tile; no flame yet. Ignite the aluminum powder in open air and Draw the state when ignited",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_70/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_70/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_71",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/sodium-block.png",
+      "condition": "A block of metallic sodium is exposed to open air. Draw the state when it is burning.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Combustion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_71/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_72",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_72",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c001_a6198f2ec6.png",
+      "condition": "A clean iron nail on a matte wooden board in a dry room. Place the iron nail in a humid open-air environment at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_72/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_72/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_73",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_73",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c002_08b6e40eff.png",
+      "condition": "A shiny copper penny resting on a white plate in a clean room. Leave the penny in open air at room temperature, and humid, rich in CO2 for a long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_73/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_73/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_74",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c003_d06974d4ac.png",
+      "condition": "A silver coin on a dark slate surface in a calm room. Expose the coin to air containing trace sulfur compounds at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_74/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_75",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c006_343be69e4c.png",
+      "condition": "A bronze statue placed outdoors in a garden. Leave the statue exposed to outdoor air for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_75/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_76",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_76",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c007_cc33261b04.png",
+      "condition": "A brass rod on a glass shelf indoors. Place in humid air at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_76/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_76/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_77",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_77",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c009_27449ce6cf.png",
+      "condition": "A steel gate hinge outdoors along a coastal path. Leave in coastal spray environment (high humidity with salt) for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_77/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_77/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_78",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c010_3a305cf74d.png",
+      "condition": "A copper pipe in a small workshop corner. Expose to humid air at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_78/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_79",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c011_97381eb678.png",
+      "condition": "A bronze bracelet resting on a soft fabric. Leave in outdoor air with humidity for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_79/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_80",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c012_04605344fd.png",
+      "condition": "A raw oak wood plank on a workbench. Expose to air at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_80/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_81",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c013_46ef030fe6.png",
+      "condition": "A ripe banana resting on a kitchen towel. Leave in room air for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_81/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_82",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_82",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c014_6fafc0ea9e.png",
+      "condition": "A white paper towel folded on a plate. Expose to air at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_82/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_82/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_83",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_83",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d14_c015_b9223ce149.png",
+      "condition": "A small piece of charcoal resting on a ceramic tray. Expose to open air at room temperature for a sufficiently long time",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_83/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_83/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_84",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/apple-fresh.png",
+      "condition": "A freshly cut apple slice is left exposed to air for several hours. Draw the result.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Oxidation"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_84/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_85",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c001_70819c9c89.png",
+      "condition": "100 mL water in a beaker with a small heap of table salt at the bottom; nothing dissolved yet. Stir the water for 30 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_85/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_86",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c002_b07cce4b40.png",
+      "condition": "A beaker with water and scattered sugar crystals at the bottom. Add sugar gradually while stirring for 60 seconds until the final steady state",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_86/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_87",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_87",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c003_8f9f31cd59.png",
+      "condition": "Two beakers ready for a precipitation demonstration: one with AgNO3 solution, the other with NaCl solution. Pour Beaker B into Beaker A and stir for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_87/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_87/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_88",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c004_d4a1175abb.png",
+      "condition": "A glass of water with a drop of oil on its surface. Gently swirl the glass for 15 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_88/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_89",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c005_aa8d7e0590.png",
+      "condition": "Two beakers, one with water and one with ethanol, to test miscibility. Pour ethanol from Beaker B into Beaker A and swirl for 10 seconds;  remove Beaker  B from the scene",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_89/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_90",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_90",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c006_9d6d571cbe.png",
+      "condition": "Hot saturated solution of potassium nitrate. Allow the solution to cool to 25 C and swirl for 20 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_90/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_90/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_91",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c007_c8af88bc5e.png",
+      "condition": "Two solutions ready to form a precipitate with sulfate and barium ions. Pour Beaker B into Beaker A and stir for 25 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_91/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_92",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d15_c009_5e10bae605.png",
+      "condition": "Chalk solid in water to observe acid dissolution. Add 1 M HCl and stir for 30 seconds",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_92/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_93",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_93",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/oil-water.png",
+      "condition": "A bottle of cooking oil and a glass of water are prepared. Pour the oil into the water. remove the oil glass. Draw the result.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Solubility"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_93/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_93/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_94",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d16_c006_82c3bbd820.png",
+      "condition": "Two colorless aqueous solutions ready to react: K2CrO4 and BaCl2, each ~50 mL, at room temperature. Pour the K2CrO4 solution into the BaCl2 solution and stir for 30 seconds at room temperature. remove K2CrO4  from the scene",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Precipitation and crystallization"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_94/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_95",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/cacl2-na2co3.png",
+      "condition": "Two clear solutions are prepared, one of calcium chloride (CaCl₂) and the other of sodium carbonate (Na₂CO₃). Mix the two solutions together. Draw the resulting state showing any precipitate formed.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Precipitation and crystallization"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_95/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_96",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d17_c001_54a9d65ad2.png",
+      "condition": "Room temperature (~22°C), 100 mL of 0.50 M CuSO4 solution in a 250 mL beaker. A flat magnesium strip is clamped and partially immersed. Day 0: Before Reaction. Leave undisturbed at 22°C for 24 hours",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Displacement reaction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_96/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_97",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_97",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d17_c004_ce4683c6d4.png",
+      "condition": "Room temperature (~22°C), 100 mL of 0.50 M CuSO4 solution in a 250 mL beaker. A flat iron strip is clamped and partially immersed. Day 0: Before Reaction. Leave undisturbed at 22°C for 24 hours",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Displacement reaction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_97/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_97/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_98",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/zinc-cuso4.png",
+      "condition": "A zinc strip is placed into a blue copper sulfate (CuSO₄) solution. Leave it for 24 hours and draw the state of the solution and the zinc strip afterward.",
+      "meta": {
+        "level_1": "Chemistry",
+        "level_2": "Displacement reaction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_99",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c001_1b1c925e45.png",
+      "condition": "A two-week-old sunflower seedling in a small ceramic pot on a white windowsill, with diffuse ambient light and no strong directional cue. Increase light intensity from the left side only, while maintaining ambient light for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Phototropism and geotropism"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_100",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c002_a12225cab5.png",
+      "condition": "A two-week-old sunflower seedling in a small ceramic pot on a white windowsill, with diffuse ambient light. Shift the directional light to come from the right side only, for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Phototropism and geotropism"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_101",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c015_84c194833b.png",
+      "condition": "A two-week-old sunflower seedling in a pot, light from the left at a shallow angle. Increase left-side light intensity while keeping the angle shallow; sustain for a long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Phototropism and geotropism"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_102",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/sunflower.png",
+      "condition": "A sunflower is placed on a windowsill where sunlight comes only from the left side. Draw the state of the sunflower after a long period of growth under this condition.",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Phototropism and geotropism"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_103",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c001_98c33939bb.png",
+      "condition": "Unripe green bananas on a light wooden kitchen counter; five bananas in a bunch; ambient room temperature ~22°C; no ethylene control. Store at 22°C for 5 days to allow natural ripening",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_104",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_104",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c002_9dd8f90284.png",
+      "condition": "Single unripe green tomato on a white windowsill; vine still attached; bright natural light. Expose to ambient room conditions at 25°C with bright sunlight for 3 days to ripen",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_104/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_104/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_105",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c003_b97ad43ac7.png",
+      "condition": "One Hass avocado on a light marble kitchen counter; unripe and firm. Store at 20°C for 4 days to allow ripening",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_106",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_106",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c004_806db04b38.png",
+      "condition": "Green Fuji apple on a wooden kitchen counter; shiny and firm. Place in a sealed chamber with ethylene gas at 1 ppm, 20°C, for 2 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_106/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_106/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_107",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_107",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c005_d3a9928637.png",
+      "condition": "Green Bartlett-style pear on a pale wooden board; smooth skin. Ripen at 20°C for 3 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_107/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_107/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_108",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c006_3db5a4d460.png",
+      "condition": "Unripe green mango on a kitchen counter; smooth skin. Store at 28°C for 5 days to ripen",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_109",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_109",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c007_2fd51b2705.png",
+      "condition": "Green papaya on a counter; elongated shape; smooth skin. Store at 25°C for 4 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_109/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_109/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_110",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_110",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c008_7631865866.png",
+      "condition": "Several green plantains with thick peels on a wooden board; unripe. Store at 28°C for 6 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_110/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_110/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_111",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c011_74e805cedc.png",
+      "condition": "Green cantaloupe on a kitchen counter; rind is pale with light netting. Keep at 22°C for 4 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_111/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_112",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_112",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c012_969fc995e4.png",
+      "condition": "Pineapple with green crown on a countertop; rind green-yellow. Store at 28°C for 5 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_112/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_112/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_113",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_113",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c013_8947a9adad.png",
+      "condition": "Green grapefruit on a white cutting board. Store at 25°C for 5 days",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_113/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_113/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_114",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_114",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/bananas-green.png",
+      "condition": "A bunch of unripe green bananas is left at room temperature for several days. Draw the result.",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Ripening / color change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_114/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_114/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_115",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/leaves-saltwater.png",
+      "condition": "Fresh green leaves are soaked in salt water for several hours. Draw the result.",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Osmosis / wilting"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_115/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_116",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c001_2cdace82af.png",
+      "condition": "A sealed glass jar containing a single sprouting bean seed in a moist cotton bed, with visible roots and a small amount of soil at the bottom. Seal the container and keep it in darkness at approximately 22°C for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Respiration"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_116/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_117",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c007_cee6d81e9d.png",
+      "condition": "A sealed glass vial with a small slice of bread and visible mold growth beginning to form. Seal the container and store at room temperature in darkness for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Respiration"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_117/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_118",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c013_fe6a5e0364.png",
+      "condition": "A sealed jar with a small basil cutting and a soil bead containing tiny soil-dwelling organisms. Seal the container and keep it in darkness at about 22°C for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Respiration"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_118/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_119",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d21_c019_1985b3cff3.png",
+      "condition": "A sealed jar containing a small mint cutting on damp paper towels with a thread of mold starting to form. Seal the container and keep in darkness at approximately 21°C for a sufficiently long time",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Respiration"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_119/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_120",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/seeds-candle.png",
+      "condition": "Inside a sealed glass container, there are germinating seeds and a burning candle. After 1 hour, draw the state of the candle.",
+      "meta": {
+        "level_1": "Biology",
+        "level_2": "Respiration"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_120/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_121",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d22_c012_e49ac833d5.png",
+      "condition": "A clear acrylic rod on a white surface with a red light entering one end. Bend the rod 25 degrees while keeping the ends fixed",
+      "meta": {
+        "level_1": "Optics",
+        "level_2": "Refraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_121/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_122",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/straw-water.png",
+      "condition": "A plastic straw is inserted vertically into a half-filled glass of water. Draw the observed appearance of the straw in the glass of water.",
+      "meta": {
+        "level_1": "Optics",
+        "level_2": "Refraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_122/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_123",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d23_c001_14601a388f.png",
+      "condition": "A wooden work surface hosts a rectangular bar magnet with a few dozen iron nails scattered nearby. Gently bring the bar magnet into contact with the pile of nails and maintain contact long enough for every nail to stick to the magnet",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Magnetic attraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_123/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_124",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/magnet-nails.png",
+      "condition": "A bar magnet is slowly brought close to a pile of scattered iron nails. Draw the resulting state after interaction.",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Magnetic attraction"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_125",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d24_c001_600799f409.png",
+      "condition": "Beaker with 100 mL of 0.1 M CuSO4; copper anode (left) and iron cathode (right); blue solution; standard lab DC power supply. Apply direct current of 3 V for 15 minutes while keeping electrodes fixed in the solution",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Electro-corrosion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_126",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/electrolysis-cuso4.png",
+      "condition": "A copper plate is used as the anode and an iron plate as the cathode, both immersed in a CuSO₄ solution. A direct current of 5 V is applied for 30 minutes. Draw the state of the electrodes and the solution afterward.",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Electro-corrosion"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_127",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d25_c002_500fcd7fde.png",
+      "condition": "An orange helium balloon near a small pile of confetti on a white table. Rub the balloon with a wool sweater for 2 seconds, then bring the balloon near the confetti for 3 seconds (without touching)",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Static electricity"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_128",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d25_c008_5a4824ba75.png",
+      "condition": "A small makeup brush and a nearby strand of tissue. Rub the makeup brush with a wool cloth for 3 seconds, then bring the brush toward the tissue strand for 2 seconds",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Static electricity"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_129",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/comb-paper.png",
+      "condition": "A plastic comb is quickly rubbed on hair and then brought close to small paper scraps. Draw the resulting state.",
+      "meta": {
+        "level_1": "Electromagnetism",
+        "level_2": "Static electricity"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_130",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d26_c003_9b94736c23.png",
+      "condition": "Material: copper wire; diameter 0.8 mm; length 22 cm; no deliberate notch. Subject the wire to cyclic axial tension-tension loading with 200 N amplitude at 1.2 Hz until the final steady state",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Fatigue fracture"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_131",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/iron-wire.png",
+      "condition": "A thin iron wire is bent back and forth repeatedly at the same spot many times. Draw the final state of the wire.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Fatigue fracture"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_132",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_132",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c001_b9cc7490cd.png",
+      "condition": "A diamond scribe is slid horizontally across a glass plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_132/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_132/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_133",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_133",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c002_ab96f8ce98.png",
+      "condition": "A diamond scribe is slid horizontally across a quartz crystal plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_133/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_133/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_134",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_134",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c003_dc8da04989.png",
+      "condition": "A calcite scribe is slid horizontally across a sapphire plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_134/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_134/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_135",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c005_9eee84b1c7.png",
+      "condition": "A glass scribe is slid horizontally across a quartz crystal plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_136",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c006_db021e79a6.png",
+      "condition": "A diamond scribe is slid horizontally across a porcelain plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_137",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_137",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c007_3d1443cfd7.png",
+      "condition": "A sapphire scribe is slid horizontally across a gypsum plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_137/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_137/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_138",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_138",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c009_f844fa2809.png",
+      "condition": "A calcite scribe is slid horizontally across a talc plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_138/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_138/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_139",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c010_8cabfd11f9.png",
+      "condition": "A quartz scribe is slid horizontally across a chalk plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_139/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_140",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_140",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c011_7d0beae925.png",
+      "condition": "A diamond scribe is slid horizontally across a marble plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_140/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_140/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_141",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c012_0fb80fb456.png",
+      "condition": "A sapphire scribe is slid horizontally across a slate plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_141/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_142",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_142",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c014_0ce10a2865.png",
+      "condition": "A marble scribe is slid horizontally across a feldspar plate.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_142/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_142/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_143",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_143",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/egg-stone.png",
+      "condition": "An egg and a stone are made to collide directly until one of them breaks. Draw the final state after the collision.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Material hardness"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_143/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_143/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_144",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/spoon-butter.png",
+      "condition": "A metal spoon and a plastic spoon are both placed in boiling water, each with a small piece of butter attached to the end of the handle. After 30 seconds, draw the state of the two pieces of butter.",
+      "meta": {
+        "level_1": "Material science",
+        "level_2": "Thermal conductivity differences"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_144/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_145",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c001_e84383561d.png",
+      "condition": "Three beverage bottles arranged left to right on a wooden table, colored red, blue, and yellow. Swap the positions of the red and yellow bottles; the blue bottle remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_145/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_146",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c002_56d39ff401.png",
+      "condition": "Three colored blocks on a table: green, purple, orange left to right. Swap the positions of the green and orange blocks; the purple block stays in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_146/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_147",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_147",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c003_215385e0a7.png",
+      "condition": "Three spheres on a white surface: cyan, pink, lime left to right. Swap the cyan and lime spheres; the pink sphere remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_147/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_147/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_148",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c004_65fcb71191.png",
+      "condition": "Three beakers with colored liquids left to right: red, blue, green. Swap the red and green beakers; the blue beaker stays in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_148/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_149",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c006_2406429ca0.png",
+      "condition": "Three fruits on a plate: strawberry (red) left, lemon (yellow) middle, grape (purple) right. Swap the red strawberry and the yellow lemon; the purple grape remains on the right",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_149/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_150",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_150",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c007_c1b886fdee.png",
+      "condition": "Three cups on a saucer: blue, red, yellow left to right. Swap the blue cup and the yellow cup; the red cup stays in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_150/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_150/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_151",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_151",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c008_8a847050ed.png",
+      "condition": "Three candies on a shallow dish: orange, green, purple left to right. Swap the orange and purple candies; the green candy remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_151/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_151/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_152",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c010_73edd08bc7.png",
+      "condition": "Three small vases on a shelf: pink, turquoise, orange left to right. Swap the pink vase and the orange vase; turquoise vase remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_153",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_153",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c012_09e380881c.png",
+      "condition": "Three books with colored spines: cyan, magenta, lime left to right. Swap the cyan spine book and the lime spine book; magenta spine remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_153/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_153/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_154",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c013_fd3c265d8d.png",
+      "condition": "Three potted flowers on a balcony: red pot, purple pot, orange pot left to right. Swap the red pot and the orange pot; purple pot remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_155",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_155",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c014_164586e182.png",
+      "condition": "Three glass marbles in a tray: aqua, amber, pink left to right. Swap the aqua marble and the pink marble; amber marble remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_155/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_155/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_156",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_156",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c015_a0d1445967.png",
+      "condition": "Three balls on a shelf: blue, green, red left to right. Swap the blue ball and the red ball; the green ball remains in the middle",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_156/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_156/model_image_01.png"
+      ],
+      "errors": []
+    },
+    {
+      "id": "case_157",
+      "status": "ok",
+      "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157",
+      "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/bottles-rby.png",
+      "condition": "Three bottles are placed side by side on a table: a red bottle on the left, a blue bottle in the middle, and a yellow bottle on the right. Swap the positions of the red and yellow bottles. Draw the result.",
+      "meta": {
+        "level_1": "Spatial",
+        "level_2": "Position change"
+      },
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157/model_text.txt",
+      "images_saved": [
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157/model_image_01.png"
+      ],
+      "errors": []
+    }
+  ],
+  "count_processed": 155,
+  "count_success": 155,
   "count_error": 0,
   "count_skipped": 2,
   "completed": true

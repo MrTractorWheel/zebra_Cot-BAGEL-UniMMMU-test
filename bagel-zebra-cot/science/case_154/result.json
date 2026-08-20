@@ -1,0 +1,16 @@
+{
+  "id": "case_154",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c013_fd3c265d8d.png",
+  "condition": "Three potted flowers on a balcony: red pot, purple pot, orange pot left to right. Swap the red pot and the orange pot; purple pot remains in the middle",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_154/model_image_01.png"
+  ],
+  "errors": []
+}

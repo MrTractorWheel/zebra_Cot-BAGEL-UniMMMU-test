@@ -1,0 +1,16 @@
+{
+  "id": "case_157",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/bottles-rby.png",
+  "condition": "Three bottles are placed side by side on a table: a red bottle on the left, a blue bottle in the middle, and a yellow bottle on the right. Swap the positions of the red and yellow bottles. Draw the result.",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_157/model_image_01.png"
+  ],
+  "errors": []
+}

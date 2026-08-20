@@ -1,0 +1,21 @@
+<think>The problem asks for the measure of ∠COD. We are given a square ABCD, with E as the midpoint of AB, FE perpendicular to AB, and AF = 2AE. FC intersects BD at O. We need to find ∠COD.
+
+We are given the construction: the circumcircle of BDF with center A, connecting DF and BF. Since A is the center of this circle, AF = AB = AD. This implies that ∠AFB = ∠ABF = ∠ABD = 45°, as they are angles in a circle with equal radii.
+
+Since AF = 2AE and E is the midpoint of AB, AE = EB = AF/2. Therefore, AF = 2EB. This implies that BF = AF = 2EB.
+
+Now, consider the right triangle FBE. Since FE is perpendicular to AB, ∠FEB = 90°. The side lengths are: FE = EB (E is the midpoint of AB), and BF = 2EB. This means that FE = EB = BF/2. Therefore, ∠EFB = 30°.
+
+Since ∠AFB = 45° and ∠EFB = 30°, we can find ∠AFE. ∠AFE = ∠AFB - ∠EFB = 45° - 30° = 15°.
+
+Now, consider the triangle AEF. We have AE = EF and ∠AEF = 90° (since FE is perpendicular to AB). Therefore, ∠EAF = ∠EFA = (180° - 90°)/2 = 45°.
+
+Now, consider the triangle AFD. We have AF = AD (A is the center of the circumcircle of BDF). Therefore, ∠AFD = ∠ADF = (180° - ∠DAF)/2. We need to find ∠DAF.
+
+Consider the triangle ADF. We have AF = AD and ∠DAF = ∠EAF + ∠EAD. Since ABCD is a square, ∠EAD = 90°. Therefore, ∠DAF = 45° + 90° = 135°. Therefore, ∠AFD = ∠ADF = (180° - 135°)/2 = 22.5°.
+
+Now, consider the quadrilateral ABDF. We have AF = AB = AD (A is the center of the circumcircle of BDF). Therefore, ABDF is a kite. In a kite, the diagonals are perpendicular. Therefore, BD is perpendicular to AF. Therefore, ∠BOF = 90°.
+
+Now, consider the triangles BOC and DOF. We have ∠BOC = ∠DOF (vertical angles). We have ∠OBC = ∠ODF = 45° (angles in a square). We have OB = OD (diagonals of a square bisect each other). Therefore, by the AAS (Angle-Angle-Side) congruence criterion, triangles BOC and DOF are congruent. Therefore, OC = OF.
+
+Now, consider the triangle COF. We have OC = OF. Therefore, ∠OCF = ∠OFC. We have ∠COF = 180° - ∠BOF = 180° - 90° = 90°. Therefore, ∠OCF = ∠OFC = (180° - 90°)/2 =

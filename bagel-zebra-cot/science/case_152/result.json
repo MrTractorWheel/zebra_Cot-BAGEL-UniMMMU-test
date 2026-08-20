@@ -1,0 +1,16 @@
+{
+  "id": "case_152",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d30_c010_73edd08bc7.png",
+  "condition": "Three small vases on a shelf: pink, turquoise, orange left to right. Swap the pink vase and the orange vase; turquoise vase remains in the middle",
+  "meta": {
+    "level_1": "Spatial",
+    "level_2": "Position change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_152/model_image_01.png"
+  ],
+  "errors": []
+}

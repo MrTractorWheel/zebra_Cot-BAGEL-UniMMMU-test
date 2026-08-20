@@ -1,0 +1,17 @@
+<think>The problem asks for the length of AD. We are given an isosceles right triangle BAE with AB as a leg, and E lies on CD. We are also given that CE = 6 and ∠C = 45°. We need to find AD.
+
+First, we draw the auxiliary line EF perpendicular to CD, intersecting BC at F. This creates two right triangles: ∆EFC and ∆EFB.
+
+Since ∠C = 45° and EF is perpendicular to CD, ∠EFC = 90°. Therefore, ∆EFC is a right-angled isosceles triangle (45°-45°-90°). In a 45°-45°-90° triangle, the legs are equal, so EF = FC. We are given CE = 6. Since ∆EFC is a 45°-45°-90° triangle, its hypotenuse EC is √2 times the length of its legs. Thus, EF = FC = CE / √2 = 6 / √2 = 3√2.
+
+Now, consider the isosceles right triangle BAE. Since AB is a leg and ∠BAE = 90°, the other leg AE is equal to AB. Thus, AE = AB. We have shown that EF = FC = 3√2. Since AD is parallel to BC (given), and EF is perpendicular to CD, AD is also perpendicular to EF. This means that AD is parallel to BC and perpendicular to EF, making AD also perpendicular to BC.
+
+Now, consider the right triangle ∆EFB. We have EF = 3√2 and ∠EFB = 90° (since EF is perpendicular to BC). We need to find BF. We can use the Pythagorean theorem in ∆EFB: BF² + EF² = BE². We need to find BE. Since BAE is an isosceles right triangle, BE is the hypotenuse, so BE = √2 * AB. We need to find AB.
+
+We can use the fact that AD is parallel to BC and that AD is perpendicular to EF. This means that AD is also perpendicular to BC. Since AD is parallel to BC, the distance between AD and BC is the same as the distance between AD and EF. Since EF is perpendicular to CD and AD is parallel to BC, the distance between AD and BC is the length of EF, which we found to be 3√2.
+
+Now, consider the right triangle ∆ABC. We have BC as the base, AC as the height, and AB as the hypotenuse. We need to find AB. We can use the Pythagorean theorem in ∆ABC: AB² + AC² = BC². We need to find AC. Since AD is parallel to BC and AD is perpendicular to EF, AC is the same as EF, which we found to be 3√2. We need to find BC.
+
+We can use the fact that AD is parallel to BC and that AD is perpendicular to EF. This means that AD is also perpendicular to BC. Since AD is parallel to BC, the distance between AD and BC is the same as the distance between AD and EF. Since EF is perpendicular to CD and AD is parallel to BC, the distance between AD and BC is the length of EF, which we found to be 3√2.
+
+Now, consider the right triangle ∆EFB. We have EF = 3√2 and ∠EFB = 90°. We need to find BF. We can use the Py

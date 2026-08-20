@@ -1,0 +1,1 @@
+<think>The problem requires swapping the positions of the orange and purple candies while keeping the green candy in the middle. The background and other objects remain unchanged.</think>
