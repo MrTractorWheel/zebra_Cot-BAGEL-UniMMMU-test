@@ -1,0 +1,5 @@
+<think>The problem requires me to render the provided SVG code without using external tools. I will follow the rules for rendering, which include respecting the viewBox, applying transformations correctly, and stacking elements. The SVG contains a background rectangle, three instances of a circle, and a transform applied to the circle.
+
+I will start by visualizing the basic structure of the SVG. The viewBox is set to [0,0,512,512], which means the canvas will be 512x512 pixels. The background is a solid white rectangle filling the entire canvas. The three circles are defined in a template (`<价格上涨>`) and then used three times with different positions and a rotation.
+
+To better understand the final image, I will first render the basic background and the three circles without any transformations.</think>

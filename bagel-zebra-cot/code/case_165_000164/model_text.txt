@@ -1,0 +1,2 @@
+<think>The problem requires me to render the provided SVG code without using any external tools. I will follow the rendering rules strictly, using the provided code as input. The code defines a SVG canvas with a white background, and three red circles centered at (60,256), (157,256), and (254,256) with a radius of 40. I will render these elements on the canvas.
+I will now generate the final visual output based on the provided SVG code.</think>

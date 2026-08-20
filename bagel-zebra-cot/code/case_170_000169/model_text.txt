@@ -1,0 +1,6 @@
+<think>Begin with a 512x512 canvas, white background.
+Add a large white rectangle covering the entire canvas.
+Add a dark orange circle (fill: #E67E22, cx: 98, cy: 162, r: 36).
+Add a purple polygon (fill: #9B59B6, points: (222.77, 375.59), (194.43, 347.41), (212.48, 311.75), (251.97, 317.89), (258.34, 357.35)).
+Add a red polygon (fill: #E74C3C, points: (231.38, 219.15), (238.85, 177.38), (280.62, 184.85), (273.15, 226.62)).
+No other elements are added.</think>

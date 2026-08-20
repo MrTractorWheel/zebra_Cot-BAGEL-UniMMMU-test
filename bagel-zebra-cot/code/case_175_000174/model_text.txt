@@ -1,0 +1,2 @@
+<think>The problem requires me to render the provided SVG code without using any external tools. I will follow the rendering rules strictly, focusing on the structure and content of the provided code, which consists of a simple shape stack: a white background, a gray rectangle, and a red circle.
+The final image will be a 512x512 pixel square. The background is white. A gray rectangle is placed at coordinates (92, 310) with dimensions 61x107. A red circle is centered at (136, 106) with a radius of 62.</think>

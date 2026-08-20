@@ -1,0 +1,13 @@
+{
+  "id": "case_163_000162",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/code/case_163_000162",
+  "svg": "svgs/000162.svg",
+  "png": "images/000162.png",
+  "difficulty": "medium",
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/code/case_163_000162/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/code/case_163_000162/model_image_01.png"
+  ],
+  "errors": []
+}

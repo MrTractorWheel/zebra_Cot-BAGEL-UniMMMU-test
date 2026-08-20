@@ -1,0 +1,1 @@
+<think>Begin with a 512x512 canvas. Add a white background. Add a dark gray rectangle at (146,380). Add a green rectangle at (337,31).</think>
