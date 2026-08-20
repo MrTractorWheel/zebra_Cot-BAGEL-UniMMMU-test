@@ -1,0 +1,16 @@
+{
+  "id": "case_23",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c010_da1ca2154e.png",
+  "condition": "Beaker with iron filings, coal powder, and sand. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Sedimentation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_23/model_image_01.png"
+  ],
+  "errors": []
+}

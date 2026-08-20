@@ -1,0 +1,16 @@
+{
+  "id": "case_21",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c002_ccfe893847.png",
+  "condition": "Beaker with iron filings and fine sand dispersed in water; no sediment initially. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Sedimentation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_21/model_image_01.png"
+  ],
+  "errors": []
+}

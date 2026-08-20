@@ -1,0 +1,16 @@
+{
+  "id": "case_30",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d07_c014_71e7be3210.png",
+  "condition": "A small orange foam piece floats on water.  dropped oil on the left of the foam piece; wait 5 seconds\n﻿",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Surface tension"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_30/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_25",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c015_1f47d4bc5b.png",
+  "condition": "Beaker with sand in water. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Sedimentation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_25/model_image_01.png"
+  ],
+  "errors": []
+}

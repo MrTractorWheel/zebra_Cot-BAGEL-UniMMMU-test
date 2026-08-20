@@ -1,0 +1,16 @@
+{
+  "id": "case_27",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/balloon.png",
+  "condition": "A balloon is continuously inflated with air. Draw the final state after this process.",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Pressure/Expansion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_27/model_image_01.png"
+  ],
+  "errors": []
+}

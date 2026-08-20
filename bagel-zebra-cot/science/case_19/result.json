@@ -1,0 +1,16 @@
+{
+  "id": "case_19",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/beaker-water.png",
+  "condition": "A beaker of water is prepared. Place a wooden block and an iron block into the water, then draw the result.",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Floating and sinking"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_19/model_image_01.png"
+  ],
+  "errors": []
+}

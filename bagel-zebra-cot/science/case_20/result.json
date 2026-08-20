@@ -1,0 +1,16 @@
+{
+  "id": "case_20",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d05_c001_31514cd0df.png",
+  "condition": "Beaker containing a mixture of iron filings and chalk powder dispersed in water; no initial sediment. Leave the beaker undisturbed at room temperature (~25°C) for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Sedimentation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_20/model_image_01.png"
+  ],
+  "errors": []
+}

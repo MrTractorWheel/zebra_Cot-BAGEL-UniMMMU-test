@@ -1,0 +1,16 @@
+{
+  "id": "case_26",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/water-sand.png",
+  "condition": "A glass of water mixed with soil and sand particles is left undisturbed for a sufficiently long time. Draw the result.",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Sedimentation"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_26/model_image_01.png"
+  ],
+  "errors": []
+}

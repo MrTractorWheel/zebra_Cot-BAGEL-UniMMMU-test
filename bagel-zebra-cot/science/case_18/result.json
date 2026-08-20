@@ -1,0 +1,16 @@
+{
+  "id": "case_18",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d04_c014_ef779376e9.png",
+  "condition": "Scenario 14: Freshwater with two Styrofoam beads of different sizes.Put both into the water. Let the beaker stand undisturbed for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Floating and sinking"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_18/model_image_01.png"
+  ],
+  "errors": []
+}

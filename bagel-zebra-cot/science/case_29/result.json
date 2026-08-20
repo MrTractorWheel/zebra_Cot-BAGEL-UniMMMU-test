@@ -1,0 +1,16 @@
+{
+  "id": "case_29",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d07_c008_45263fa2bb.png",
+  "condition": "A small soap film sits over a circular frame in a dish. Sprinkle a pinch of table salt onto the film; wait 1 second",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Surface tension"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_29/model_image_01.png"
+  ],
+  "errors": []
+}
