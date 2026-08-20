@@ -1,0 +1,16 @@
+{
+  "id": "case_99",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c001_1b1c925e45.png",
+  "condition": "A two-week-old sunflower seedling in a small ceramic pot on a white windowsill, with diffuse ambient light and no strong directional cue. Increase light intensity from the left side only, while maintaining ambient light for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Phototropism and geotropism"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_99/model_image_01.png"
+  ],
+  "errors": []
+}

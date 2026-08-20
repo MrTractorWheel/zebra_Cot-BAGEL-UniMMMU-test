@@ -1,0 +1,1 @@
+<think>The condition specifies increasing the light intensity on the left side of the scene while maintaining the angle of the light source. This means the light source's position relative to the plant remains unchanged, but its brightness is enhanced. I will visualize the result of this light change.</think>

@@ -1,0 +1,16 @@
+{
+  "id": "case_101",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c015_84c194833b.png",
+  "condition": "A two-week-old sunflower seedling in a pot, light from the left at a shallow angle. Increase left-side light intensity while keeping the angle shallow; sustain for a long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Phototropism and geotropism"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_101/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_108",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c006_3db5a4d460.png",
+  "condition": "Unripe green mango on a kitchen counter; smooth skin. Store at 28°C for 5 days to ripen",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Ripening / color change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_108/model_image_01.png"
+  ],
+  "errors": []
+}

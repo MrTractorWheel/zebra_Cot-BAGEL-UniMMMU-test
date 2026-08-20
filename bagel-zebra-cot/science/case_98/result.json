@@ -1,0 +1,16 @@
+{
+  "id": "case_98",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/zinc-cuso4.png",
+  "condition": "A zinc strip is placed into a blue copper sulfate (CuSO₄) solution. Leave it for 24 hours and draw the state of the solution and the zinc strip afterward.",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Displacement reaction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_98/model_image_01.png"
+  ],
+  "errors": []
+}

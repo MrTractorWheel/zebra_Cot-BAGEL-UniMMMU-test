@@ -1,0 +1,2 @@
+<think>The problem describes a green mango on a kitchen counter, which needs to ripen. It provides the condition for ripening: store at 28°C for 5 days. I need to determine the final state of the mango after this ripening process.
+To understand the ripening process, I will visualize a mango that is currently unripe.</think>

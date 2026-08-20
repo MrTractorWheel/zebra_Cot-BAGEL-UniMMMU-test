@@ -1,0 +1,16 @@
+{
+  "id": "case_105",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c003_b97ad43ac7.png",
+  "condition": "One Hass avocado on a light marble kitchen counter; unripe and firm. Store at 20°C for 4 days to allow ripening",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Ripening / color change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_105/model_image_01.png"
+  ],
+  "errors": []
+}

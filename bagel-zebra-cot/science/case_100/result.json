@@ -1,0 +1,16 @@
+{
+  "id": "case_100",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d18_c002_a12225cab5.png",
+  "condition": "A two-week-old sunflower seedling in a small ceramic pot on a white windowsill, with diffuse ambient light. Shift the directional light to come from the right side only, for a sufficiently long time",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Phototropism and geotropism"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_100/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_103",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d19_c001_98c33939bb.png",
+  "condition": "Unripe green bananas on a light wooden kitchen counter; five bananas in a bunch; ambient room temperature ~22°C; no ethylene control. Store at 22°C for 5 days to allow natural ripening",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Ripening / color change"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_103/model_image_01.png"
+  ],
+  "errors": []
+}

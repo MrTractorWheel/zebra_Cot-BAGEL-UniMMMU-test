@@ -1,0 +1,16 @@
+{
+  "id": "case_102",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/sunflower.png",
+  "condition": "A sunflower is placed on a windowsill where sunlight comes only from the left side. Draw the state of the sunflower after a long period of growth under this condition.",
+  "meta": {
+    "level_1": "Biology",
+    "level_2": "Phototropism and geotropism"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_102/model_image_01.png"
+  ],
+  "errors": []
+}

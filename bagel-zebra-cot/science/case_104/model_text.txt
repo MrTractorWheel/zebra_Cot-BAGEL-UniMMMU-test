@@ -1,0 +1,3 @@
+<think>The problem states that the tomato is currently unripe and green. It is placed on a windowsill with a vine still attached, and it is exposed to bright natural light. The condition specifies that the tomato should be exposed to ambient room conditions at 25°C with bright sunlight for 3 days. This implies that the tomato will be left in this environment for a period of three days, allowing it to ripen.
+
+Based on the condition, the tomato will remain on the windowsill, exposed to the same conditions, for three days. During this time, the tomato will continue to ripen. The image will show the tomato in its final state after three days of ripening.</think>

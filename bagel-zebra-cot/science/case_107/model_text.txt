@@ -1,0 +1,2 @@
+<think>The problem describes a green pear and asks for its state after 3 days of ripening at 20°C. I will reason about the pear's color change.
+I will visualize the pear after the specified ripening process to show its final color.</think>
