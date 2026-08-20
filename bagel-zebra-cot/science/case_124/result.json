@@ -1,0 +1,16 @@
+{
+  "id": "case_124",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/magnet-nails.png",
+  "condition": "A bar magnet is slowly brought close to a pile of scattered iron nails. Draw the resulting state after interaction.",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Magnetic attraction"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_124/model_image_01.png"
+  ],
+  "errors": []
+}

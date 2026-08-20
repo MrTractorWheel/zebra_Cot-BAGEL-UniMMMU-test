@@ -1,0 +1,16 @@
+{
+  "id": "case_125",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d24_c001_600799f409.png",
+  "condition": "Beaker with 100 mL of 0.1 M CuSO4; copper anode (left) and iron cathode (right); blue solution; standard lab DC power supply. Apply direct current of 3 V for 15 minutes while keeping electrodes fixed in the solution",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Electro-corrosion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_125/model_image_01.png"
+  ],
+  "errors": []
+}

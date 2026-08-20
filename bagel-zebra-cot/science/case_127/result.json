@@ -1,0 +1,16 @@
+{
+  "id": "case_127",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d25_c002_500fcd7fde.png",
+  "condition": "An orange helium balloon near a small pile of confetti on a white table. Rub the balloon with a wool sweater for 2 seconds, then bring the balloon near the confetti for 3 seconds (without touching)",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Static electricity"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_127/model_image_01.png"
+  ],
+  "errors": []
+}

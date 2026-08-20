@@ -1,0 +1,16 @@
+{
+  "id": "case_128",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d25_c008_5a4824ba75.png",
+  "condition": "A small makeup brush and a nearby strand of tissue. Rub the makeup brush with a wool cloth for 3 seconds, then bring the brush toward the tissue strand for 2 seconds",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Static electricity"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_128/model_image_01.png"
+  ],
+  "errors": []
+}

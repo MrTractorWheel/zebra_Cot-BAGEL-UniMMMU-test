@@ -1,0 +1,16 @@
+{
+  "id": "case_129",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/comb-paper.png",
+  "condition": "A plastic comb is quickly rubbed on hair and then brought close to small paper scraps. Draw the resulting state.",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Static electricity"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_129/model_image_01.png"
+  ],
+  "errors": []
+}

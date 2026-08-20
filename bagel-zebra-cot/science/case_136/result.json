@@ -1,0 +1,16 @@
+{
+  "id": "case_136",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c006_db021e79a6.png",
+  "condition": "A diamond scribe is slid horizontally across a porcelain plate.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Material hardness"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_136/model_image_01.png"
+  ],
+  "errors": []
+}

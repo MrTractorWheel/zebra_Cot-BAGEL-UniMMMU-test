@@ -1,0 +1,16 @@
+{
+  "id": "case_135",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d27_c005_9eee84b1c7.png",
+  "condition": "A glass scribe is slid horizontally across a quartz crystal plate.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Material hardness"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_135/model_image_01.png"
+  ],
+  "errors": []
+}

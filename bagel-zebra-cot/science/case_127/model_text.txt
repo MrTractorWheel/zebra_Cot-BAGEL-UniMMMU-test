@@ -1,0 +1,2 @@
+<think>The problem describes a sequence of actions involving a balloon and a pile of confetti. The first action is rubbing the balloon with a wool sweater for 2 seconds, which will cause the balloon to become negatively charged. The second action is bringing the negatively charged balloon near the confetti for 3 seconds without touching it. The final state will depend on the interaction between the charged balloon and the confetti.
+To understand the outcome, let's visualize the initial setup of the balloon and confetti.</think>

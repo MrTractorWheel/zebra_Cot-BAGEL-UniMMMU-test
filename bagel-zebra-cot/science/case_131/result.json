@@ -1,0 +1,16 @@
+{
+  "id": "case_131",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/iron-wire.png",
+  "condition": "A thin iron wire is bent back and forth repeatedly at the same spot many times. Draw the final state of the wire.",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Fatigue fracture"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_131/model_image_01.png"
+  ],
+  "errors": []
+}

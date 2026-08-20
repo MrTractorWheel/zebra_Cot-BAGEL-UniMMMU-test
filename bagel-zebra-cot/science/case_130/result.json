@@ -1,0 +1,16 @@
+{
+  "id": "case_130",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d26_c003_9b94736c23.png",
+  "condition": "Material: copper wire; diameter 0.8 mm; length 22 cm; no deliberate notch. Subject the wire to cyclic axial tension-tension loading with 200 N amplitude at 1.2 Hz until the final steady state",
+  "meta": {
+    "level_1": "Material science",
+    "level_2": "Fatigue fracture"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_130/model_image_01.png"
+  ],
+  "errors": []
+}

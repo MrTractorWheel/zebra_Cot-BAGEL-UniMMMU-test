@@ -1,0 +1,16 @@
+{
+  "id": "case_126",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/electrolysis-cuso4.png",
+  "condition": "A copper plate is used as the anode and an iron plate as the cathode, both immersed in a CuSO₄ solution. A direct current of 5 V is applied for 30 minutes. Draw the state of the electrodes and the solution afterward.",
+  "meta": {
+    "level_1": "Electromagnetism",
+    "level_2": "Electro-corrosion"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_126/model_image_01.png"
+  ],
+  "errors": []
+}
