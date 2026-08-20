@@ -1,0 +1,16 @@
+{
+  "id": "case_02",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_02",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c004_82533cc2b7.png",
+  "condition": "A solid block of paraffin wax resting in a shallow metal pan on a stove. Heat the pan to 75°C and maintain for a sufficient time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_02/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_02/model_image_01.png"
+  ],
+  "errors": []
+}

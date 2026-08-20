@@ -1,0 +1,16 @@
+{
+  "id": "case_01",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_01",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d01_c001_52c79f0380.png",
+  "condition": "Solid ice cube placed on a small white ceramic dish in a bright kitchen setting. Place the dish in a room at 25°C; maintain ambient temperature for a sufficiently long time",
+  "meta": {
+    "level_1": "Thermal",
+    "level_2": "Phase change: melting point & boiling point"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_01/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_01/model_image_01.png"
+  ],
+  "errors": []
+}
