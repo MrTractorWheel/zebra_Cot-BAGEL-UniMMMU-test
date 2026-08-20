@@ -1,0 +1,2 @@
+<think>The task is to render the provided SVG code without using external tools. The code defines a simple geometric shape (a rectangle) and uses this shape as a template to create a pattern of smaller rectangles across the canvas. The final image will be a grid of these small rectangles. The summary should describe this pattern.
+To better understand the structure and content of the SVG, let's visualize the raw SVG code as it is.</think>

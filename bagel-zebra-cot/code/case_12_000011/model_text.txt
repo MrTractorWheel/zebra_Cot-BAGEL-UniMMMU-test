@@ -1,0 +1,1 @@
+<think>Summary: A simple, solid black rectangle fills the entire 512x512 pixel canvas. No other shapes, lines, or text are present.</think>

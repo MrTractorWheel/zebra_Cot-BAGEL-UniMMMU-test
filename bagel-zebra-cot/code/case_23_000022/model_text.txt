@@ -1,0 +1,2 @@
+<think>The problem asks to render an SVG without using tools, then output a summary and the final image. The provided SVG contains a white background, a green rectangle, and a blue circle. The rectangle and circle are positioned in the upper-right corner.
+To render the image, I will use a simple text-based rendering engine that respects the provided rules and transforms the SVG code into a visual representation. The final image will show a white background with a green rectangle and a blue circle.</think>

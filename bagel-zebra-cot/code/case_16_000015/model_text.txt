@@ -1,0 +1,8 @@
+<think>Begin with a 512x512 canvas, transparent background, no default fills or strokes.
+Add a white fill for the entire canvas.
+Add a dark gray polygon with 8 vertices, positioned at (342.25, 172.8), (296.3, 140.8), (301.05, 85), (351.75, 61.2), (397.69, 93.21), (392.95, 149), (265.29, 126.45), (374.4, 160.55).
+Add a dark gray path, a smooth curve from (53, 181) to (129, 368) to (350, 264) to (427, 399).
+Add a dark blue line from (225, 449) to (423, 492).
+Add a dark gray path, a smooth curve from (110, 167) to (369, 106) to (221, 87) to (314, 439).
+Add a dark blue polygon with 3 vertices, positioned at (265.29, 126.45), (374.4, 160.55), (290.31, 238).
+The dark gray polygon and path are behind the white fill, the dark blue line and polygon are in front.</think>
