@@ -1,0 +1,16 @@
+{
+  "id": "case_32",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d08_c005_8eef5d5ea6.png",
+  "condition": "Thin white cotton wick partially submerged in blue water inside a beaker. Wait for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Others"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_32/model_image_01.png"
+  ],
+  "errors": []
+}

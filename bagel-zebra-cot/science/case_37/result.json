@@ -1,0 +1,16 @@
+{
+  "id": "case_37",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d09_c005_37b1a20313.png",
+  "condition": "A leaf spring is mounted horizontally and deflected downward by a weight at its center. Remove the weight and let the leaf spring return to its straight, unloaded shape for 2 seconds",
+  "meta": {
+    "level_1": "Classical mechanics",
+    "level_2": "Elasticity"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_37/model_image_01.png"
+  ],
+  "errors": []
+}

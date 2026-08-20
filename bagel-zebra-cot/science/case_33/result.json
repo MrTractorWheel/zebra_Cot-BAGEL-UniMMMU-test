@@ -1,0 +1,16 @@
+{
+  "id": "case_33",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/out-d08_c006_5c4d746a67.png",
+  "condition": "White absorbent paper strip partially dipped into blue water in a beaker. Wait for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Others"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_33/model_image_01.png"
+  ],
+  "errors": []
+}

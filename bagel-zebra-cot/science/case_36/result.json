@@ -1,0 +1,16 @@
+{
+  "id": "case_36",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/absorbent-paper.png",
+  "condition": "A strip of absorbent paper is partially inserted into a container of colored water. Draw the state after sufficient time has passed.",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Others"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_36/model_image_01.png"
+  ],
+  "errors": []
+}

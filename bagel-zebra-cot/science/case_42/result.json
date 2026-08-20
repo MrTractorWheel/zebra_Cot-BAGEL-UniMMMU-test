@@ -1,0 +1,16 @@
+{
+  "id": "case_42",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c003_9d1dd87395.png",
+  "condition": "Phenolphthalein indicator in colorless solution; ammonia base added. Add 5 mL of 0.5 M NH3(aq) to the beaker and swirl for 20 seconds; allow to equilibrate",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Acid-base indicator"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_42/model_image_01.png"
+  ],
+  "errors": []
+}

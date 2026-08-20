@@ -1,0 +1,16 @@
+{
+  "id": "case_39",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/car-braking.png",
+  "condition": "A car is moving forward at speed with loose objects placed inside. The car suddenly brakes to a stop. Draw the final positions of the objects inside the car.",
+  "meta": {
+    "level_1": "Classical mechanics",
+    "level_2": "Inertia and moment of inertia"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_39/model_image_01.png"
+  ],
+  "errors": []
+}

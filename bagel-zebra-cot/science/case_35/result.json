@@ -1,0 +1,16 @@
+{
+  "id": "case_35",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d08_c013_cf8b802b1f.png",
+  "condition": "Small sintered ceramic bead fixed at the bottom of a vertical capillary tube, providing micro-channels for capillary flow. Wait for a sufficiently long time",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Others"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_35/model_image_01.png"
+  ],
+  "errors": []
+}

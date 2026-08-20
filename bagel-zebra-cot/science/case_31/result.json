@@ -1,0 +1,16 @@
+{
+  "id": "case_31",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/paper-boat.png",
+  "condition": "A paper boat is floating on the water surface in a sink. Dishwashing liquid is dropped on the water surface on the left of the boat. Draw the resulting motion of the boat.",
+  "meta": {
+    "level_1": "Fluid mechanics",
+    "level_2": "Surface tension"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_31/model_image_01.png"
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "case_40",
+  "status": "ok",
+  "case_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40",
+  "initial_image": "/marimo/bagel_work/Uni-MMMU/data/science/imgs/d11_c001_2103325b63.png",
+  "condition": "Phenolphthalein indicator in colorless aqueous solution; base will be added. Add 5 mL of 0.1 M NaOH to the beaker and swirl for 20 seconds; allow to equilibrate",
+  "meta": {
+    "level_1": "Chemistry",
+    "level_2": "Acid-base indicator"
+  },
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/science/case_40/model_image_01.png"
+  ],
+  "errors": []
+}
