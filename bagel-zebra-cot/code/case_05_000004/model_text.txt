@@ -1,0 +1,2 @@
+<think>The problem asks to render the given SVG source code without using any external tools. The code defines a basic shape, a white background, and four green circles. The circles are placed at specific coordinates within the viewBox of 0,0,512,512. The final image should show these four green circles on a white background, positioned as specified.
+To visualize the final image, I will generate a sketch based on the provided SVG code.</think>

@@ -1,0 +1,17 @@
+<think>The problem asks to prove that triangle BDF is an equilateral triangle. We are given an equilateral triangle ABC, with D on AB, CD parallel to BE, and CD equal to BE. We also know that triangle BCD is congruent to triangle BAF. We need to use these facts and the constructed line DF.
+
+First, let's establish the properties of the given equilateral triangle ABC. Since ABC is equilateral, all its angles are 60°, and all its sides are equal. Thus, AB = BC = CA, and ∠ABC = ∠BCA = ∠CAB = 60°.
+
+Next, consider the given condition CD // BE and CD = BE. Since CD is parallel to BE and CD = BE, quadrilateral CDBE is a parallelogram. This is because a quadrilateral is a parallelogram if one pair of opposite sides is both parallel and equal in length. In parallelogram CDBE, the opposite sides are equal, so CB = DE.
+
+Now, let's examine the congruence of triangles BCD and BAF. We are given that △BCD ≌ △BAF. By the definition of congruent triangles, their corresponding sides and angles are equal. Therefore, BD = BF, CD = AF, and ∠BCD = ∠BAF. Since BD = BF, triangle BDF is isosceles with BD = BF.
+
+We need to show that triangle BDF is equilateral, which means we need to show that BD = DF. We will use the properties of the parallelogram CDBE and the congruence of triangles BCD and BAF to establish this.
+
+Since CDBE is a parallelogram, CD is parallel to BE. We are given that CD = BE. From the congruence of triangles BCD and BAF, we have CD = AF. Therefore, AF = BE. Since AF = BE and CD = BE, it follows that AF = CD.
+
+Now, consider the triangles AFD and CDB. We have AF = CD (from above), and we need to show that ∠DAF = ∠DCB. Since ∠BCD = ∠BAF (from the congruence of triangles BCD and BAF), and ∠BAF = ∠DAF (as they are the same angle), it follows that ∠DAF = ∠DCB.
+
+Therefore, by the Side-Angle-Side (SAS) congruence criterion, triangles AFD and CDB are congruent. This means that DF = DB.
+
+We already established that BD = BF. Since BD = BF and BD = DF, it follows that BD = BF = DF. Therefore, triangle BDF is equilateral because all its sides are equal.</think>

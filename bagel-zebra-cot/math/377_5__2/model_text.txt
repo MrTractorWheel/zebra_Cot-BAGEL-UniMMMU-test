@@ -1,0 +1,22 @@
+<think>The problem asks for the value of $\tan \angle CAE$. We are given a circle with center $O$, diameter $AB$, and $BD=CD$. $AC=AB$, $BC=12$, and the radius of the circle is 5. We need to find $\tan \angle CAE$.
+
+First, we draw the auxiliary lines $AD$ and $CH \perp AB$.
+Since $AB$ is a diameter, $\angle ADB = 90^\circ$ (angle in a semicircle is a right angle).
+Since $BD=CD$ and $AB=AC$, $\triangle ABC$ is isosceles with $AB=AC$. Thus, $\angle ABC = \angle ACB$.
+Since $CH \perp AB$, $H$ is the midpoint of $AB$ (by the property of an isosceles triangle).
+Since $O$ is the center of the circle and $AB$ is a diameter, $O$ is the midpoint of $AB$. Thus, $H$ and $O$ coincide.
+So, $CH$ is the altitude from $C$ to the base $AB$ of the isosceles $\triangle ABC$. This means $CH$ bisects $\angle ACB$.
+Since $CH \perp AB$, $\triangle ACH$ is a right triangle.
+Since $O$ is the midpoint of $AB$ and $AB=10$ (radius $5$), $AO=BO=5$.
+Since $CH \perp AB$ and $H$ is the midpoint of $AB$, $CH$ is the perpendicular bisector of $AB$. Thus, $AC=BC$.
+But we are given $AC=AB$. Therefore, $AB=BC$.
+Since $AB=BC=10$ and $BC=12$ is given, this implies $AB=10$ and $BC=10$.
+Since $AB=AC$, $\triangle ABC$ is isosceles with $AB=AC=10$.
+Since $AB$ is a diameter, $\angle ACB = 90^\circ$ (angle in a semicircle is a right angle).
+So, $\triangle ABC$ is a right isosceles triangle with legs $AB=AC=10$ and hypotenuse $BC=10\sqrt{2}$.
+Since $CH \perp AB$ and $H$ is the midpoint of $AB$, $CH$ is the altitude from the right angle $C$ to the hypotenuse $AB$.
+In a right isosceles triangle, the altitude to the hypotenuse is half the hypotenuse. Thus, $CH = \frac{1}{2}BC = \frac{1}{2}(10\sqrt{2}) = 5\sqrt{2}$.
+Since $CH \perp AB$ and $H$ is the midpoint of $AB$, $CH$ is the median to the hypotenuse of $\triangle ABC$.
+In a right isosceles triangle, the median to the hypotenuse is equal to half the hypotenuse. Thus, $CH = \frac{1}{2}AB = \frac{1}{2}(10) = 5$.
+This implies $5\sqrt{2} = 5$, which is a contradiction. This means our assumption that $AB=AC$ and $AB=BC$ is incorrect.
+Let's re-examine the problem. We are given $AB$ is a diameter, $BD=CD$, $AC=AB$, $BC=12$,

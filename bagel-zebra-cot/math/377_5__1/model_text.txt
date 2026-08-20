@@ -1,0 +1,3 @@
+<think>The problem asks to prove AB = AC. We are given that AB is a diameter of the circle, so by the Thales' theorem, ∠ADB = 90°. This means AD is perpendicular to BC. Since BD = CD, AD is the perpendicular bisector of BC. Therefore, AB = AC (a line from a point on a circle to the midpoint of a chord is perpendicular to the chord, and if a line is perpendicular to a chord and passes through its midpoint, it is also a diameter, implying equal radii and thus equal chords).
+
+Final Answer: AB = AC.</think>

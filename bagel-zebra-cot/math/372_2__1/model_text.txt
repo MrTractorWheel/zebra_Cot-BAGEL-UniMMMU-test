@@ -1,0 +1,24 @@
+<think>The problem asks for the value of cos∠ACB in the given circle configuration. We are given the radius of the circumcircle (半径) as 5, and the length of the chord AB as 8. We need to find the cosine of the angle subtended by the chord AB at the circumference, ∠ACB.
+
+First, we draw the diameter BD and connect AD. This is an auxiliary line as specified in the task. Now, let's analyze the geometry. Since BD is a diameter, the angle ∠BAD is a right angle (90°). This is because an angle inscribed in a semicircle is a right angle. So, ∠BAD = 90°.
+
+Next, we consider the triangle ABD. We know the length of the hypotenuse BD (which is the diameter of the circle) is 2 * radius = 2 * 5 = 10. We also know the length of the side AB is 8. We can use the Pythagorean theorem to find the length of the side AD. The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. So, in triangle ABD:
+AB² + AD² = BD²
+8² + AD² = 10²
+64 + AD² = 100
+AD² = 100 - 64
+AD² = 36
+AD = √36
+AD = 6
+
+Now we have the lengths of the two sides of the right-angled triangle ABD: AB = 8 and AD = 6. We need to find cos∠ACB. We observe that ∠ACB and ∠ADB are angles subtended by the same chord AB. According to the Inscribed Angle Theorem, angles subtended by the same chord in a circle are equal. Therefore, ∠ACB = ∠ADB.
+
+Since ∠ADB is an angle in the right-angled triangle ABD, we can find its cosine. The cosine of an angle in a right-angled triangle is defined as the ratio of the length of the adjacent side to the hypotenuse. In triangle ABD, ∠ADB is the angle at D. The side AD is adjacent to ∠ADB, and the side BD is the hypotenuse.
+cos∠ADB = AD / BD
+cos∠ADB = 6 / 10
+cos∠ADB = 3 / 5
+
+Since ∠ACB = ∠ADB, we have:
+cos∠ACB = cos∠ADB = 3 / 5
+
+Therefore, the value of cos∠ACB is 3/5.</think>

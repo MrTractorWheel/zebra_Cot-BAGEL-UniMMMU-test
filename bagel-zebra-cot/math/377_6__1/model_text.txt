@@ -1,0 +1,49 @@
+<think>The problem asks to prove that BE=DF and BE⊥DF in the given geometric configuration. The provided image shows the original diagram with the square ABCD and the isosceles right triangle AEF, along with the points E, F, and the lines DF and BE. The task requires us to draw the auxiliary line DN (where N is the intersection of DF and BE) and then use this construction to establish the required properties.
+
+First, let's establish the properties of the given shapes:
+1. Square ABCD: All sides are equal (AB = BC = CD = DA), and all angles are 90° (e.g., ∠BAD = 90°).
+2. Isosceles right triangle AEF: AE = AF, and ∠EAF = 90°.
+3. The given angles ∠BAD and ∠EAF are both 90°, so ∠EAF = ∠BAD.
+
+Next, we need to analyze the triangles involved. We will focus on triangles AEF and ADF. We will show that these triangles are congruent, which will allow us to establish the equality of BE and DF. The key is to find a pair of congruent triangles that can be used to show BE = DF.
+
+Consider triangles AEF and ADF:
+- AE = AF (given, triangle AEF is isosceles).
+- AD = AB (sides of square ABCD).
+- ∠EAF = ∠BAD (both are 90°).
+- ∠EAF = ∠EAD + ∠DAF (angle addition).
+- ∠BAD = ∠EAD + ∠BAE (angle addition).
+- Since ∠EAF = ∠BAD, it follows that ∠EAD + ∠DAF = ∠EAD + ∠BAE.
+- Subtracting ∠EAD from both sides gives ∠DAF = ∠BAE.
+
+Now, we have two sides and the included angle equal:
+- AE = AF (given).
+- AD = AB (sides of square ABCD).
+- ∠DAF = ∠BAE (proven above).
+
+By the Side-Angle-Side (SAS) congruence criterion, triangles AEF and ADF are congruent:
+- ∆AEF ≅ ∆ADF.
+
+Since the triangles are congruent, their corresponding sides are equal:
+- EF = DF.
+- AE = AD.
+
+Next, we need to show that BE = DF. We have already established that EF = DF. If we can show that EF = BE, then BE = DF. To do this, we need to show that ∠AEF = ∠ABE.
+
+Consider triangles AEF and ABE:
+- AE = AB (sides of square ABCD).
+- ∠EAF = ∠BAE (proven above).
+- AF = AE (given, triangle AEF is isosceles).
+
+By the Side-Angle-Side (SAS) congruence criterion, triangles AEF and ABE are congruent:
+- ∆AEF ≅ ∆ABE.
+
+Since the triangles are congruent, their corresponding sides are equal:
+- EF = BE.
+
+Since EF = DF and EF = BE, it follows that BE = DF.
+
+Now, we need to show that BE ⊥ DF. We have established that BE = DF. We will show that ∠ENF = 90°, where N is the intersection of BE and DF.
+
+Consider triangles AEF and ABE (which are congruent). Since they are congruent, their corresponding angles are equal:
+- ∠AEF = �

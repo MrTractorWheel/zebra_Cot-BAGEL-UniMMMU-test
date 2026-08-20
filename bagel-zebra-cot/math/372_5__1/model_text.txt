@@ -1,0 +1,6 @@
+<think>The problem asks us to prove that AB = AC in triangle ABC, given that AB is a diameter of the circle, BD = CD, and D is a point on the circle where BC intersects it. We are given the base figure and the task to add the auxiliary line AD.
+First, we draw the auxiliary line AD. This line connects vertex A of triangle ABC to point D on the circle. This construction helps us establish relationships between the angles and sides of the triangle and the circle.
+
+Let's analyze the angles in the diagram. Since AB is a diameter of the circle, by the Inscribed Angle Theorem, the angle subtended by a diameter at the circumference is a right angle. Therefore, ∠ADB = 90°. This means that AD is perpendicular to BC at point D.
+Since AD is perpendicular to BC and BD = CD, AD is the perpendicular bisector of segment BC. By the Perpendicular Bisector Theorem, a point on the perpendicular bisector of a segment is equidistant from the endpoints of the segment. Therefore, AB = AC.
+This completes the proof that AB = AC.</think>

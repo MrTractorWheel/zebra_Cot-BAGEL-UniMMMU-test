@@ -1,0 +1,3 @@
+<think>The problem requires me to render the given SVG code without using any external tools. I will follow the provided rules strictly. The SVG code defines a canvas with a white background and a single shape: a blue rectangle positioned at (341, 206) with dimensions 71x112. I will render this shape on the canvas.
+
+To visualize the result, I will generate an image based on the provided SVG code.</think>
