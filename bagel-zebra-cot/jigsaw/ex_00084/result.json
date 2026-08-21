@@ -1,0 +1,15 @@
+{
+  "id": "ex_00084",
+  "dataset_index": 84,
+  "status": "ok",
+  "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084",
+  "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00084/ref_2x2.png",
+  "cand0": "./data/jigsaw_dataset_2x2ref/ex_00084/cand0.png",
+  "cand1": "./data/jigsaw_dataset_2x2ref/ex_00084/cand1.png",
+  "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_text.txt",
+  "images_saved": [
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_image_01.png",
+    "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_image_02.png"
+  ],
+  "errors": []
+}
