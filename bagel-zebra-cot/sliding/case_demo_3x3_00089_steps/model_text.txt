@@ -1,0 +1,1 @@
+<think>Final Answer: ["down", "right", "right"]</think>
