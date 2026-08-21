@@ -1,3 +1,8 @@
 {
-  "science": "completed"
+  "science": "completed",
+  "math": "completed",
+  "code": "completed",
+  "jigsaw": "partial (resume next session)",
+  "sliding": "not_started",
+  "maze": "not_started"
 }
