@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>[{"choice": 0, "rationale": "Candidate 0's ship and waves blend seamlessly with the reference."}]</FINAL_ANSWER_JSON>

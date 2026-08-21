@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 seamlessly matches the existing hair texture and color, while Candidate 1 disrupts the visual flow."}</FINAL_ANSWER_JSON>
