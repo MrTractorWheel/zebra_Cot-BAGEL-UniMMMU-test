@@ -3,1659 +3,609 @@
   "count_total": 150,
   "per_item": [
     {
-      "id": "ex_00000",
-      "dataset_index": 0,
+      "id": "ex_00110",
+      "dataset_index": 110,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00000",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00000/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00000/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00000/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00000/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00110",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00110/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00110/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00110/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00110/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00000/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00000/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00110/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00110/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00001",
-      "dataset_index": 1,
+      "id": "ex_00111",
+      "dataset_index": 111,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00001",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00001/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00001/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00001/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00001/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00111",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00111/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00111/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00111/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00111/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00001/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00001/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00111/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00111/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00002",
-      "dataset_index": 2,
+      "id": "ex_00112",
+      "dataset_index": 112,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00002",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00002/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00002/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00002/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00002/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00112",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00112/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00112/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00112/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00112/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00002/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00002/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00112/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00112/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00003",
-      "dataset_index": 3,
+      "id": "ex_00113",
+      "dataset_index": 113,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00003",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00003/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00003/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00003/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00003/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00113",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00113/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00113/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00113/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00113/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00003/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00003/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00113/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00113/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00004",
-      "dataset_index": 4,
+      "id": "ex_00114",
+      "dataset_index": 114,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00004",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00004/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00004/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00004/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00004/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00114",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00114/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00114/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00114/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00114/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00004/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00004/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00114/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00114/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00005",
-      "dataset_index": 5,
+      "id": "ex_00115",
+      "dataset_index": 115,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00005",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00005/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00005/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00005/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00005/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00115",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00115/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00115/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00115/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00115/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00005/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00005/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00115/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00115/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00006",
-      "dataset_index": 6,
+      "id": "ex_00116",
+      "dataset_index": 116,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00006",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00006/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00006/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00006/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00006/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00116",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00116/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00116/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00116/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00116/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00006/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00006/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00116/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00116/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00007",
-      "dataset_index": 7,
+      "id": "ex_00117",
+      "dataset_index": 117,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00007",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00007/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00007/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00007/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00007/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00117",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00117/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00117/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00117/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00117/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00007/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00007/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00117/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00117/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00008",
-      "dataset_index": 8,
+      "id": "ex_00118",
+      "dataset_index": 118,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00008",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00008/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00008/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00008/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00008/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00118",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00118/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00118/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00118/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00118/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00008/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00008/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00118/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00118/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00009",
-      "dataset_index": 9,
+      "id": "ex_00119",
+      "dataset_index": 119,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00009",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00009/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00009/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00009/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00009/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00119",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00119/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00119/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00119/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00119/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00009/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00009/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00119/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00119/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00010",
-      "dataset_index": 10,
+      "id": "ex_00120",
+      "dataset_index": 120,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00010",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00010/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00010/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00010/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00010/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00120",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00120/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00120/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00120/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00120/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00010/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00010/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00120/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00120/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00011",
-      "dataset_index": 11,
+      "id": "ex_00121",
+      "dataset_index": 121,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00011",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00011/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00011/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00011/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00011/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00121",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00121/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00121/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00121/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00121/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00011/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00011/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00121/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00121/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00012",
-      "dataset_index": 12,
+      "id": "ex_00122",
+      "dataset_index": 122,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00012",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00012/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00012/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00012/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00012/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00122",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00122/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00122/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00122/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00122/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00012/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00012/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00122/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00122/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00013",
-      "dataset_index": 13,
+      "id": "ex_00123",
+      "dataset_index": 123,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00013",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00013/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00013/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00013/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00013/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00123",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00123/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00123/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00123/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00123/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00013/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00013/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00123/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00123/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00014",
-      "dataset_index": 14,
+      "id": "ex_00124",
+      "dataset_index": 124,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00014",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00014/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00014/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00014/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00014/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00124",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00124/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00124/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00124/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00124/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00014/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00014/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00124/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00124/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00015",
-      "dataset_index": 15,
+      "id": "ex_00125",
+      "dataset_index": 125,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00015",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00015/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00015/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00015/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00015/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00125",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00125/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00125/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00125/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00125/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00015/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00015/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00125/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00125/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00016",
-      "dataset_index": 16,
+      "id": "ex_00126",
+      "dataset_index": 126,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00016",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00016/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00016/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00016/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00016/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00126",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00126/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00126/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00126/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00126/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00016/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00016/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00126/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00126/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00017",
-      "dataset_index": 17,
+      "id": "ex_00127",
+      "dataset_index": 127,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00017",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00017/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00017/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00017/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00017/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00127",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00127/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00127/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00127/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00127/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00017/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00017/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00127/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00127/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00018",
-      "dataset_index": 18,
+      "id": "ex_00128",
+      "dataset_index": 128,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00018",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00018/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00018/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00018/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00018/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00128",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00128/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00128/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00128/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00128/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00018/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00018/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00128/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00128/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00019",
-      "dataset_index": 19,
+      "id": "ex_00129",
+      "dataset_index": 129,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00019",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00019/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00019/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00019/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00019/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00129",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00129/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00129/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00129/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00129/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00019/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00019/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00129/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00129/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00020",
-      "dataset_index": 20,
+      "id": "ex_00130",
+      "dataset_index": 130,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00020",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00020/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00020/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00020/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00020/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00130",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00130/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00130/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00130/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00130/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00020/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00020/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00130/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00130/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00021",
-      "dataset_index": 21,
+      "id": "ex_00131",
+      "dataset_index": 131,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00021",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00021/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00021/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00021/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00021/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00131",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00131/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00131/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00131/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00131/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00021/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00021/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00131/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00131/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00022",
-      "dataset_index": 22,
+      "id": "ex_00132",
+      "dataset_index": 132,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00022",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00022/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00022/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00022/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00022/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00132",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00132/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00132/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00132/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00132/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00022/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00022/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00132/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00132/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00023",
-      "dataset_index": 23,
+      "id": "ex_00133",
+      "dataset_index": 133,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00023",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00023/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00023/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00023/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00023/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00133",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00133/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00133/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00133/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00133/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00023/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00023/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00133/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00133/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00024",
-      "dataset_index": 24,
+      "id": "ex_00134",
+      "dataset_index": 134,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00024",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00024/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00024/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00024/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00024/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00134",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00134/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00134/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00134/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00134/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00024/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00024/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00134/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00134/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00025",
-      "dataset_index": 25,
+      "id": "ex_00135",
+      "dataset_index": 135,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00025",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00025/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00025/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00025/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00025/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00135",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00135/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00135/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00135/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00135/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00025/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00025/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00135/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00135/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00026",
-      "dataset_index": 26,
+      "id": "ex_00136",
+      "dataset_index": 136,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00026",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00026/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00026/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00026/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00026/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00136",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00136/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00136/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00136/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00136/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00026/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00026/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00136/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00136/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00027",
-      "dataset_index": 27,
+      "id": "ex_00137",
+      "dataset_index": 137,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00027",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00027/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00027/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00027/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00027/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00137",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00137/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00137/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00137/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00137/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00027/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00027/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00137/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00137/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00028",
-      "dataset_index": 28,
+      "id": "ex_00138",
+      "dataset_index": 138,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00028",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00028/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00028/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00028/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00028/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00138",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00138/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00138/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00138/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00138/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00028/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00028/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00138/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00138/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00029",
-      "dataset_index": 29,
+      "id": "ex_00139",
+      "dataset_index": 139,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00029",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00029/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00029/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00029/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00029/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00139",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00139/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00139/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00139/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00139/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00029/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00029/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00139/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00139/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00030",
-      "dataset_index": 30,
+      "id": "ex_00140",
+      "dataset_index": 140,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00030",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00030/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00030/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00030/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00030/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00140",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00140/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00140/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00140/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00140/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00030/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00030/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00140/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00140/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00031",
-      "dataset_index": 31,
+      "id": "ex_00141",
+      "dataset_index": 141,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00031",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00031/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00031/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00031/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00031/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00141",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00141/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00141/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00141/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00141/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00031/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00031/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00141/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00141/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00032",
-      "dataset_index": 32,
+      "id": "ex_00142",
+      "dataset_index": 142,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00032",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00032/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00032/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00032/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00032/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00142",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00142/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00142/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00142/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00142/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00032/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00032/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00142/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00142/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00033",
-      "dataset_index": 33,
+      "id": "ex_00143",
+      "dataset_index": 143,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00033",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00033/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00033/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00033/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00033/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00143",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00143/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00143/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00143/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00143/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00033/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00033/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00143/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00143/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00034",
-      "dataset_index": 34,
+      "id": "ex_00144",
+      "dataset_index": 144,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00034",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00034/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00034/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00034/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00034/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00144",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00144/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00144/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00144/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00144/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00034/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00034/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00144/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00144/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00035",
-      "dataset_index": 35,
+      "id": "ex_00145",
+      "dataset_index": 145,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00035",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00035/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00035/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00035/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00035/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00145",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00145/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00145/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00145/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00145/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00035/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00035/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00145/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00145/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00036",
-      "dataset_index": 36,
+      "id": "ex_00146",
+      "dataset_index": 146,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00036",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00036/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00036/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00036/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00036/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00146",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00146/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00146/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00146/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00146/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00036/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00036/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00146/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00146/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00037",
-      "dataset_index": 37,
+      "id": "ex_00147",
+      "dataset_index": 147,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00037",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00037/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00037/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00037/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00037/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00147",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00147/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00147/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00147/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00147/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00037/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00037/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00147/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00147/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00038",
-      "dataset_index": 38,
+      "id": "ex_00148",
+      "dataset_index": 148,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00038",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00038/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00038/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00038/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00038/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00148",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00148/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00148/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00148/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00148/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00038/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00038/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00148/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00148/model_image_02.png"
       ],
       "errors": []
     },
     {
-      "id": "ex_00039",
-      "dataset_index": 39,
+      "id": "ex_00149",
+      "dataset_index": 149,
       "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00039",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00039/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00039/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00039/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00039/model_text.txt",
+      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00149",
+      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00149/ref_2x2.png",
+      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00149/cand0.png",
+      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00149/cand1.png",
+      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00149/model_text.txt",
       "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00039/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00039/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00040",
-      "dataset_index": 40,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00040",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00040/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00040/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00040/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00040/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00040/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00040/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00041",
-      "dataset_index": 41,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00041",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00041/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00041/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00041/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00041/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00041/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00041/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00042",
-      "dataset_index": 42,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00042",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00042/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00042/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00042/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00042/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00042/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00042/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00043",
-      "dataset_index": 43,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00043",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00043/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00043/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00043/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00043/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00043/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00043/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00044",
-      "dataset_index": 44,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00044",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00044/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00044/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00044/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00044/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00044/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00044/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00045",
-      "dataset_index": 45,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00045",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00045/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00045/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00045/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00045/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00045/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00045/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00046",
-      "dataset_index": 46,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00046",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00046/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00046/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00046/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00046/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00046/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00046/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00047",
-      "dataset_index": 47,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00047",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00047/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00047/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00047/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00047/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00047/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00047/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00048",
-      "dataset_index": 48,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00048",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00048/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00048/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00048/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00048/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00048/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00048/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00049",
-      "dataset_index": 49,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00049",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00049/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00049/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00049/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00049/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00049/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00049/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00050",
-      "dataset_index": 50,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00050",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00050/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00050/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00050/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00050/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00050/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00050/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00051",
-      "dataset_index": 51,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00051",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00051/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00051/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00051/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00051/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00051/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00051/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00052",
-      "dataset_index": 52,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00052",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00052/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00052/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00052/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00052/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00052/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00052/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00053",
-      "dataset_index": 53,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00053",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00053/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00053/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00053/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00053/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00053/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00053/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00054",
-      "dataset_index": 54,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00054",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00054/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00054/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00054/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00054/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00054/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00054/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00055",
-      "dataset_index": 55,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00055",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00055/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00055/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00055/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00055/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00055/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00055/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00056",
-      "dataset_index": 56,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00056",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00056/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00056/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00056/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00056/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00056/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00056/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00057",
-      "dataset_index": 57,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00057",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00057/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00057/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00057/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00057/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00057/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00057/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00058",
-      "dataset_index": 58,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00058",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00058/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00058/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00058/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00058/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00058/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00058/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00059",
-      "dataset_index": 59,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00059",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00059/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00059/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00059/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00059/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00059/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00059/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00060",
-      "dataset_index": 60,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00060",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00060/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00060/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00060/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00060/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00060/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00060/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00061",
-      "dataset_index": 61,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00061",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00061/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00061/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00061/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00061/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00061/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00061/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00062",
-      "dataset_index": 62,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00062",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00062/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00062/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00062/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00062/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00062/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00062/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00063",
-      "dataset_index": 63,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00063",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00063/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00063/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00063/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00063/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00063/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00063/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00064",
-      "dataset_index": 64,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00064",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00064/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00064/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00064/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00064/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00064/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00064/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00065",
-      "dataset_index": 65,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00065",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00065/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00065/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00065/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00065/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00065/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00065/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00066",
-      "dataset_index": 66,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00066",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00066/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00066/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00066/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00066/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00066/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00066/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00067",
-      "dataset_index": 67,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00067",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00067/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00067/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00067/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00067/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00067/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00067/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00068",
-      "dataset_index": 68,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00068",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00068/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00068/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00068/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00068/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00068/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00068/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00069",
-      "dataset_index": 69,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00069",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00069/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00069/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00069/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00069/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00069/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00069/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00070",
-      "dataset_index": 70,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00070",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00070/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00070/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00070/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00070/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00070/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00070/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00071",
-      "dataset_index": 71,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00071",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00071/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00071/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00071/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00071/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00071/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00071/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00072",
-      "dataset_index": 72,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00072",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00072/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00072/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00072/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00072/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00072/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00072/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00073",
-      "dataset_index": 73,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00073",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00073/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00073/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00073/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00073/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00073/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00073/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00074",
-      "dataset_index": 74,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00074",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00074/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00074/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00074/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00074/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00074/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00074/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00075",
-      "dataset_index": 75,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00075",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00075/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00075/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00075/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00075/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00075/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00075/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00076",
-      "dataset_index": 76,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00076",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00076/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00076/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00076/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00076/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00076/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00076/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00077",
-      "dataset_index": 77,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00077",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00077/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00077/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00077/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00077/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00077/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00077/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00078",
-      "dataset_index": 78,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00078",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00078/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00078/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00078/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00078/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00078/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00078/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00079",
-      "dataset_index": 79,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00079",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00079/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00079/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00079/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00079/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00079/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00079/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00080",
-      "dataset_index": 80,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00080",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00080/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00080/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00080/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00080/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00080/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00080/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00081",
-      "dataset_index": 81,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00081",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00081/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00081/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00081/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00081/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00081/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00081/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00082",
-      "dataset_index": 82,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00082",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00082/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00082/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00082/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00082/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00082/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00082/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00083",
-      "dataset_index": 83,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00083",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00083/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00083/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00083/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00083/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00083/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00083/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00084",
-      "dataset_index": 84,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00084/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00084/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00084/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00084/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00085",
-      "dataset_index": 85,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00085",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00085/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00085/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00085/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00085/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00085/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00085/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00086",
-      "dataset_index": 86,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00086",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00086/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00086/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00086/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00086/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00086/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00086/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00087",
-      "dataset_index": 87,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00087",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00087/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00087/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00087/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00087/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00087/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00087/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00088",
-      "dataset_index": 88,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00088",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00088/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00088/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00088/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00088/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00088/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00088/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00089",
-      "dataset_index": 89,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00089",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00089/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00089/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00089/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00089/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00089/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00089/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00090",
-      "dataset_index": 90,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00090",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00090/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00090/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00090/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00090/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00090/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00090/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00091",
-      "dataset_index": 91,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00091",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00091/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00091/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00091/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00091/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00091/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00091/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00092",
-      "dataset_index": 92,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00092",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00092/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00092/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00092/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00092/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00092/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00092/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00093",
-      "dataset_index": 93,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00093",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00093/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00093/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00093/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00093/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00093/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00093/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00094",
-      "dataset_index": 94,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00094",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00094/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00094/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00094/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00094/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00094/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00094/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00095",
-      "dataset_index": 95,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00095",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00095/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00095/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00095/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00095/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00095/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00095/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00096",
-      "dataset_index": 96,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00096",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00096/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00096/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00096/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00096/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00096/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00096/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00097",
-      "dataset_index": 97,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00097",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00097/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00097/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00097/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00097/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00097/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00097/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00098",
-      "dataset_index": 98,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00098",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00098/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00098/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00098/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00098/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00098/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00098/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00099",
-      "dataset_index": 99,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00099",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00099/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00099/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00099/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00099/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00099/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00099/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00100",
-      "dataset_index": 100,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00100",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00100/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00100/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00100/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00100/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00100/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00100/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00101",
-      "dataset_index": 101,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00101",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00101/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00101/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00101/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00101/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00101/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00101/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00102",
-      "dataset_index": 102,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00102",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00102/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00102/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00102/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00102/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00102/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00102/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00103",
-      "dataset_index": 103,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00103",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00103/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00103/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00103/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00103/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00103/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00103/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00104",
-      "dataset_index": 104,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00104",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00104/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00104/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00104/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00104/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00104/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00104/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00105",
-      "dataset_index": 105,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00105",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00105/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00105/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00105/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00105/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00105/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00105/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00106",
-      "dataset_index": 106,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00106",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00106/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00106/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00106/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00106/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00106/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00106/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00107",
-      "dataset_index": 107,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00107",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00107/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00107/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00107/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00107/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00107/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00107/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00108",
-      "dataset_index": 108,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00108",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00108/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00108/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00108/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00108/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00108/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00108/model_image_02.png"
-      ],
-      "errors": []
-    },
-    {
-      "id": "ex_00109",
-      "dataset_index": 109,
-      "status": "ok",
-      "ex_dir": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00109",
-      "ref_2x2": "./data/jigsaw_dataset_2x2ref/ex_00109/ref_2x2.png",
-      "cand0": "./data/jigsaw_dataset_2x2ref/ex_00109/cand0.png",
-      "cand1": "./data/jigsaw_dataset_2x2ref/ex_00109/cand1.png",
-      "text_file": "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00109/model_text.txt",
-      "images_saved": [
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00109/model_image_01.png",
-        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00109/model_image_02.png"
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00149/model_image_01.png",
+        "/marimo/bagel_work/Uni-MMMU/outputs/bagel-zebra-cot/jigsaw/ex_00149/model_image_02.png"
       ],
       "errors": []
     }
   ],
-  "count_processed": 110,
-  "count_success": 110,
+  "count_processed": 40,
+  "count_success": 40,
   "count_error": 0,
-  "count_skipped": 0,
-  "completed": false
+  "count_skipped": 110,
+  "completed": true
 }
