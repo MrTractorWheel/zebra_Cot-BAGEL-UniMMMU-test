@@ -1,0 +1,1 @@
+<ANSWER是:  ["down", "right", "right"]</ANSWER>
