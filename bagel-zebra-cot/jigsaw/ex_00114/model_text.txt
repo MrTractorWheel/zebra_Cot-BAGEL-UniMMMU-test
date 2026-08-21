@@ -1,0 +1,1 @@
+<FINAL_ANSWER_JSON>{"choice": 0, "rationale": "Candidate 0 seamlessly continues the mountain and sky textures, matching the reference's visual flow."}</FINAL_ANSWER_JSON>
