@@ -1,0 +1,1 @@
+<ANSWER>Final Answer: ["right", "down", "left"]</ANSWER>
