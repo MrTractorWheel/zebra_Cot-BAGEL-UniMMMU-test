@@ -1,0 +1,1 @@
+<ANSWERinch>["up", "left", "up"]</ANSWERinch>
